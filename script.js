@@ -44,7 +44,7 @@ const previousButton = d3.select("#previous");
 const nextButton = d3.select("#next");
 const sceneNumber = d3.select("#scene-number");
 
-d3.csv("data/health.csv")
+d3.csv("data/healthData.csv")
   .then(function(data) {
     healthData = data.map(function(d) {
       return {
