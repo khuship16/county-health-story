@@ -1,0 +1,2957 @@
+state_abbr,state,county,fips,population,obesity,diabetes,inactivity
+OK,Oklahoma,Haskell,40061,"11,832",42.2,15.4,36.3
+IL,Illinois,Lake,17097,"708,760",32.9,11.2,19.9
+KS,Kansas,Atchison,20005,"16,016",37.0,11.2,27.7
+AK,Alaska,Anchorage,02020,"286,075",35.0,8.9,19.8
+OK,Oklahoma,Seminole,40133,"23,565",45.0,16.1,37.9
+WV,West Virginia,Mineral,54057,"26,867",39.3,15.2,30.9
+MN,Minnesota,Blue Earth,27013,"70,006",33.8,9.4,23.0
+NE,Nebraska,Buffalo,31019,"50,697",37.3,9.6,23.7
+VA,Virginia,Albemarle,51003,"115,676",28.2,10.2,19.4
+TX,Texas,Hemphill,48211,"3,189",32.7,11.6,25.5
+MO,Missouri,Shelby,29205,"5,931",40.3,14.9,34.9
+MO,Missouri,Carroll,29033,"8,391",38.6,13.9,33.7
+TN,Tennessee,Dyer,47045,"36,498",39.4,14.9,30.5
+SD,South Dakota,Minnehaha,46099,"206,930",37.4,10.6,23.3
+IA,Iowa,Chickasaw,19037,"11,658",39.4,12.6,27.5
+NY,New York,Seneca,36099,"32,349",34.7,11.6,28.4
+MN,Minnesota,Faribault,27043,"13,873",37.6,12.8,28.9
+NE,Nebraska,Nance,31125,"3,274",41.0,12.7,28.6
+OH,Ohio,Mahoning,39099,"225,596",38.6,14.8,28.2
+MS,Mississippi,Chickasaw,28017,"16,866",43.3,18.4,38.9
+IL,Illinois,Hamilton,17065,"7,911",40.0,13.9,26.8
+TX,Texas,Goliad,48175,"7,144",37.0,15.6,30.4
+MS,Mississippi,Sunflower,28133,"24,468",48.6,19.3,41.8
+FL,Florida,Monroe,12087,"80,614",25.8,13.2,23.8
+TX,Texas,Taylor,48441,"146,836",34.3,11.2,26.1
+MN,Minnesota,Norman,27107,"6,329",35.6,12.5,26.7
+TN,Tennessee,Hancock,47067,"6,956",43.0,20.3,39.0
+AR,Arkansas,Grant,05053,"18,383",36.9,12.0,29.6
+VA,Virginia,Pittsylvania,51143,"59,571",41.6,17.5,33.3
+NM,New Mexico,Santa Fe,35049,"155,956",25.6,12.6,21.4
+ME,Maine,Sagadahoc,23023,"37,513",29.6,10.8,22.2
+LA,Louisiana,Tensas,22107,"3,764",48.4,25.1,43.1
+WI,Wisconsin,Buffalo,55011,"13,419",39.6,12.8,29.9
+IN,Indiana,Perry,18123,"19,209",37.6,13.4,25.8
+SC,South Carolina,Greenwood,45047,"69,460",36.8,15.4,28.5
+AZ,Arizona,Graham,04009,"39,525",36.0,11.4,25.6
+SC,South Carolina,Edgefield,45037,"27,607",39.9,16.2,29.0
+WV,West Virginia,Hardy,54031,"14,251",41.9,19.0,36.3
+OH,Ohio,Pickaway,39129,"61,086",39.8,12.6,29.4
+OH,Ohio,Wood,39173,"132,650",37.4,10.7,22.9
+MS,Mississippi,Noxubee,28103,"9,914",46.4,21.2,42.1
+ND,North Dakota,Rolette,38079,"11,728",50.2,17.9,34.5
+MT,Montana,Park,30067,"17,903",30.4,10.5,22.2
+UT,Utah,Beaver,49001,"7,233",28.5,9.8,19.3
+OH,Ohio,Geauga,39055,"95,407",32.6,12.4,23.2
+NH,New Hampshire,Carroll,33003,"52,448",30.7,10.7,20.5
+ND,North Dakota,Billings,38007,"1,034",36.4,12.1,24.8
+GA,Georgia,Long,13183,"19,594",38.4,12.4,29.7
+MO,Missouri,Oregon,29149,"8,720",41.1,16.5,37.0
+FL,Florida,Hernando,12053,"212,807",36.1,14.9,27.7
+NE,Nebraska,Richardson,31147,"7,689",45.3,14.0,31.5
+VA,Virginia,Madison,51113,"14,128",37.8,13.7,25.6
+MI,Michigan,Antrim,26009,"24,409",36.4,12.8,23.3
+IA,Iowa,Lee,19111,"32,565",37.6,12.9,28.1
+KS,Kansas,Decatur,20039,"2,712",36.6,13.4,27.7
+VA,Virginia,Colonial Heights,51570,"18,393",37.4,12.3,25.1
+FL,Florida,Columbia,12023,"73,063",39.7,15.1,31.5
+IL,Illinois,Grundy,17063,"53,578",36.4,10.3,22.3
+CO,Colorado,Baca,08009,"3,344",29.9,13.4,26.0
+NC,North Carolina,Bertie,37015,"16,922",43.0,19.3,34.2
+KS,Kansas,Barber,20007,"4,071",38.6,13.8,29.5
+NY,New York,Columbia,36021,"60,470",30.8,11.8,24.6
+MI,Michigan,Wexford,26165,"34,122",39.0,13.0,26.4
+UT,Utah,Grand,49019,"9,706",28.3,11.2,20.1
+TX,Texas,El Paso,48141,"869,880",34.0,15.4,33.4
+GA,Georgia,Talbot,13263,"5,718",43.1,22.1,37.7
+NY,New York,Hamilton,36041,"5,082",31.0,13.4,27.0
+TN,Tennessee,Polk,47139,"18,033",43.7,15.1,30.5
+SD,South Dakota,Walworth,46129,"5,269",34.3,13.4,25.1
+TN,Tennessee,Lewis,47101,"13,066",39.2,14.9,29.8
+KS,Kansas,Pawnee,20145,"6,126",38.2,12.7,29.0
+TX,Texas,Brazoria,48039,"398,938",36.3,12.0,25.6
+NC,North Carolina,Vance,37181,"42,301",42.6,16.8,31.3
+GA,Georgia,Jeff Davis,13161,"14,906",40.4,16.4,35.7
+TX,Texas,Castro,48069,"7,227",38.2,15.5,34.2
+CA,California,Solano,06095,"449,218",31.3,12.1,25.1
+KS,Kansas,Leavenworth,20103,"83,518",39.8,10.8,23.2
+AL,Alabama,Autauga,01001,"60,342",39.8,13.3,27.0
+ME,Maine,Androscoggin,23001,"113,765",35.8,12.1,26.9
+SC,South Carolina,Clarendon,45027,"31,004",38.0,19.6,33.7
+IN,Indiana,Tippecanoe,18157,"188,792",27.9,10.0,20.9
+ID,Idaho,Bannock,16005,"90,400",33.0,9.7,21.8
+IL,Illinois,Moultrie,17139,"14,342",38.4,11.6,24.7
+NM,New Mexico,Rio Arriba,35039,"39,876",39.9,17.2,30.8
+MI,Michigan,Oakland,26125,"1,270,426",31.3,10.2,19.1
+NC,North Carolina,New Hanover,37129,"238,852",31.1,10.6,20.9
+NC,North Carolina,Martin,37117,"21,447",40.4,17.8,31.2
+AK,Alaska,Northwest Arctic,02188,"7,361",40.6,14.1,30.2
+MO,Missouri,Mercer,29129,"3,469",41.1,15.6,35.7
+MO,Missouri,Montgomery,29139,"11,459",37.3,13.9,33.7
+NE,Nebraska,Franklin,31061,"2,825",39.2,14.2,30.7
+GA,Georgia,Lumpkin,13187,"35,258",28.9,11.5,24.8
+FL,Florida,Jackson,12063,"48,622",38.7,15.6,31.7
+SC,South Carolina,York,45091,"298,320",37.3,11.8,23.3
+NY,New York,Livingston,36051,"61,158",30.8,10.1,23.1
+MD,Maryland,Carroll,24013,"176,639",37.7,10.3,23.2
+OH,Ohio,Hardin,39065,"30,368",40.3,12.9,30.4
+NV,Nevada,Clark,32003,"2,336,573",31.4,12.4,27.1
+GA,Georgia,Camden,13039,"58,118",37.2,12.3,27.1
+KS,Kansas,Seward,20175,"21,067",42.7,13.4,37.5
+AR,Arkansas,Prairie,05117,"8,036",40.3,15.1,34.9
+MD,Maryland,Queen Anne's,24035,"52,508",29.4,11.6,20.9
+GA,Georgia,Terrell,13273,"8,718",43.6,21.2,39.7
+LA,Louisiana,St. Bernard,22087,"44,463",42.8,15.3,33.6
+TN,Tennessee,Sumner,47165,"207,994",40.6,12.2,23.6
+ID,Idaho,Lemhi,16059,"8,441",30.4,12.7,26.3
+WA,Washington,Mason,53045,"68,389",35.9,12.2,21.4
+IN,Indiana,Porter,18127,"175,335",39.9,12.5,25.5
+VT,Vermont,Bennington,50003,"37,183",30.5,10.0,20.0
+WI,Wisconsin,Iowa,55049,"23,956",38.7,11.3,28.3
+NC,North Carolina,Edgecombe,37065,"48,832",43.7,17.9,33.5
+OR,Oregon,Baker,41001,"16,912",37.7,13.6,21.3
+OH,Ohio,Scioto,39145,"71,969",44.7,15.3,35.9
+VA,Virginia,Norton,51720,"3,492",40.8,14.9,31.3
+MO,Missouri,Webster,29225,"41,472",41.7,12.2,31.1
+MS,Mississippi,Attala,28007,"17,359",42.6,16.9,37.3
+AR,Arkansas,Benton,05007,"311,013",35.3,10.3,25.7
+OH,Ohio,Muskingum,39119,"86,305",43.9,14.4,29.9
+IL,Illinois,Shelby,17173,"20,568",37.6,13.0,24.8
+IN,Indiana,Hendricks,18063,"186,387",36.4,11.1,19.8
+MI,Michigan,Monroe,26115,"155,045",40.6,12.3,24.9
+NY,New York,Sullivan,36105,"79,920",31.9,12.1,28.7
+CA,California,Placer,06061,"423,561",27.3,9.8,19.1
+CO,Colorado,Kiowa,08061,"1,384",27.1,11.8,21.7
+OR,Oregon,Linn,41043,"131,496",40.1,12.0,22.6
+TX,Texas,Hansford,48195,"5,071",36.8,13.6,31.0
+MO,Missouri,Gentry,29075,"6,287",41.2,13.2,33.1
+TX,Texas,Jackson,48239,"15,221",37.7,14.7,31.7
+TN,Tennessee,Obion,47131,"30,411",40.2,16.2,32.2
+SD,South Dakota,Day,46037,"5,451",34.8,14.7,26.8
+SD,South Dakota,Hughes,46065,"17,624",34.0,10.8,21.9
+VA,Virginia,Sussex,51183,"10,757",45.5,16.2,30.9
+OH,Ohio,Cuyahoga,39035,"1,233,088",35.3,13.4,24.7
+MS,Mississippi,Lee,28081,"82,799",36.4,13.9,32.1
+TX,Texas,Zapata,48505,"13,736",43.7,20.8,47.1
+NM,New Mexico,Harding,35021,624,35.3,19.6,32.2
+TX,Texas,King,48269,217,37.8,16.8,32.5
+MT,Montana,Golden Valley,30037,835,32.5,14.7,28.0
+KS,Kansas,Wyandotte,20209,"165,281",40.7,14.5,34.7
+TX,Texas,Angelina,48005,"87,319",40.8,14.9,33.4
+WV,West Virginia,Tyler,54095,"7,919",42.8,17.6,34.9
+VA,Virginia,Winchester,51840,"27,617",37.6,14.2,28.9
+TX,Texas,Duval,48131,"9,604",41.2,18.8,41.1
+TX,Texas,Limestone,48293,"22,250",39.7,16.1,32.8
+MN,Minnesota,Wright,27171,"151,150",35.4,9.2,20.3
+MS,Mississippi,George,28039,"25,619",37.2,13.1,31.7
+CO,Colorado,Yuma,08125,"9,862",28.4,10.9,22.7
+VA,Virginia,Salem,51775,"25,600",35.2,12.0,24.0
+MO,Missouri,Pulaski,29169,"53,812",35.8,8.6,26.6
+NC,North Carolina,Hyde,37095,"4,607",41.0,17.0,31.5
+WI,Wisconsin,Price,55099,"14,102",42.5,14.8,31.7
+IN,Indiana,Kosciusko,18085,"80,364",38.7,13.0,27.2
+MO,Missouri,McDonald,29119,"23,903",43.0,15.8,38.5
+TX,Texas,Lynn,48305,"5,761",38.6,15.2,32.5
+ND,North Dakota,LaMoure,38045,"4,096",34.4,12.5,25.8
+AL,Alabama,Bullock,01011,"9,897",51.3,24.6,44.2
+NE,Nebraska,Red Willow,31145,"10,457",42.1,12.1,29.6
+WI,Wisconsin,Taylor,55119,"20,058",44.3,12.8,32.1
+IA,Iowa,Shelby,19165,"11,806",37.8,12.5,26.7
+WV,West Virginia,Kanawha,54039,"174,805",40.3,15.6,32.3
+MD,Maryland,Garrett,24023,"28,423",36.3,14.1,27.1
+GA,Georgia,Gilmer,13123,"32,860",34.2,15.2,28.8
+AR,Arkansas,Chicot,05017,"9,538",47.1,20.5,42.2
+OH,Ohio,Miami,39109,"110,876",33.6,12.7,26.1
+CO,Colorado,Arapahoe,08005,"656,061",26.1,8.5,18.0
+MO,Missouri,Texas,29215,"25,619",42.1,15.8,36.5
+OH,Ohio,Richland,39139,"125,064",39.0,14.5,30.2
+VA,Virginia,Caroline,51033,"32,640",41.9,14.0,27.9
+LA,Louisiana,Lafayette,22055,"249,750",34.5,13.0,24.4
+FL,Florida,Sarasota,12115,"469,013",29.2,13.0,23.4
+MI,Michigan,Isabella,26073,"64,118",39.5,10.5,25.5
+IA,Iowa,Union,19175,"11,906",37.2,12.1,27.1
+GA,Georgia,Elbert,13105,"20,013",38.2,16.6,32.7
+IL,Illinois,Macoupin,17117,"44,018",37.0,12.8,25.0
+GA,Georgia,Schley,13249,"4,526",37.4,15.1,29.5
+SD,South Dakota,Davison,46035,"19,922",38.0,12.2,25.4
+NC,North Carolina,Rowan,37159,"151,661",37.4,12.7,27.3
+NJ,New Jersey,Somerset,34035,"348,842",26.3,10.1,20.8
+VA,Virginia,Frederick,51069,"95,994",37.5,11.8,24.1
+MO,Missouri,Jasper,29097,"125,056",40.0,12.8,32.4
+IL,Illinois,Cumberland,17035,"10,261",38.7,11.9,23.3
+NE,Nebraska,Gosper,31073,"1,847",38.4,12.4,26.5
+CO,Colorado,Gilpin,08047,"5,926",25.5,9.6,16.2
+IL,Illinois,Rock Island,17161,"141,236",39.6,13.1,24.9
+MI,Michigan,Saginaw,26145,"187,782",36.6,14.1,30.6
+CA,California,Kings,06031,"152,682",34.7,12.1,30.4
+IL,Illinois,Adams,17001,"64,441",37.8,12.0,24.1
+MS,Mississippi,Kemper,28069,"8,584",43.7,18.4,37.9
+IA,Iowa,O'Brien,19141,"14,012",38.8,12.4,27.9
+LA,Louisiana,Washington,22117,"44,865",45.5,17.8,37.7
+MO,Missouri,Andrew,29003,"18,127",36.0,11.6,27.3
+MO,Missouri,Caldwell,29025,"8,955",38.9,13.0,32.6
+AL,Alabama,Chilton,01021,"46,431",40.0,14.1,31.1
+OK,Oklahoma,Pottawatomie,40125,"73,791",41.2,13.0,32.2
+NE,Nebraska,Kearney,31099,"6,770",38.3,10.8,24.8
+WV,West Virginia,Marion,54049,"55,807",42.1,14.7,29.8
+NJ,New Jersey,Monmouth,34025,"642,799",30.4,9.8,19.5
+MS,Mississippi,Harrison,28047,"210,612",36.5,14.1,35.0
+NE,Nebraska,Cherry,31031,"5,492",40.8,13.1,28.4
+MT,Montana,Custer,30017,"11,985",32.6,10.5,23.6
+FL,Florida,Volusia,12127,"590,357",32.7,13.5,25.5
+FL,Florida,Union,12125,"15,532",41.6,14.5,30.7
+AL,Alabama,Russell,01113,"58,744",43.0,17.3,33.2
+MT,Montana,Yellowstone,30111,"170,843",34.0,9.5,20.8
+WY,Wyoming,Albany,56001,"38,257",27.0,7.5,17.5
+WI,Wisconsin,Ashland,55003,"16,079",41.2,13.9,31.5
+LA,Louisiana,Iberia,22045,"67,659",42.5,17.1,35.2
+TX,Texas,Gaines,48165,"22,523",36.1,11.8,31.8
+TX,Texas,Medina,48325,"54,797",39.5,14.4,30.5
+TX,Texas,Stonewall,48433,"1,218",35.8,15.8,32.2
+NV,Nevada,Lander,32015,"5,769",35.1,13.0,28.5
+MI,Michigan,Shiawassee,26155,"68,025",38.8,12.5,26.1
+GA,Georgia,Upson,13293,"28,263",39.2,16.3,32.8
+WV,West Virginia,Grant,54023,"10,921",43.2,16.6,33.8
+ND,North Dakota,Slope,38087,674,38.3,14.6,27.0
+WY,Wyoming,Platte,56031,"8,546",35.8,13.5,29.3
+HI,Hawaii,Kalawao,15005,81,38.5,22.1,29.8
+AR,Arkansas,Howard,05061,"12,533",39.4,15.2,36.0
+VA,Virginia,Buena Vista,51530,"6,566",37.0,12.9,27.8
+WV,West Virginia,Wetzel,54103,"13,890",42.4,16.7,36.9
+NE,Nebraska,Seward,31159,"17,671",34.5,9.5,23.7
+NY,New York,Oswego,36075,"118,162",36.4,11.2,28.5
+GA,Georgia,Pickens,13227,"35,969",35.0,13.6,26.6
+OK,Oklahoma,Noble,40103,"10,832",41.6,13.3,33.3
+LA,Louisiana,St. Martin,22099,"51,057",45.3,15.5,33.3
+ND,North Dakota,Burleigh,38015,"100,012",35.2,9.3,18.4
+IA,Iowa,Black Hawk,19013,"130,471",40.4,11.6,23.6
+RI,Rhode Island,Providence,44007,"660,615",33.4,11.6,28.7
+IN,Indiana,DeKalb,18033,"44,198",43.7,12.8,25.7
+TN,Tennessee,Davidson,47037,"712,334",32.3,11.2,24.7
+VA,Virginia,Lexington,51678,"7,528",29.1,7.8,19.5
+MI,Michigan,Lake,26085,"12,734",40.5,17.2,34.1
+OK,Oklahoma,Canadian,40017,"175,829",39.0,10.4,26.8
+TN,Tennessee,Blount,47009,"141,456",36.3,13.4,25.8
+NY,New York,Richmond,36085,"490,687",30.3,11.9,26.5
+TX,Texas,Presidio,48377,"5,795",41.0,22.2,43.7
+GA,Georgia,Jones,13169,"28,969",39.8,14.4,30.0
+MI,Michigan,Alcona,26001,"10,489",39.0,16.0,28.7
+IA,Iowa,Crawford,19047,"16,013",42.6,14.3,32.5
+MN,Minnesota,Chippewa,27023,"12,172",40.4,12.8,28.9
+TN,Tennessee,Knox,47093,"500,669",33.5,12.0,23.3
+TX,Texas,Hartley,48205,"5,145",34.5,12.0,26.8
+WY,Wyoming,Big Horn,56003,"12,018",33.8,12.6,28.0
+OK,Oklahoma,Kay,40071,"43,641",42.6,14.1,32.1
+MI,Michigan,Grand Traverse,26055,"96,421",35.3,10.7,22.5
+IL,Illinois,Woodford,17203,"38,285",37.3,10.6,20.6
+NC,North Carolina,Dare,37055,"38,110",31.6,11.2,20.2
+NC,North Carolina,Wilkes,37193,"66,013",38.0,13.9,28.0
+TN,Tennessee,Greene,47059,"72,577",40.6,15.4,31.1
+NV,Nevada,Pershing,32027,"6,364",35.7,12.1,26.5
+MN,Minnesota,Hennepin,27053,"1,258,713",27.1,8.1,18.9
+IN,Indiana,Marion,18097,"968,460",38.3,13.0,24.3
+KS,Kansas,Edwards,20047,"2,733",39.9,14.3,32.2
+MT,Montana,Ravalli,30081,"47,738",31.9,10.4,20.4
+TX,Texas,Dallam,48111,"7,237",39.6,14.7,35.6
+VA,Virginia,Scott,51169,"21,433",38.3,16.4,31.4
+KS,Kansas,Lyon,20111,"32,172",37.8,11.5,29.2
+NC,North Carolina,Moore,37125,"106,898",32.6,11.5,21.0
+VA,Virginia,Culpeper,51047,"54,973",38.5,12.8,25.9
+FL,Florida,Gadsden,12039,"43,833",44.6,19.2,31.4
+ND,North Dakota,Ward,38101,"68,332",33.9,8.8,22.6
+GA,Georgia,Washington,13303,"19,820",43.1,18.7,34.9
+MN,Minnesota,Lake of the Woods,27077,"3,778",36.2,12.9,25.8
+AR,Arkansas,Logan,05083,"21,400",38.1,14.4,33.8
+OK,Oklahoma,Cleveland,40027,"301,193",36.3,10.9,26.6
+MO,Missouri,Clark,29045,"6,641",41.7,14.9,35.4
+MA,Massachusetts,Dukes,25007,"20,819",25.5,10.6,19.0
+KS,Kansas,Haskell,20081,"3,630",41.8,13.2,32.9
+SC,South Carolina,Sumter,45085,"104,165",42.7,15.8,27.4
+MS,Mississippi,Perry,28111,"11,315",43.7,16.2,36.3
+IL,Illinois,Piatt,17147,"16,714",35.1,10.9,20.8
+TX,Texas,Cottle,48101,"1,294",40.6,18.8,35.4
+IA,Iowa,Guthrie,19077,"10,722",37.2,12.4,26.1
+AR,Arkansas,Saline,05125,"129,574",34.5,11.3,29.1
+GA,Georgia,Bulloch,13031,"84,327",38.9,11.5,25.7
+MD,Maryland,Anne Arundel,24003,"594,582",34.5,10.4,20.5
+NE,Nebraska,Webster,31181,"3,351",39.1,12.9,27.0
+WI,Wisconsin,St. Croix,55109,"96,763",36.3,9.6,24.1
+KS,Kansas,Chase,20017,"2,579",38.2,13.9,29.8
+AR,Arkansas,Woodruff,05147,"5,964",39.2,18.3,40.7
+NY,New York,Cayuga,36011,"74,485",35.7,11.8,28.1
+OR,Oregon,Crook,41013,"26,952",36.1,12.5,21.2
+SC,South Carolina,Lee,45061,"15,967",43.7,20.1,36.2
+TX,Texas,Runnels,48399,"9,868",35.9,14.7,31.0
+WA,Washington,Kittitas,53037,"45,508",34.7,9.7,19.4
+OH,Ohio,Allen,39003,"100,838",39.7,14.5,29.3
+TN,Tennessee,Benton,47005,"16,103",40.8,16.9,33.8
+NC,North Carolina,Cleveland,37045,"101,378",38.6,13.6,27.5
+TN,Tennessee,Monroe,47123,"48,594",39.1,15.9,31.9
+MI,Michigan,Berrien,26021,"152,261",38.8,13.5,27.2
+LA,Louisiana,Catahoula,22025,"8,414",41.8,17.7,36.9
+TX,Texas,Webb,48479,"269,148",42.1,16.1,39.2
+TX,Texas,Brooks,48047,"6,848",42.6,19.8,42.8
+NJ,New Jersey,Essex,34013,"851,117",29.6,12.0,28.9
+AL,Alabama,Lowndes,01085,"9,717",51.2,24.1,41.4
+WA,Washington,Spokane,53063,"551,455",34.7,10.2,19.3
+OR,Oregon,Klamath,41035,"70,003",37.9,14.1,26.3
+CO,Colorado,Montrose,08085,"44,156",27.5,11.5,21.6
+MN,Minnesota,Swift,27151,"9,719",38.4,13.2,28.2
+MO,Missouri,St. Charles,29183,"416,659",35.7,10.3,23.2
+IN,Indiana,Vigo,18167,"106,153",41.0,13.7,25.7
+MS,Mississippi,Lawrence,28077,"11,741",46.3,18.8,40.8
+IN,Indiana,Clay,18021,"26,460",43.3,14.2,27.6
+ND,North Dakota,Mercer,38057,"8,309",39.8,12.2,25.3
+IA,Iowa,Jefferson,19101,"15,440",39.6,13.2,25.9
+GA,Georgia,Clarke,13059,"129,933",30.2,10.9,25.0
+AL,Alabama,DeKalb,01049,"72,569",38.6,15.7,33.8
+KS,Kansas,Russell,20167,"6,723",41.5,13.9,31.0
+IA,Iowa,Winnebago,19189,"10,571",38.4,11.6,24.8
+WI,Wisconsin,Milwaukee,55079,"916,205",38.6,13.1,27.8
+MT,Montana,Fergus,30027,"11,772",31.2,11.4,23.8
+ND,North Dakota,Grant,38037,"2,215",41.3,15.2,30.9
+NC,North Carolina,Haywood,37087,"62,969",33.3,12.4,23.9
+MT,Montana,Toole,30101,"5,133",35.6,11.5,26.7
+MT,Montana,Sheridan,30091,"3,498",35.5,11.5,23.7
+NC,North Carolina,Davie,37059,"44,599",33.4,12.1,23.6
+VA,Virginia,Orange,51137,"38,574",37.1,12.9,25.0
+MN,Minnesota,Mahnomen,27087,"5,280",43.8,16.8,34.5
+MT,Montana,Big Horn,30003,"12,751",35.5,15.1,28.3
+MN,Minnesota,Sherburne,27141,"102,206",39.0,9.0,23.2
+CO,Colorado,San Juan,08111,802,26.4,10.2,17.4
+OH,Ohio,Holmes,39075,"44,386",38.2,12.7,33.9
+WY,Wyoming,Uinta,56041,"20,745",34.4,11.0,25.9
+NE,Nebraska,Phelps,31137,"9,057",38.6,11.5,27.2
+MS,Mississippi,Union,28145,"28,284",41.6,14.1,33.5
+DE,Delaware,Sussex,10005,"263,509",33.8,14.2,27.9
+OK,Oklahoma,Lincoln,40081,"34,562",44.1,14.1,33.3
+ID,Idaho,Camas,16025,"1,232",29.7,11.8,23.3
+MN,Minnesota,Murray,27101,"8,049",36.3,12.6,26.9
+TN,Tennessee,Union,47173,"20,741",40.3,14.6,29.5
+SD,South Dakota,Jones,46075,855,35.4,14.7,27.2
+OH,Ohio,Fairfield,39045,"165,360",35.6,12.2,24.4
+VA,Virginia,Amherst,51009,"31,396",39.3,15.1,29.0
+MO,Missouri,Howard,29089,"10,101",34.8,12.0,29.2
+NC,North Carolina,Randolph,37151,"147,458",39.9,13.2,27.8
+VT,Vermont,Windham,50025,"45,966",25.9,9.8,19.8
+GA,Georgia,Douglas,13097,"149,160",36.3,13.6,27.0
+NM,New Mexico,De Baca,35011,"1,657",32.5,15.3,27.7
+OK,Oklahoma,Beaver,40007,"5,018",38.4,13.9,33.9
+AL,Alabama,Lamar,01075,"13,661",40.8,16.7,32.3
+NC,North Carolina,Cabarrus,37025,"240,016",33.3,10.8,21.7
+MO,Missouri,Douglas,29067,"12,228",38.0,15.3,34.8
+MI,Michigan,Ingham,26065,"284,637",34.5,10.2,22.0
+NE,Nebraska,Jefferson,31095,"7,054",37.4,13.4,29.4
+TX,Texas,Atascosa,48013,"51,784",42.2,15.4,35.0
+SD,South Dakota,Lyman,46085,"3,705",40.1,15.8,30.1
+WA,Washington,Chelan,53007,"79,997",29.1,10.7,20.6
+MA,Massachusetts,Nantucket,25019,"14,444",27.7,8.6,17.2
+MT,Montana,Lake,30047,"33,338",33.0,12.2,23.7
+MS,Mississippi,Winston,28159,"17,416",41.7,19.5,37.9
+AL,Alabama,Elmore,01051,"90,441",38.9,13.0,26.2
+MI,Michigan,Dickinson,26043,"25,982",38.1,12.6,25.7
+VA,Virginia,King George,51099,"28,568",36.1,11.6,23.1
+NY,New York,Washington,36115,"60,047",31.4,11.2,26.7
+IL,Illinois,McDonough,17109,"26,839",36.3,11.4,23.4
+CO,Colorado,Costilla,08023,"3,628",31.6,17.0,28.7
+TX,Texas,Kendall,48259,"50,537",34.3,11.1,21.2
+GA,Georgia,Appling,13001,"18,457",40.6,17.4,35.1
+MT,Montana,Madison,30057,"9,521",28.7,10.6,19.4
+WY,Wyoming,Lincoln,56023,"20,880",35.4,11.4,24.5
+AL,Alabama,Perry,01105,"7,738",52.9,24.6,42.1
+MS,Mississippi,Calhoun,28013,"12,685",41.1,18.2,37.6
+IN,Indiana,Gibson,18051,"32,904",39.4,13.0,25.8
+MI,Michigan,Menominee,26109,"22,945",38.9,13.9,27.7
+AL,Alabama,Cleburne,01029,"15,639",37.4,14.6,30.5
+NE,Nebraska,Knox,31107,"8,298",39.8,14.1,29.9
+TX,Texas,Fort Bend,48157,"916,778",30.1,12.0,24.3
+SC,South Carolina,Cherokee,45021,"56,714",38.8,15.0,31.4
+VA,Virginia,Alexandria,51510,"155,230",32.0,9.9,19.5
+WV,West Virginia,Pleasants,54073,"7,428",44.0,14.9,33.0
+ID,Idaho,Clearwater,16035,"9,214",31.8,13.1,25.4
+NJ,New Jersey,Salem,34033,"65,338",34.0,11.9,27.9
+MS,Mississippi,Issaquena,28055,"1,256",45.3,16.4,41.0
+TX,Texas,Smith,48423,"245,209",37.5,13.2,27.0
+VT,Vermont,Lamoille,50015,"26,060",29.2,8.3,19.4
+NC,North Carolina,Washington,37187,"10,713",43.6,20.6,35.0
+TX,Texas,Uvalde,48463,"24,960",40.1,15.7,34.5
+ND,North Dakota,Towner,38095,"2,030",43.9,15.0,30.3
+AR,Arkansas,White,05145,"78,452",39.7,12.6,32.5
+TX,Texas,Navarro,48349,"55,635",38.1,15.3,32.9
+NV,Nevada,Nye,32023,"55,720",39.7,15.7,32.1
+NE,Nebraska,Blaine,31009,436,39.3,13.3,29.2
+MI,Michigan,Ontonagon,26131,"5,906",37.0,16.5,28.9
+WI,Wisconsin,Waupaca,55135,"51,388",38.2,13.1,28.7
+TX,Texas,Lavaca,48285,"20,571",36.3,14.6,29.7
+IN,Indiana,Fayette,18041,"23,362",44.9,15.4,29.6
+SC,South Carolina,Georgetown,45043,"65,731",31.8,16.9,25.2
+IN,Indiana,Warrick,18173,"65,867",34.0,11.6,21.2
+WV,West Virginia,Wood,54107,"83,052",43.5,16.6,33.1
+FL,Florida,Pasco,12101,"632,996",31.8,12.8,26.5
+GA,Georgia,Pulaski,13235,"10,095",40.8,16.8,34.2
+NY,New York,Rensselaer,36083,"159,305",31.5,9.9,23.2
+WI,Wisconsin,Dodge,55027,"88,231",42.8,11.3,28.4
+AZ,Arizona,Yavapai,04025,"249,081",27.0,12.1,22.5
+TX,Texas,Parmer,48369,"9,617",37.0,15.0,33.8
+NC,North Carolina,Carteret,37031,"69,615",34.0,12.5,22.1
+TN,Tennessee,Rhea,47143,"33,924",42.5,15.7,31.2
+OR,Oregon,Curry,41015,"23,296",38.4,15.7,23.8
+MN,Minnesota,Clearwater,27029,"8,644",34.5,12.8,28.6
+TN,Tennessee,Cocke,47029,"37,404",40.3,17.2,33.3
+NY,New York,New York,36061,"1,597,451",19.2,8.9,20.4
+MI,Michigan,Huron,26063,"30,927",38.6,14.3,28.8
+ID,Idaho,Nez Perce,16069,"42,987",37.7,10.8,25.2
+MN,Minnesota,Brown,27015,"25,628",35.5,11.5,24.8
+IL,Illinois,Edgar,17045,"16,334",37.5,13.6,26.8
+IA,Iowa,Iowa,19095,"16,381",43.4,11.7,24.8
+MO,Missouri,Cooper,29053,"16,947",37.5,12.2,30.7
+KS,Kansas,Finney,20055,"37,466",37.3,13.1,33.0
+IN,Indiana,Benton,18007,"8,729",42.4,14.2,28.1
+IN,Indiana,Monroe,18105,"139,342",32.5,9.9,20.6
+IA,Iowa,Butler,19023,"14,172",39.3,12.6,28.0
+AR,Arkansas,Columbia,05027,"22,150",37.7,14.4,34.5
+FL,Florida,Hamilton,12047,"13,471",41.5,17.6,32.9
+TX,Texas,Martin,48317,"5,216",36.0,12.1,29.3
+WY,Wyoming,Crook,56011,"7,592",32.6,11.5,24.5
+NM,New Mexico,Taos,35055,"34,405",27.9,15.2,25.2
+MI,Michigan,Washtenaw,26161,"365,536",27.5,8.7,16.1
+MI,Michigan,Livingston,26093,"196,757",32.3,9.7,20.9
+OK,Oklahoma,Nowata,40105,"9,438",40.5,15.2,35.1
+MO,Missouri,St. Clair,29185,"9,752",37.6,16.2,36.9
+MS,Mississippi,Oktibbeha,28105,"51,203",34.5,10.9,27.5
+TX,Texas,Childress,48075,"6,788",36.1,12.0,29.6
+WI,Wisconsin,Monroe,55081,"46,151",44.4,12.8,32.0
+TN,Tennessee,Marshall,47117,"36,961",40.0,13.6,27.2
+NY,New York,Bronx,36005,"1,356,476",33.5,16.1,38.1
+VA,Virginia,Roanoke,51161,"97,026",34.4,12.0,22.7
+KS,Kansas,Jewell,20089,"2,847",39.1,15.8,32.6
+FL,Florida,Leon,12073,"296,913",33.1,10.6,22.6
+ME,Maine,Somerset,23025,"51,302",37.2,13.9,28.1
+ND,North Dakota,Adams,38001,"2,163",34.8,14.1,29.0
+TN,Tennessee,Hawkins,47073,"58,600",41.1,16.0,31.6
+TX,Texas,Oldham,48359,"1,783",36.1,13.3,28.6
+OH,Ohio,Vinton,39163,"12,474",40.3,15.4,33.0
+CA,California,Fresno,06019,"1,017,162",37.7,12.7,30.9
+MS,Mississippi,Quitman,28119,"5,546",51.2,22.8,45.1
+LA,Louisiana,East Carroll,22035,"6,829",51.2,22.0,44.3
+WV,West Virginia,Webster,54101,"8,045",42.9,19.5,41.2
+KS,Kansas,Meade,20119,"3,911",36.8,12.5,30.6
+TX,Texas,Terrell,48443,687,33.8,15.0,26.8
+TX,Texas,Comanche,48093,"14,050",36.7,14.8,30.5
+TX,Texas,Mitchell,48335,"9,075",38.4,13.3,31.8
+SC,South Carolina,Pickens,45077,"135,495",35.4,12.1,25.6
+GA,Georgia,White,13311,"29,026",35.0,13.2,26.3
+GA,Georgia,Harris,13145,"36,654",33.0,12.6,22.8
+AR,Arkansas,Miller,05091,"42,415",38.1,15.3,37.9
+MO,Missouri,Macon,29121,"15,161",34.4,12.9,31.5
+SD,South Dakota,Spink,46115,"6,166",36.0,12.9,25.6
+NC,North Carolina,Duplin,37061,"49,520",39.4,15.5,29.9
+IA,Iowa,Decatur,19053,"7,665",39.6,12.4,27.6
+KS,Kansas,Clark,20025,"1,847",36.8,12.1,27.0
+ID,Idaho,Blaine,16013,"25,041",23.1,10.2,20.2
+WI,Wisconsin,Racine,55101,"196,613",42.3,12.5,31.2
+NM,New Mexico,Cibola,35006,"26,780",39.1,16.6,29.5
+TX,Texas,Rains,48379,"12,986",35.8,14.1,27.5
+IL,Illinois,Jersey,17083,"21,091",39.0,11.7,23.2
+IA,Iowa,Marion,19125,"33,770",39.4,10.5,22.6
+NC,North Carolina,Alamance,37001,"179,165",38.5,12.2,24.4
+MN,Minnesota,Redwood,27127,"15,288",36.5,12.8,26.2
+VA,Virginia,Goochland,51075,"27,197",33.0,12.2,20.9
+OK,Oklahoma,Kingfisher,40073,"15,481",37.1,11.9,33.6
+SD,South Dakota,Lawrence,46081,"28,053",32.7,11.4,23.5
+MO,Missouri,Dallas,29059,"17,768",39.5,14.9,35.0
+CA,California,Amador,06005,"41,811",29.6,11.8,22.7
+AL,Alabama,Crenshaw,01041,"13,101",40.5,16.6,32.6
+LA,Louisiana,Madison,22065,"9,246",49.9,22.6,43.8
+MI,Michigan,Charlevoix,26029,"26,159",35.0,12.3,22.5
+OH,Ohio,Athens,39009,"62,706",34.5,11.5,24.8
+TX,Texas,Caldwell,48055,"49,859",42.2,14.6,33.3
+MN,Minnesota,Beltrami,27007,"46,718",38.5,11.3,26.3
+NE,Nebraska,Johnson,31097,"5,198",38.1,11.6,30.3
+GA,Georgia,Cobb,13067,"776,743",29.9,10.9,21.6
+IA,Iowa,Ringgold,19159,"4,642",42.7,12.2,25.9
+NY,New York,Wyoming,36121,"39,532",35.6,11.2,26.1
+TX,Texas,Wilbarger,48487,"12,522",39.6,16.5,35.8
+MS,Mississippi,Wayne,28153,"19,703",44.2,17.8,38.0
+AL,Alabama,Marion,01093,"29,244",42.4,15.5,32.2
+MT,Montana,Daniels,30019,"1,633",33.5,11.2,22.6
+KS,Kansas,Rice,20159,"9,260",39.5,11.9,28.5
+AK,Alaska,Southeast Fairbanks,02240,"7,077",35.7,10.2,25.8
+SD,South Dakota,Campbell,46021,"1,340",33.0,13.8,25.7
+IL,Illinois,Champaign,17019,"205,644",31.1,9.6,20.1
+MN,Minnesota,Jackson,27063,"9,919",35.8,11.7,25.2
+MO,Missouri,Randolph,29175,"24,109",37.7,12.7,31.9
+CO,Colorado,Mesa,08077,"159,681",29.8,9.8,20.0
+IN,Indiana,Scott,18143,"24,657",42.3,14.1,29.9
+NE,Nebraska,Thomas,31171,677,36.6,11.3,25.8
+MN,Minnesota,Watonwan,27165,"11,077",36.8,12.9,29.5
+IA,Iowa,Warren,19181,"55,205",38.7,9.7,21.8
+WI,Wisconsin,Marathon,55073,"138,612",36.3,10.9,27.9
+GA,Georgia,Cherokee,13057,"286,602",33.5,11.0,23.7
+LA,Louisiana,Acadia,22001,"56,489",41.8,16.5,36.1
+TX,Texas,Hood,48221,"67,774",33.2,12.5,24.7
+VA,Virginia,Galax,51640,"6,717",39.4,16.3,33.1
+FL,Florida,Bradford,12007,"27,858",34.9,14.4,32.0
+NC,North Carolina,Greene,37079,"20,530",42.8,15.9,32.4
+AR,Arkansas,Little River,05081,"11,805",41.3,15.7,36.9
+MO,Missouri,Polk,29167,"32,780",38.7,13.0,33.2
+WV,West Virginia,Lincoln,54043,"19,701",45.6,18.5,36.2
+TN,Tennessee,Wayne,47181,"16,066",40.5,15.4,31.5
+TX,Texas,Schleicher,48413,"2,391",36.0,14.8,30.7
+CA,California,Santa Barbara,06083,"441,257",26.1,10.8,24.1
+TN,Tennessee,Gibson,47053,"51,045",39.6,14.7,29.8
+OK,Oklahoma,Grady,40051,"57,375",38.4,12.0,29.3
+ND,North Dakota,Oliver,38065,"1,879",34.6,11.7,24.0
+MT,Montana,Richland,30083,"11,173",37.9,9.2,23.3
+CO,Colorado,Morgan,08087,"29,524",32.1,10.9,23.3
+NH,New Hampshire,Rockingham,33015,"320,689",31.2,9.1,18.8
+GA,Georgia,Fulton,13121,"1,079,105",28.2,10.9,20.0
+NM,New Mexico,Mora,35033,"4,123",33.1,18.5,30.6
+MO,Missouri,Boone,29019,"189,463",29.8,9.5,23.8
+AL,Alabama,St. Clair,01115,"95,552",39.6,13.0,27.6
+WA,Washington,Walla Walla,53071,"61,568",34.1,10.6,19.6
+CT,Connecticut,Southeastern Connecticut,09180,"279,634",32.5,10.0,26.3
+MN,Minnesota,Meeker,27093,"23,490",37.1,12.2,26.1
+NC,North Carolina,Perquimans,37143,"13,377",37.3,15.3,27.4
+AK,Alaska,Hoonah-Angoon,02105,"2,262",37.1,14.8,26.6
+NY,New York,Saratoga,36091,"238,711",33.1,9.6,19.8
+NJ,New Jersey,Burlington,34005,"469,167",30.2,10.5,23.6
+VA,Virginia,Fluvanna,51065,"28,462",39.1,12.6,22.9
+SD,South Dakota,Grant,46051,"7,553",37.3,12.8,26.5
+TX,Texas,Bailey,48017,"6,672",38.8,15.5,36.4
+CO,Colorado,Denver,08031,"716,577",21.6,7.1,17.0
+MA,Massachusetts,Worcester,25027,"866,866",32.6,10.4,23.8
+NY,New York,Fulton,36035,"52,234",35.8,12.1,28.5
+AL,Alabama,Franklin,01059,"31,802",42.2,16.4,33.9
+VA,Virginia,Bath,51017,"4,051",38.8,18.4,33.1
+ND,North Dakota,Foster,38031,"3,309",35.7,11.8,24.4
+OK,Oklahoma,McIntosh,40091,"19,603",44.8,17.7,39.8
+OR,Oregon,Harney,41025,"7,440",38.8,15.0,26.5
+CA,California,Orange,06059,"3,135,755",23.9,11.5,24.1
+MO,Missouri,Barry,29009,"35,265",37.8,15.0,36.6
+VA,Virginia,Virginia Beach,51810,"453,649",36.7,12.3,22.3
+OR,Oregon,Sherman,41055,"1,951",36.6,14.2,24.7
+MS,Mississippi,Clay,28025,"18,206",47.6,19.1,38.8
+GA,Georgia,Laurens,13175,"49,941",44.0,16.4,34.3
+KS,Kansas,Gray,20069,"5,743",39.5,11.2,29.2
+TX,Texas,Gregg,48183,"126,243",36.8,13.5,29.1
+NC,North Carolina,Lincoln,37109,"95,675",35.0,11.5,22.9
+GA,Georgia,Morgan,13211,"21,460",31.7,12.9,24.9
+AR,Arkansas,Perry,05105,"10,184",38.9,14.1,34.2
+MS,Mississippi,Sharkey,28125,"3,336",50.3,25.2,46.6
+MI,Michigan,Ottawa,26139,"303,372",32.3,9.4,20.1
+IN,Indiana,Ohio,18115,"6,004",39.5,14.3,26.2
+NE,Nebraska,Brown,31017,"2,853",40.2,13.2,29.2
+UT,Utah,Rich,49033,"2,670",32.7,11.6,19.3
+SC,South Carolina,Beaufort,45013,"198,979",29.6,12.7,19.9
+NE,Nebraska,McPherson,31117,383,38.5,13.3,28.6
+ND,North Dakota,Ramsey,38071,"11,463",40.8,12.3,26.0
+IN,Indiana,White,18181,"24,917",44.6,14.6,27.9
+OH,Ohio,Noble,39121,"14,311",41.6,18.0,33.6
+WI,Wisconsin,Jefferson,55055,"85,743",40.7,10.7,27.7
+NM,New Mexico,Lincoln,35027,"20,029",30.0,14.4,25.4
+AR,Arkansas,Sharp,05135,"17,968",39.4,16.2,37.7
+MS,Mississippi,Monroe,28095,"33,609",42.9,16.7,38.3
+OH,Ohio,Logan,39091,"46,057",39.3,14.0,29.2
+ID,Idaho,Power,16077,"8,253",37.5,12.1,28.1
+MN,Minnesota,Pine,27115,"30,197",39.6,13.1,27.7
+WV,West Virginia,Braxton,54007,"12,162",41.5,19.1,38.5
+GA,Georgia,Fannin,13111,"25,955",38.2,16.5,30.1
+NC,North Carolina,Cherokee,37039,"29,959",34.8,15.2,27.1
+UT,Utah,Daggett,49009,992,33.1,13.5,22.8
+VA,Virginia,Prince William,51153,"489,640",34.3,11.4,23.1
+MT,Montana,Musselshell,30065,"5,308",35.6,12.7,26.7
+DC,District of Columbia,District of Columbia,11001,"678,972",24.7,7.8,14.9
+TN,Tennessee,Henry,47079,"32,554",38.2,16.9,32.5
+FL,Florida,St. Johns,12109,"320,110",29.2,10.6,18.5
+TX,Texas,Johnson,48251,"202,906",33.4,11.9,27.0
+MS,Mississippi,Covington,28031,"18,059",40.4,15.6,35.1
+TN,Tennessee,Dickson,47043,"56,729",37.6,12.7,27.1
+OR,Oregon,Polk,41053,"89,805",32.5,10.9,20.2
+IL,Illinois,Ford,17053,"13,250",37.7,12.4,25.6
+MN,Minnesota,Dakota,27037,"447,440",34.5,9.7,22.5
+CA,California,Modoc,06049,"8,500",31.9,14.9,27.5
+IL,Illinois,LaSalle,17099,"108,309",37.8,12.4,24.9
+CO,Colorado,Chaffee,08015,"20,617",25.7,10.2,18.0
+VA,Virginia,Montgomery,51121,"98,666",28.0,9.6,21.4
+NE,Nebraska,Dodge,31053,"37,187",39.7,11.9,28.4
+GA,Georgia,Madison,13195,"32,191",38.1,14.7,31.8
+LA,Louisiana,Grant,22043,"21,911",39.9,13.7,31.3
+IA,Iowa,Henry,19087,"19,547",38.8,12.5,26.4
+NY,New York,Montgomery,36057,"49,368",38.8,11.5,27.7
+NY,New York,Ontario,36069,"112,494",30.7,10.5,22.0
+OH,Ohio,Trumbull,39155,"200,373",39.7,15.5,31.3
+AZ,Arizona,Navajo,04017,"109,175",37.6,15.1,26.4
+CA,California,Tehama,06103,"64,896",31.6,13.0,27.4
+NM,New Mexico,Union,35059,"3,964",34.3,14.7,28.2
+VA,Virginia,Fairfax,51600,"25,144",31.8,11.1,20.7
+NC,North Carolina,Swain,37173,"13,916",40.7,15.2,28.0
+AR,Arkansas,Clark,05019,"21,274",40.0,12.9,32.1
+GA,Georgia,Spalding,13255,"69,946",39.7,16.0,31.2
+LA,Louisiana,Ouachita,22073,"157,568",43.9,15.4,32.9
+KS,Kansas,Kingman,20095,"7,066",39.8,12.0,27.9
+MN,Minnesota,Roseau,27135,"15,252",35.9,11.8,25.1
+FL,Florida,Highlands,12055,"107,614",36.7,18.3,33.3
+ID,Idaho,Fremont,16043,"14,196",32.7,10.5,23.5
+NE,Nebraska,Dakota,31043,"21,268",44.3,12.8,32.9
+TX,Texas,Blanco,48031,"13,048",34.5,13.1,24.1
+ND,North Dakota,Sioux,38085,"3,643",49.1,20.2,39.1
+NC,North Carolina,Pamlico,37137,"12,423",36.0,15.2,26.5
+TX,Texas,Cameron,48061,"426,710",40.3,18.3,36.9
+IA,Iowa,Cedar,19031,"18,302",40.8,11.9,25.5
+AK,Alaska,Lake and Peninsula,02164,"1,331",39.4,14.6,29.4
+WI,Wisconsin,Ozaukee,55089,"93,460",30.3,10.1,22.1
+MO,Missouri,Saline,29195,"23,049",37.7,12.4,31.8
+FL,Florida,Jefferson,12065,"15,450",35.1,16.3,28.3
+SC,South Carolina,Dorchester,45035,"169,833",35.4,12.8,24.6
+KS,Kansas,Rawlins,20153,"2,463",41.9,14.7,30.9
+TX,Texas,Zavala,48507,"9,312",47.5,22.6,48.4
+ME,Maine,Hancock,23009,"56,526",29.4,11.2,20.6
+MI,Michigan,Manistee,26101,"25,562",36.6,13.7,28.5
+OH,Ohio,Greene,39057,"169,691",37.8,11.2,22.6
+IA,Iowa,Dubuque,19061,"98,887",34.3,10.4,22.8
+ND,North Dakota,McIntosh,38051,"2,488",35.8,14.4,29.2
+KS,Kansas,Coffey,20031,"8,251",36.9,12.7,27.6
+GA,Georgia,Lowndes,13185,"120,712",38.7,12.9,29.1
+IL,Illinois,Bureau,17011,"32,729",38.1,13.2,25.8
+TN,Tennessee,Shelby,47157,"910,042",39.7,15.9,27.5
+KS,Kansas,Smith,20183,"3,590",39.0,13.3,29.6
+IN,Indiana,Randolph,18135,"24,216",38.7,14.4,29.0
+WA,Washington,Franklin,53021,"99,034",35.2,10.8,24.9
+AR,Arkansas,Johnson,05071,"26,129",37.4,14.6,36.8
+NY,New York,Dutchess,36027,"297,150",28.2,9.9,21.6
+OH,Ohio,Clinton,39027,"41,938",39.7,13.5,30.3
+LA,Louisiana,Terrebonne,22109,"103,616",41.3,15.2,33.1
+GA,Georgia,Ben Hill,13017,"17,128",41.5,19.1,37.8
+IL,Illinois,Union,17181,"16,667",39.8,14.1,28.0
+SD,South Dakota,Bon Homme,46009,"7,065",37.0,12.8,26.7
+TN,Tennessee,Cannon,47015,"15,063",43.1,14.5,29.5
+NC,North Carolina,Gates,37073,"10,343",39.0,15.8,29.2
+WI,Wisconsin,Forest,55041,"9,325",46.0,16.7,35.3
+MN,Minnesota,Ramsey,27123,"536,075",32.1,10.5,20.3
+CO,Colorado,Larimer,08069,"370,771",23.5,7.3,13.9
+TX,Texas,Guadalupe,48187,"188,454",34.7,12.8,25.9
+VA,Virginia,Brunswick,51025,"15,749",43.4,18.2,33.9
+VA,Virginia,Halifax,51083,"33,432",40.2,19.3,33.7
+MD,Maryland,Washington,24043,"155,813",39.0,13.3,29.5
+AL,Alabama,Tallapoosa,01123,"40,677",39.5,16.8,30.0
+IL,Illinois,Iroquois,17075,"26,136",40.6,13.9,27.0
+NC,North Carolina,Ashe,37009,"27,063",36.2,14.0,26.3
+IA,Iowa,Taylor,19173,"5,924",39.7,12.9,28.4
+IL,Illinois,Wayne,17191,"15,761",39.9,13.6,27.4
+OK,Oklahoma,Ottawa,40115,"30,287",41.7,15.2,36.3
+IN,Indiana,Jackson,18071,"46,460",39.6,13.6,26.9
+CA,California,San Benito,06069,"68,175",31.5,11.3,25.3
+MS,Mississippi,Madison,28089,"112,511",36.3,12.4,26.3
+TN,Tennessee,McMinn,47107,"55,678",46.8,15.4,30.0
+CO,Colorado,Phillips,08095,"4,476",28.9,11.9,24.0
+VT,Vermont,Caledonia,50005,"30,610",31.3,10.1,24.0
+KS,Kansas,Neosho,20133,"15,420",39.5,13.1,28.6
+IA,Iowa,Pocahontas,19151,"6,976",36.2,13.3,28.2
+NY,New York,Warren,36113,"65,380",31.0,11.2,23.5
+TN,Tennessee,Williamson,47187,"264,460",29.4,10.0,18.1
+NJ,New Jersey,Warren,34041,"111,252",32.5,10.0,25.0
+WV,West Virginia,Roane,54087,"13,743",41.6,19.4,39.6
+TX,Texas,Armstrong,48011,"1,832",33.3,12.6,24.9
+GA,Georgia,Grady,13131,"26,066",38.5,17.2,35.8
+LA,Louisiana,Avoyelles,22009,"38,408",43.0,17.7,37.9
+AR,Arkansas,Desha,05041,"10,479",46.6,21.2,46.2
+MT,Montana,Judith Basin,30045,"2,093",31.5,12.9,25.0
+SD,South Dakota,Tripp,46123,"5,621",37.0,15.3,29.4
+IN,Indiana,Steuben,18151,"34,917",34.8,13.5,24.7
+SD,South Dakota,Buffalo,46017,"1,884",48.5,17.5,36.4
+WA,Washington,Pend Oreille,53051,"14,361",38.9,13.3,23.1
+MN,Minnesota,Wabasha,27157,"21,683",37.5,11.6,23.8
+TX,Texas,Wise,48497,"78,097",34.1,11.9,26.6
+GA,Georgia,Bartow,13015,"115,041",38.7,12.0,26.2
+MO,Missouri,Henry,29083,"22,485",38.5,14.4,33.8
+OK,Oklahoma,Beckham,40009,"22,042",40.0,13.3,35.0
+AK,Alaska,Petersburg,02195,"3,427",30.8,10.5,21.6
+MN,Minnesota,Koochiching,27071,"11,751",37.0,13.4,27.8
+AR,Arkansas,Drew,05043,"16,945",43.8,15.2,35.8
+IL,Illinois,Massac,17127,"13,661",40.8,14.1,26.8
+ND,North Dakota,Dickey,38021,"4,900",38.7,11.2,24.3
+OR,Oregon,Wasco,41065,"26,333",37.9,13.3,23.6
+GA,Georgia,Catoosa,13047,"68,910",34.1,12.5,25.3
+MN,Minnesota,Isanti,27059,"43,182",32.8,10.5,24.8
+KS,Kansas,Wabaunsee,20197,"7,057",35.1,11.5,25.6
+UT,Utah,Summit,49043,"42,759",19.8,8.7,14.3
+TX,Texas,Hudspeth,48229,"3,451",41.0,14.3,38.5
+MS,Mississippi,Jasper,28061,"16,013",44.9,19.0,40.2
+AR,Arkansas,Boone,05009,"38,530",40.7,13.1,30.8
+OH,Ohio,Morrow,39117,"35,595",40.0,13.8,29.8
+TX,Texas,Travis,48453,"1,334,961",30.4,9.0,19.9
+CA,California,Yolo,06113,"220,544",25.7,9.3,22.4
+MS,Mississippi,Amite,28005,"12,442",45.0,20.6,41.5
+NC,North Carolina,Jones,37103,"9,401",40.0,17.0,30.9
+GA,Georgia,Crisp,13081,"19,631",44.6,19.4,36.9
+MD,Maryland,Cecil,24015,"105,672",41.3,13.2,27.8
+UT,Utah,Washington,49053,"202,452",33.1,10.7,16.9
+WA,Washington,Garfield,53023,"2,363",31.0,11.5,19.7
+AL,Alabama,Baldwin,01003,"253,507",35.2,13.4,25.4
+MT,Montana,Beaverhead,30001,"9,885",28.3,10.5,21.0
+NE,Nebraska,Harlan,31083,"3,045",35.4,13.0,29.3
+MI,Michigan,Benzie,26019,"18,441",35.4,12.8,23.7
+CO,Colorado,Elbert,08039,"28,806",24.8,8.9,16.2
+IA,Iowa,Lucas,19117,"8,747",39.8,13.9,29.1
+SD,South Dakota,Hand,46059,"3,107",33.9,11.9,22.8
+CO,Colorado,Park,08093,"18,117",23.5,10.2,16.0
+OK,Oklahoma,Dewey,40043,"4,286",38.2,13.5,32.5
+MO,Missouri,Gasconade,29073,"14,705",39.3,13.5,30.5
+GA,Georgia,Rabun,13241,"17,442",34.2,15.5,28.9
+GA,Georgia,Towns,13281,"13,035",31.9,15.9,27.5
+CT,Connecticut,Naugatuck Valley,09140,"456,128",32.5,10.6,26.7
+AK,Alaska,Denali,02068,"1,584",31.3,8.6,20.9
+TX,Texas,Reeves,48389,"11,770",40.7,17.6,41.5
+OK,Oklahoma,Wagoner,40145,"89,280",36.1,11.9,28.4
+NE,Nebraska,Hamilton,31081,"9,537",40.7,10.5,24.7
+CA,California,Madera,06039,"162,858",36.5,13.5,31.7
+TX,Texas,DeWitt,48123,"19,929",37.6,16.0,33.0
+WA,Washington,Skagit,53057,"131,417",33.0,10.8,19.6
+FL,Florida,Seminole,12117,"484,271",29.5,11.0,21.2
+VA,Virginia,Northumberland,51133,"12,391",36.0,16.8,26.2
+NC,North Carolina,Stanly,37167,"65,699",36.3,12.7,25.4
+MO,Missouri,Pettis,29159,"43,530",36.1,12.6,32.1
+TX,Texas,Washington,48477,"37,007",35.7,13.2,26.5
+NY,New York,Onondaga,36067,"467,873",36.9,10.9,23.1
+WA,Washington,Adams,53001,"20,820",37.6,13.3,29.8
+CO,Colorado,Weld,08123,"359,442",33.8,9.5,20.6
+MT,Montana,Treasure,30103,772,33.2,12.5,23.6
+MT,Montana,Carbon,30009,"11,419",33.0,11.8,22.2
+VA,Virginia,Covington,51580,"5,545",40.7,16.6,32.9
+ND,North Dakota,Griggs,38039,"2,248",36.8,12.3,23.9
+WI,Wisconsin,Portage,55097,"71,024",35.1,9.6,24.6
+WV,West Virginia,Jefferson,54037,"59,787",38.3,13.4,26.4
+MD,Maryland,Harford,24025,"264,644",35.8,11.6,20.6
+CA,California,Siskiyou,06093,"42,905",31.8,13.9,25.8
+GA,Georgia,Gordon,13129,"59,757",35.3,13.9,31.6
+AL,Alabama,Butler,01013,"18,382",40.4,18.9,37.1
+KS,Kansas,Geary,20061,"35,047",34.5,9.3,29.7
+CO,Colorado,Archuleta,08007,"14,189",27.6,11.7,19.7
+AL,Alabama,Talladega,01121,"81,132",45.6,17.2,32.6
+AR,Arkansas,Bradley,05011,"10,104",42.5,17.6,40.3
+GA,Georgia,Screven,13251,"14,174",40.0,17.8,33.1
+KS,Kansas,Lincoln,20105,"2,920",40.2,14.2,30.0
+GA,Georgia,Effingham,13103,"71,541",37.9,11.3,24.5
+VA,Virginia,Warren,51187,"41,843",38.0,12.7,25.7
+OK,Oklahoma,Tulsa,40143,"682,868",35.7,11.7,30.8
+IL,Illinois,St. Clair,17163,"251,018",38.8,13.1,25.0
+TN,Tennessee,Jackson,47087,"12,363",39.4,17.0,33.0
+CO,Colorado,Grand,08049,"15,935",24.3,9.1,16.6
+GA,Georgia,Troup,13285,"70,742",36.0,15.0,32.0
+NE,Nebraska,Garfield,31071,"1,763",38.8,12.3,26.7
+TX,Texas,Coryell,48099,"84,878",37.3,10.3,26.8
+TX,Texas,Jeff Davis,48243,"1,856",37.9,21.2,34.2
+MS,Mississippi,Lafayette,28071,"58,467",34.4,10.9,26.6
+IL,Illinois,Menard,17129,"11,954",37.9,11.7,22.5
+GA,Georgia,Wilkinson,13319,"8,725",41.0,17.7,34.0
+IA,Iowa,Allamakee,19005,"14,074",42.3,13.1,27.4
+KS,Kansas,Greeley,20071,"1,181",36.8,11.7,26.5
+AK,Alaska,Matanuska-Susitna,02170,"115,239",37.5,9.0,22.7
+MI,Michigan,St. Clair,26147,"159,874",36.5,12.2,25.8
+CA,California,Kern,06029,"913,820",36.0,13.3,31.9
+MD,Maryland,Caroline,24011,"33,593",41.7,14.2,28.6
+SD,South Dakota,Aurora,46003,"2,782",36.4,12.2,25.2
+OK,Oklahoma,Hughes,40063,"13,436",41.9,15.1,36.5
+LA,Louisiana,Pointe Coupee,22077,"20,000",39.9,17.1,34.2
+IN,Indiana,Pike,18125,"12,106",37.9,14.5,27.7
+OH,Ohio,Seneca,39147,"54,527",35.8,13.2,29.3
+IA,Iowa,Clarke,19039,"9,588",43.1,14.2,31.8
+MN,Minnesota,Fillmore,27045,"21,522",40.5,11.8,25.5
+FL,Florida,Sumter,12119,"151,565",29.5,16.0,25.1
+OH,Ohio,Ashland,39005,"52,190",38.3,13.9,30.7
+MS,Mississippi,Tallahatchie,28135,"11,837",44.9,18.9,40.7
+NC,North Carolina,Columbus,37047,"50,121",41.1,15.6,31.1
+NE,Nebraska,Kimball,31105,"3,289",42.1,15.2,34.1
+OH,Ohio,Madison,39097,"44,602",37.3,12.4,26.9
+NJ,New Jersey,Gloucester,34015,"308,423",31.5,10.3,23.4
+TX,Texas,Starr,48427,"65,934",45.0,20.0,47.0
+CA,California,Sacramento,06067,"1,584,288",29.6,11.2,21.5
+FL,Florida,Nassau,12089,"101,501",33.7,11.6,20.2
+MI,Michigan,Tuscola,26157,"52,826",41.7,13.2,27.5
+GA,Georgia,Walker,13295,"69,489",38.0,13.5,29.9
+OR,Oregon,Malheur,41045,"32,044",41.2,13.9,28.3
+WI,Wisconsin,Burnett,55013,"17,092",39.0,15.5,31.9
+TX,Texas,Hutchinson,48233,"20,033",35.1,12.9,28.2
+AZ,Arizona,Greenlee,04011,"9,369",33.1,10.6,23.4
+OH,Ohio,Huron,39077,"58,199",35.0,13.5,30.3
+NE,Nebraska,Sheridan,31161,"4,928",36.0,13.9,32.1
+TN,Tennessee,Overton,47133,"23,327",40.9,15.7,30.7
+TX,Texas,Hamilton,48193,"8,619",36.1,14.6,30.0
+UT,Utah,Kane,49025,"8,425",33.3,11.8,19.5
+TX,Texas,Kinney,48271,"3,148",36.8,15.8,32.0
+NH,New Hampshire,Cheshire,33005,"77,703",29.9,9.5,20.8
+VA,Virginia,Spotsylvania,51177,"149,588",40.3,12.6,24.6
+IN,Indiana,Decatur,18031,"26,399",37.6,12.4,26.5
+NY,New York,Otsego,36077,"60,126",29.9,10.2,24.2
+SD,South Dakota,Deuel,46039,"4,354",33.3,11.9,23.9
+OH,Ohio,Crawford,39033,"41,529",39.5,14.6,32.2
+TX,Texas,Wood,48499,"47,921",34.3,14.6,28.6
+ND,North Dakota,Cass,38017,"196,362",33.8,7.9,17.6
+MT,Montana,Pondera,30073,"6,125",37.2,13.6,29.1
+NE,Nebraska,Rock,31149,"1,271",38.8,12.5,27.6
+IA,Iowa,Boone,19015,"26,590",43.4,11.2,24.8
+WV,West Virginia,Summers,54089,"11,581",39.8,19.4,38.9
+LA,Louisiana,St. Landry,22097,"81,464",40.4,18.2,36.3
+MI,Michigan,Keweenaw,26083,"2,172",33.7,13.4,22.8
+TN,Tennessee,Chester,47023,"17,606",39.0,13.9,28.6
+TX,Texas,Live Oak,48297,"11,584",39.7,16.2,35.0
+TX,Texas,Donley,48129,"3,214",34.2,14.0,28.8
+FL,Florida,DeSoto,12027,"35,979",41.0,17.6,38.6
+TX,Texas,Palo Pinto,48363,"29,747",39.4,14.4,30.7
+SD,South Dakota,Meade,46093,"30,954",30.4,9.5,21.4
+MN,Minnesota,Sibley,27143,"15,084",38.8,11.5,27.4
+NC,North Carolina,Bladen,37017,"29,484",41.3,16.6,31.3
+NE,Nebraska,Perkins,31135,"2,795",40.6,11.9,26.7
+KS,Kansas,Dickinson,20041,"18,445",39.5,11.9,28.3
+KS,Kansas,Ness,20135,"2,618",35.2,13.2,29.7
+MA,Massachusetts,Essex,25009,"810,089",30.0,10.3,24.1
+KS,Kansas,Barton,20009,"24,899",38.8,13.4,30.2
+IN,Indiana,Madison,18095,"132,504",36.4,14.0,29.1
+TX,Texas,Floyd,48153,"5,090",39.1,17.0,36.5
+SD,South Dakota,Yankton,46135,"23,517",38.3,11.8,24.5
+TX,Texas,Shelby,48419,"24,179",41.1,16.4,35.2
+TX,Texas,Erath,48143,"44,195",33.4,10.8,25.1
+IA,Iowa,Franklin,19069,"9,875",40.7,14.1,30.1
+MN,Minnesota,Houston,27055,"18,582",34.1,11.3,25.7
+TX,Texas,Chambers,48071,"53,876",35.0,10.8,25.0
+UT,Utah,Wayne,49055,"2,614",34.3,13.1,22.1
+IN,Indiana,Tipton,18159,"15,256",36.5,13.5,24.7
+KS,Kansas,Montgomery,20125,"30,568",38.9,13.8,29.4
+TX,Texas,Borden,48033,572,33.2,13.2,25.5
+MO,Missouri,Dunklin,29069,"27,032",46.2,16.0,42.4
+MN,Minnesota,Le Sueur,27079,"29,255",35.3,10.9,22.4
+MO,Missouri,St. Louis,29189,"987,059",31.3,11.5,25.4
+MI,Michigan,Eaton,26045,"108,820",38.9,11.4,24.0
+CO,Colorado,San Miguel,08113,"7,868",26.3,8.7,14.9
+CO,Colorado,Delta,08029,"31,746",26.7,12.4,22.9
+LA,Louisiana,Caddo,22017,"226,386",42.2,17.2,33.2
+IA,Iowa,Osceola,19143,"5,978",39.5,14.0,30.1
+FL,Florida,Hillsborough,12057,"1,535,564",31.6,12.5,23.9
+WA,Washington,Jefferson,53031,"33,714",28.7,13.1,17.4
+MO,Missouri,Putnam,29171,"4,638",35.0,13.6,31.5
+LA,Louisiana,Webster,22119,"35,238",44.6,19.5,39.0
+AL,Alabama,Fayette,01057,"15,967",40.6,16.6,32.7
+NE,Nebraska,Custer,31041,"10,581",40.0,12.2,28.3
+OK,Oklahoma,Adair,40001,"19,627",46.2,17.5,40.8
+AL,Alabama,Lauderdale,01077,"96,814",35.6,12.9,26.7
+MD,Maryland,Worcester,24047,"54,171",33.1,13.7,25.7
+IL,Illinois,Alexander,17003,"4,695",45.3,19.0,33.3
+OK,Oklahoma,Coal,40029,"5,266",42.6,17.2,39.2
+AR,Arkansas,Montgomery,05097,"8,620",40.9,16.4,36.0
+WV,West Virginia,Mingo,54059,"22,023",43.5,20.4,44.0
+MO,Missouri,Carter,29035,"5,303",40.0,15.7,37.0
+NV,Nevada,Douglas,32005,"49,545",27.1,12.2,21.4
+IA,Iowa,Dickinson,19059,"18,056",37.2,12.1,24.2
+ID,Idaho,Bonner,16017,"52,547",32.2,11.8,23.3
+NE,Nebraska,Burt,31021,"6,727",40.3,13.1,29.1
+GA,Georgia,Baker,13007,"2,743",43.3,22.9,38.8
+MO,Missouri,Atchison,29005,"5,107",41.6,14.9,34.0
+CO,Colorado,Rio Blanco,08103,"6,569",26.7,9.6,18.9
+AK,Alaska,Bethel,02050,"18,224",39.1,13.8,33.3
+GA,Georgia,Columbia,13073,"165,162",33.1,11.9,24.3
+WI,Wisconsin,Grant,55043,"51,409",40.9,11.5,31.1
+CA,California,Colusa,06011,"22,037",35.0,13.4,30.3
+GA,Georgia,Calhoun,13037,"5,457",43.6,18.5,37.0
+IL,Illinois,White,17193,"13,401",39.2,14.5,28.8
+IL,Illinois,Hancock,17067,"17,186",38.8,13.2,25.2
+VA,Virginia,Martinsville,51690,"13,763",44.9,18.6,34.0
+TX,Texas,Frio,48163,"17,987",40.5,15.3,38.6
+GA,Georgia,Dade,13083,"16,165",35.1,12.6,26.4
+WY,Wyoming,Park,56029,"30,735",31.5,11.7,24.9
+NM,New Mexico,Sierra,35051,"11,488",36.8,18.2,30.9
+CO,Colorado,Jefferson,08059,"576,366",23.1,8.3,13.3
+WA,Washington,Stevens,53065,"48,837",34.3,12.6,21.6
+IN,Indiana,Wells,18179,"28,555",41.9,12.7,25.6
+AL,Alabama,Cullman,01043,"92,016",36.4,13.4,27.3
+MT,Montana,Granite,30039,"3,595",30.4,12.3,24.2
+OK,Oklahoma,Craig,40035,"14,494",41.8,15.9,36.1
+MN,Minnesota,Olmsted,27109,"164,784",36.4,9.5,21.3
+AR,Arkansas,Garland,05051,"99,784",39.1,14.8,30.7
+ND,North Dakota,Sargent,38081,"3,776",41.2,11.8,24.5
+AR,Arkansas,Phillips,05107,"14,961",48.4,21.7,44.1
+IA,Iowa,Dallas,19049,"111,092",32.8,8.8,19.4
+OH,Ohio,Wyandot,39175,"21,457",35.6,13.0,27.1
+VA,Virginia,Powhatan,51145,"32,105",36.4,12.1,22.6
+SD,South Dakota,Oglala Lakota,46102,"13,434",47.0,21.1,40.1
+IN,Indiana,Harrison,18061,"40,006",42.7,12.8,24.6
+TX,Texas,Aransas,48007,"25,374",36.0,15.9,30.2
+SD,South Dakota,Hutchinson,46067,"7,394",34.4,12.1,24.0
+AL,Alabama,Henry,01067,"17,899",41.3,16.7,31.4
+WA,Washington,Clallam,53009,"77,616",31.0,12.1,20.3
+MI,Michigan,Arenac,26011,"15,145",38.6,14.7,28.3
+ND,North Dakota,Logan,38047,"1,869",39.8,13.2,27.9
+NY,New York,Tioga,36107,"47,715",30.5,11.3,26.1
+MO,Missouri,Osage,29151,"13,468",35.6,11.2,27.8
+AK,Alaska,Skagway,02230,"1,095",36.2,9.1,20.8
+MS,Mississippi,Greene,28041,"13,601",41.9,14.0,33.7
+KS,Kansas,Ellsworth,20053,"6,357",39.1,11.7,27.6
+GA,Georgia,Jasper,13159,"16,455",37.1,14.6,30.4
+TN,Tennessee,Coffee,47031,"60,633",39.5,13.9,28.3
+TN,Tennessee,Hardeman,47069,"25,567",43.7,17.2,34.1
+NC,North Carolina,Hoke,37093,"54,446",38.5,13.3,28.0
+CA,California,Santa Clara,06085,"1,877,592",21.9,10.5,22.2
+TN,Tennessee,Bledsoe,47007,"15,060",41.9,17.3,34.7
+IA,Iowa,Linn,19113,"228,972",35.4,11.2,22.6
+TX,Texas,Victoria,48469,"91,664",37.2,14.5,31.6
+ID,Idaho,Canyon,16027,"257,674",35.3,11.2,25.1
+GA,Georgia,Macon,13193,"11,817",43.8,21.1,41.4
+VA,Virginia,Loudoun,51107,"436,347",28.1,9.5,19.0
+CO,Colorado,Broomfield,08014,"76,860",22.3,7.1,13.5
+NY,New York,Chemung,36015,"81,325",30.7,11.5,26.5
+MT,Montana,Blaine,30005,"6,899",41.1,14.3,27.6
+CA,California,Glenn,06021,"28,129",32.1,12.6,28.0
+FL,Florida,Manatee,12081,"441,095",32.1,14.0,25.4
+MN,Minnesota,Mower,27099,"40,058",37.9,11.8,28.6
+TX,Texas,Haskell,48207,"5,385",36.6,14.9,32.1
+TN,Tennessee,Lake,47095,"6,347",47.2,19.0,39.6
+AL,Alabama,Wilcox,01131,"9,944",51.2,23.8,41.2
+TX,Texas,Liberty,48291,"108,272",40.1,13.9,34.5
+NC,North Carolina,Davidson,37057,"174,804",36.2,12.7,26.5
+IL,Illinois,Fulton,17057,"32,541",39.9,13.0,25.8
+NC,North Carolina,Richmond,37153,"42,324",42.9,16.4,32.1
+WI,Wisconsin,Oconto,55083,"39,775",42.7,12.9,29.8
+TX,Texas,Coke,48081,"3,352",36.3,15.9,31.7
+IA,Iowa,Van Buren,19177,"7,266",39.5,13.9,29.6
+IA,Iowa,Mahaska,19123,"21,874",38.6,11.7,28.4
+TX,Texas,Lamar,48277,"51,127",38.5,14.3,30.1
+MO,Missouri,Morgan,29141,"21,970",38.2,15.8,36.9
+SC,South Carolina,Colleton,45029,"38,874",39.3,17.3,33.2
+VA,Virginia,Appomattox,51011,"16,864",38.9,14.8,28.3
+GA,Georgia,Dougherty,13095,"82,645",41.9,19.0,34.1
+VT,Vermont,Windsor,50027,"58,101",28.8,9.5,19.6
+WY,Wyoming,Sublette,56035,"8,969",33.3,11.2,24.3
+TX,Texas,Garza,48169,"4,517",39.9,14.9,36.0
+WI,Wisconsin,Eau Claire,55035,"107,903",30.0,9.4,24.4
+AZ,Arizona,Apache,04001,"65,036",35.8,17.5,28.7
+FL,Florida,Charlotte,12015,"206,134",30.6,15.6,25.3
+LA,Louisiana,Winn,22127,"13,216",45.9,17.1,35.6
+VA,Virginia,Lee,51105,"21,745",42.3,17.3,34.0
+NC,North Carolina,Mecklenburg,37119,"1,163,701",29.7,10.1,20.9
+NY,New York,Wayne,36117,"90,829",37.4,11.2,26.0
+MI,Michigan,Oceana,26127,"26,981",40.6,13.7,28.3
+IL,Illinois,Morgan,17137,"32,140",39.9,12.6,24.9
+NE,Nebraska,Frontier,31063,"2,585",37.4,11.9,26.7
+MS,Mississippi,Pearl River,28109,"57,978",38.0,14.4,33.0
+OH,Ohio,Fayette,39047,"28,817",41.3,14.3,32.3
+NM,New Mexico,Roosevelt,35041,"18,787",32.6,11.5,26.9
+MT,Montana,Lewis and Clark,30049,"75,011",31.0,9.3,18.3
+ID,Idaho,Lewis,16061,"3,739",35.2,15.1,29.7
+OK,Oklahoma,Sequoyah,40135,"40,291",47.1,16.6,37.4
+GA,Georgia,Telfair,13271,"10,920",43.0,20.5,40.6
+IA,Iowa,Hamilton,19079,"14,729",36.5,12.1,25.6
+IA,Iowa,Wright,19197,"12,656",40.7,13.9,28.8
+OK,Oklahoma,Major,40093,"7,581",41.9,13.3,33.9
+LA,Louisiana,St. Charles,22089,"50,620",37.7,13.2,27.6
+GA,Georgia,Hart,13147,"27,556",35.1,15.3,29.4
+NY,New York,Chautauqua,36013,"124,891",36.3,12.6,27.8
+NJ,New Jersey,Middlesex,34023,"863,623",29.9,11.6,25.3
+OK,Oklahoma,Mayes,40097,"39,889",41.8,14.6,34.9
+GA,Georgia,Murray,13213,"41,035",41.5,13.3,29.1
+MD,Maryland,Prince George's,24033,"947,430",42.2,15.2,27.1
+NE,Nebraska,Adams,31001,"30,899",41.2,11.8,26.9
+SC,South Carolina,Charleston,45019,"424,367",30.0,11.4,20.3
+OR,Oregon,Clatsop,41007,"41,102",34.8,12.6,21.5
+IN,Indiana,Orange,18117,"19,638",39.7,14.7,28.8
+WV,West Virginia,Pendleton,54071,"6,029",36.5,18.2,34.6
+WI,Wisconsin,Barron,55005,"46,833",38.3,13.2,29.6
+SC,South Carolina,Kershaw,45055,"69,905",36.6,14.8,27.5
+IL,Illinois,Scott,17171,"4,710",38.4,12.3,24.2
+MD,Maryland,Allegany,24001,"67,273",36.6,13.3,32.0
+OR,Oregon,Benton,41003,"97,713",25.9,9.3,16.2
+MS,Mississippi,Benton,28009,"7,438",42.4,17.4,36.7
+TX,Texas,Briscoe,48045,"1,445",39.5,17.5,34.5
+SC,South Carolina,Jasper,45053,"33,544",35.0,17.0,30.2
+OR,Oregon,Lake,41037,"8,293",37.7,14.7,25.7
+RI,Rhode Island,Bristol,44001,"50,255",25.6,9.8,18.8
+HI,Hawaii,Kauai,15007,"73,851",23.9,12.0,21.2
+LA,Louisiana,Claiborne,22027,"13,670",48.5,22.8,43.6
+TN,Tennessee,Montgomery,47125,"239,872",38.4,10.8,23.7
+MI,Michigan,Mackinac,26097,"10,851",41.2,16.4,29.3
+TX,Texas,Sutton,48435,"3,221",38.3,17.4,35.8
+MT,Montana,Petroleum,30069,554,32.9,12.4,23.8
+MN,Minnesota,Todd,27153,"25,667",39.3,13.3,28.9
+OH,Ohio,Preble,39135,"40,556",39.7,13.4,30.3
+MI,Michigan,Montcalm,26117,"68,154",42.5,12.4,26.9
+IN,Indiana,Clinton,18023,"32,730",40.2,13.4,28.1
+GA,Georgia,Habersham,13137,"48,757",32.2,12.9,27.9
+WV,West Virginia,Raleigh,54081,"72,356",43.1,17.7,36.5
+NE,Nebraska,Thayer,31169,"4,829",40.0,13.2,29.2
+NC,North Carolina,Chatham,37037,"81,624",30.1,12.9,22.5
+IA,Iowa,Johnson,19103,"157,528",30.4,8.8,18.1
+FL,Florida,Bay,12005,"190,769",33.4,11.9,25.3
+MO,Missouri,Ray,29177,"23,182",39.6,13.3,33.2
+KS,Kansas,Saline,20169,"53,098",41.1,12.1,28.8
+TX,Texas,Williamson,48491,"697,191",32.6,9.8,22.5
+TX,Texas,Kaufman,48257,"185,690",38.0,11.2,27.3
+CO,Colorado,Mineral,08079,944,25.7,10.5,16.6
+CA,California,San Francisco,06075,"808,988",17.2,10.2,19.2
+MN,Minnesota,Yellow Medicine,27173,"9,467",38.8,12.4,26.9
+MN,Minnesota,Marshall,27089,"8,810",39.0,12.1,25.7
+OR,Oregon,Yamhill,41071,"108,644",37.0,11.2,20.8
+MN,Minnesota,Kittson,27069,"4,060",34.0,12.5,25.9
+NC,North Carolina,Henderson,37089,"119,230",30.3,12.5,23.2
+GA,Georgia,Taliaferro,13265,"1,609",41.7,21.7,37.6
+WI,Wisconsin,Sawyer,55113,"18,552",34.3,15.2,31.3
+MO,Missouri,Vernon,29217,"19,710",37.8,14.3,34.4
+IN,Indiana,LaGrange,18087,"40,907",39.6,12.4,29.1
+ID,Idaho,Jefferson,16051,"34,198",33.1,9.1,21.4
+IL,Illinois,Winnebago,17201,"280,922",42.0,13.9,27.0
+TN,Tennessee,Pickett,47137,"5,128",41.8,19.1,35.1
+MI,Michigan,Alger,26003,"8,757",36.1,13.2,25.8
+MO,Missouri,Lincoln,29113,"64,699",39.9,11.1,28.8
+NC,North Carolina,Wake,37183,"1,190,275",29.3,9.5,18.0
+IA,Iowa,Sioux,19167,"36,246",33.0,9.8,23.3
+OK,Oklahoma,Garvin,40049,"25,865",38.6,14.1,34.4
+VA,Virginia,Charlotte,51037,"11,336",42.6,18.6,33.5
+LA,Louisiana,Lafourche,22057,"95,056",47.2,14.7,32.7
+OH,Ohio,Ross,39141,"76,501",44.3,15.0,30.8
+NV,Nevada,Storey,32029,"4,177",31.6,12.4,22.4
+TN,Tennessee,Unicoi,47171,"17,756",39.3,16.5,31.9
+OH,Ohio,Monroe,39111,"13,153",40.4,16.1,34.0
+MI,Michigan,Jackson,26075,"159,424",39.2,12.5,27.4
+NY,New York,Herkimer,36043,"59,484",37.0,11.3,28.1
+NH,New Hampshire,Merrimack,33013,"157,103",33.2,9.1,19.8
+MI,Michigan,Gogebic,26053,"14,224",37.0,15.2,28.4
+WY,Wyoming,Campbell,56005,"47,498",35.9,9.9,25.9
+VA,Virginia,Roanoke,51770,"97,171",42.0,15.1,30.0
+WA,Washington,Whatcom,53073,"231,919",26.5,8.8,16.8
+CT,Connecticut,Western Connecticut,09190,"623,907",24.7,8.5,22.1
+SD,South Dakota,Codington,46029,"28,971",35.9,12.1,26.5
+IL,Illinois,Logan,17107,"27,590",38.5,11.6,24.4
+TX,Texas,Crockett,48105,"2,858",37.7,16.5,35.3
+KS,Kansas,Marshall,20117,"9,933",37.4,13.0,29.1
+UT,Utah,Uintah,49047,"37,747",35.5,10.5,21.3
+MO,Missouri,Jefferson,29099,"231,230",40.3,11.2,27.7
+NJ,New Jersey,Sussex,34037,"146,132",26.9,9.5,21.3
+NC,North Carolina,Montgomery,37123,"26,085",38.7,15.1,28.9
+TX,Texas,Maverick,48323,"57,762",43.9,17.8,41.7
+NM,New Mexico,DoÃ±a Ana,35013,"225,210",35.9,13.7,27.7
+AR,Arkansas,Marion,05089,"17,514",37.9,16.4,34.8
+IL,Illinois,DeKalb,17037,"100,288",35.1,10.3,22.5
+VA,Virginia,Rappahannock,51157,"7,414",35.2,14.7,25.3
+VA,Virginia,Chesterfield,51041,"383,876",36.4,12.4,22.6
+MN,Minnesota,Chisago,27025,"58,535",36.5,10.3,22.9
+SC,South Carolina,Spartanburg,45083,"356,698",37.9,13.5,27.4
+MN,Minnesota,Polk,27119,"30,412",39.4,11.3,25.9
+WA,Washington,Klickitat,53039,"23,589",32.9,11.7,20.4
+LA,Louisiana,Bienville,22013,"12,366",47.5,22.1,42.4
+TX,Texas,Pecos,48371,"14,623",40.2,16.5,37.4
+NC,North Carolina,Rockingham,37157,"92,518",37.3,14.5,28.6
+MA,Massachusetts,Middlesex,25017,"1,623,952",23.8,8.5,18.3
+NY,New York,Madison,36053,"66,921",36.4,10.3,22.7
+IN,Indiana,Grant,18053,"66,200",41.1,15.2,29.1
+KS,Kansas,Sherman,20181,"5,844",38.2,12.3,30.2
+GA,Georgia,Bryan,13029,"49,739",33.5,10.0,21.2
+TX,Texas,Montague,48337,"21,598",35.0,13.4,28.4
+MO,Missouri,Callaway,29027,"44,731",36.9,11.9,29.0
+AL,Alabama,Cherokee,01019,"25,666",39.5,16.0,31.4
+MO,Missouri,Stoddard,29207,"28,397",37.6,14.2,35.2
+TX,Texas,Moore,48341,"21,190",39.0,14.9,35.9
+MS,Mississippi,Hancock,28045,"46,159",37.3,14.3,31.2
+CA,California,Alpine,06003,"1,141",28.4,11.6,19.4
+TN,Tennessee,Smith,47159,"20,538",39.1,13.5,27.7
+WI,Wisconsin,Rusk,55107,"14,143",41.1,14.9,31.4
+NE,Nebraska,Cheyenne,31033,"9,541",34.7,12.9,29.9
+MO,Missouri,Lewis,29111,"9,818",36.6,12.7,32.6
+FL,Florida,Washington,12133,"25,602",40.1,15.1,32.3
+NY,New York,Schuyler,36097,"17,507",31.7,12.4,26.2
+TX,Texas,San Augustine,48405,"7,833",43.5,20.9,39.2
+TX,Texas,Henderson,48213,"86,158",35.4,14.5,30.1
+AL,Alabama,Pickens,01107,"18,688",48.0,18.0,34.8
+LA,Louisiana,Iberville,22047,"29,617",43.0,16.5,34.3
+TX,Texas,Rusk,48401,"53,079",37.5,13.9,29.8
+NE,Nebraska,Nemaha,31127,"7,076",40.7,11.7,29.6
+FL,Florida,Lee,12071,"834,573",30.4,14.5,26.6
+VA,Virginia,Grayson,51077,"15,285",41.1,17.5,33.9
+TX,Texas,Bee,48025,"30,850",39.2,13.9,32.9
+CO,Colorado,Conejos,08021,"7,521",30.3,13.8,26.0
+AR,Arkansas,Pope,05115,"64,593",44.6,12.7,33.7
+WI,Wisconsin,Wood,55141,"73,939",40.0,12.6,28.2
+WI,Wisconsin,Kewaunee,55061,"20,690",41.3,12.1,28.3
+ID,Idaho,Teton,16081,"12,549",32.0,9.2,19.0
+AR,Arkansas,Hot Spring,05059,"33,258",37.1,13.9,34.4
+IA,Iowa,Poweshiek,19157,"18,453",40.5,11.4,25.8
+IL,Illinois,Clinton,17027,"36,785",40.2,11.3,22.2
+NV,Nevada,Humboldt,32013,"17,136",36.2,11.5,26.8
+IN,Indiana,Wabash,18169,"30,670",38.1,13.8,26.7
+TX,Texas,Howard,48227,"30,554",38.4,13.7,32.1
+GA,Georgia,Clinch,13065,"6,746",41.9,17.3,35.6
+LA,Louisiana,Assumption,22007,"20,160",38.4,16.7,35.2
+GA,Georgia,Peach,13225,"28,805",39.3,14.9,29.3
+WV,West Virginia,Doddridge,54017,"7,680",41.0,16.4,34.6
+KS,Kansas,Wallace,20199,"1,509",36.6,13.7,29.9
+WI,Wisconsin,Dane,55025,"575,347",32.4,8.2,20.5
+WI,Wisconsin,Menominee,55078,"4,226",45.4,18.2,36.8
+WV,West Virginia,Marshall,54051,"29,405",37.5,16.4,33.3
+IA,Iowa,Monona,19133,"8,493",42.2,13.1,28.3
+MN,Minnesota,Washington,27163,"278,936",32.5,10.3,19.1
+AZ,Arizona,Santa Cruz,04023,"49,158",34.2,15.5,31.4
+FL,Florida,Calhoun,12013,"13,470",40.0,15.2,32.7
+MO,Missouri,Platte,29165,"111,940",37.0,10.0,22.8
+GA,Georgia,Johnson,13167,"9,282",43.5,18.0,35.7
+TN,Tennessee,Grundy,47061,"13,955",40.6,16.5,33.0
+MO,Missouri,Bollinger,29017,"10,544",39.3,14.1,34.7
+UT,Utah,Sevier,49041,"22,344",36.4,10.5,21.0
+NE,Nebraska,Douglas,31055,"589,540",36.9,9.8,22.1
+IA,Iowa,Webster,19187,"36,485",41.2,11.8,27.6
+MN,Minnesota,Clay,27027,"66,258",32.9,9.3,21.7
+LA,Louisiana,St. Helena,22091,"10,774",42.7,19.8,39.2
+WY,Wyoming,Washakie,56043,"7,710",33.3,13.7,30.2
+VA,Virginia,Mathews,51115,"8,514",35.1,15.2,26.1
+ND,North Dakota,Nelson,38063,"2,991",39.6,12.4,23.8
+GA,Georgia,Miller,13201,"5,747",41.8,17.8,34.4
+MN,Minnesota,Martin,27091,"19,657",36.3,13.0,28.7
+AR,Arkansas,Cleveland,05025,"7,378",42.4,15.0,34.6
+NC,North Carolina,Person,37145,"39,737",38.8,14.9,28.4
+NC,North Carolina,Johnston,37101,"241,955",35.1,11.6,23.6
+CA,California,San Joaquin,06077,"800,965",30.7,12.3,26.1
+NE,Nebraska,Banner,31007,674,38.5,13.1,27.2
+WV,West Virginia,Clay,54015,"7,783",41.9,18.8,39.1
+SC,South Carolina,Barnwell,45011,"20,447",44.2,19.4,36.2
+FL,Florida,Franklin,12037,"12,594",32.3,15.3,29.4
+MI,Michigan,Montmorency,26119,"9,678",38.6,16.5,29.8
+KS,Kansas,Jefferson,20087,"18,327",34.7,11.3,25.3
+AK,Alaska,Haines,02100,"2,070",34.0,10.8,20.1
+ID,Idaho,Adams,16003,"4,903",34.2,13.9,28.0
+IN,Indiana,Morgan,18109,"73,227",37.8,13.4,24.4
+TX,Texas,Cherokee,48073,"52,217",35.7,14.7,31.8
+VA,Virginia,Bedford,51019,"81,525",36.9,13.5,26.5
+ME,Maine,Franklin,23007,"30,828",34.6,11.3,25.2
+WI,Wisconsin,Pepin,55091,"7,441",36.6,12.4,27.8
+NE,Nebraska,Stanton,31167,"5,856",39.8,11.5,27.5
+CA,California,Contra Costa,06013,"1,155,025",28.0,11.3,23.7
+MS,Mississippi,Prentiss,28117,"25,135",40.5,13.9,34.0
+GA,Georgia,Warren,13301,"5,106",43.5,20.2,37.0
+IL,Illinois,Perry,17145,"20,503",40.7,13.2,27.1
+VA,Virginia,King and Queen,51097,"6,720",40.7,17.0,29.8
+KS,Kansas,Cheyenne,20023,"2,636",38.0,14.8,33.5
+IL,Illinois,Tazewell,17179,"129,541",36.3,11.2,22.4
+SD,South Dakota,Sanborn,46111,"2,399",36.3,12.6,25.5
+GA,Georgia,Lee,13177,"33,872",39.2,11.8,23.4
+MS,Mississippi,Grenada,28043,"21,065",46.1,17.6,37.0
+WV,West Virginia,Jackson,54035,"27,593",42.8,17.2,34.5
+TN,Tennessee,Franklin,47051,"44,654",35.0,13.9,28.8
+OH,Ohio,Highland,39071,"43,614",41.3,14.7,32.7
+IL,Illinois,Kankakee,17091,"105,940",39.8,13.0,25.0
+MS,Mississippi,Clarke,28023,"15,228",38.6,17.8,35.7
+OH,Ohio,Butler,39017,"393,043",39.0,12.5,27.8
+OK,Oklahoma,Pushmataha,40127,"10,800",39.1,17.7,39.6
+OR,Oregon,Union,41061,"25,944",35.8,12.2,21.7
+GA,Georgia,Toombs,13279,"27,040",40.6,15.5,32.9
+NY,New York,Delaware,36025,"44,410",32.8,12.5,28.6
+IL,Illinois,Jefferson,17081,"36,320",39.8,13.0,25.2
+MO,Missouri,Scott,29201,"37,889",38.1,13.4,36.3
+NE,Nebraska,Holt,31089,"10,093",38.4,12.9,29.4
+GA,Georgia,Mitchell,13205,"21,114",45.1,18.4,34.9
+TX,Texas,Gonzales,48177,"19,930",39.4,16.0,35.8
+WV,West Virginia,Putnam,54079,"56,962",38.3,14.1,28.6
+NC,North Carolina,Hertford,37091,"19,453",42.5,18.9,33.2
+NM,New Mexico,Lea,35025,"72,101",37.0,12.0,29.8
+NJ,New Jersey,Passaic,34031,"513,395",31.0,12.7,31.2
+OK,Oklahoma,Le Flore,40079,"49,596",40.3,15.1,37.9
+MD,Maryland,Talbot,24041,"37,823",30.1,13.1,24.2
+SC,South Carolina,Lexington,45063,"309,528",36.2,12.3,25.9
+OH,Ohio,Perry,39127,"35,551",38.6,14.3,32.1
+ND,North Dakota,Stutsman,38093,"21,392",39.7,10.9,24.7
+MS,Mississippi,Lowndes,28087,"57,283",37.5,15.5,33.2
+TX,Texas,Burnet,48053,"53,991",35.3,13.5,26.8
+MD,Maryland,Howard,24027,"336,001",30.0,10.4,16.4
+ID,Idaho,Payette,16075,"27,279",31.4,11.8,26.7
+OH,Ohio,Jefferson,39081,"64,026",42.5,15.1,31.3
+TX,Texas,La Salle,48283,"6,537",38.8,15.5,39.8
+NY,New York,Westchester,36119,"990,817",26.0,10.5,22.0
+MT,Montana,Sanders,30089,"13,684",34.9,13.7,26.2
+MT,Montana,Fallon,30025,"2,994",31.4,10.2,23.3
+WA,Washington,Pacific,53049,"24,200",36.4,14.9,22.2
+TN,Tennessee,Humphreys,47085,"19,209",41.2,15.0,29.5
+TX,Texas,Jim Wells,48249,"38,662",40.6,18.0,40.2
+IL,Illinois,Saline,17165,"22,873",40.3,13.5,26.3
+KS,Kansas,Riley,20161,"71,402",26.4,7.2,21.9
+RI,Rhode Island,Washington,44009,"129,982",27.0,9.0,17.8
+LA,Louisiana,Red River,22081,"7,356",43.9,19.8,39.9
+GA,Georgia,Worth,13321,"20,273",38.9,16.9,33.9
+NE,Nebraska,Washington,31177,"21,152",41.2,10.7,23.1
+CA,California,Mono,06051,"13,066",31.2,10.5,21.5
+IN,Indiana,Carroll,18015,"20,525",41.6,13.9,27.4
+UT,Utah,Carbon,49007,"20,609",35.0,12.8,21.9
+AK,Alaska,Yukon-Koyukuk,02290,"5,129",36.9,16.5,29.4
+MS,Mississippi,DeSoto,28033,"193,247",37.3,12.4,27.9
+IL,Illinois,Fayette,17051,"21,164",39.8,12.7,26.7
+IA,Iowa,Ida,19093,"6,833",41.0,12.4,27.8
+NM,New Mexico,Socorro,35053,"15,963",36.2,15.7,30.9
+WA,Washington,Island,53029,"86,267",31.3,10.2,16.1
+MN,Minnesota,Carlton,27017,"36,825",38.8,11.7,25.6
+TN,Tennessee,Rutherford,47149,"367,101",37.9,10.9,22.9
+GA,Georgia,Baldwin,13009,"43,396",38.7,15.3,29.8
+IL,Illinois,Lawrence,17101,"14,813",40.7,12.8,27.0
+NJ,New Jersey,Atlantic,34001,"275,213",30.7,12.7,27.9
+MI,Michigan,Houghton,26061,"37,599",33.7,10.0,21.8
+TN,Tennessee,DeKalb,47041,"21,225",40.4,15.9,32.2
+VA,Virginia,Hopewell,51670,"22,752",45.8,17.7,35.6
+OH,Ohio,Van Wert,39161,"28,704",37.3,13.2,29.3
+MO,Missouri,Stone,29209,"32,658",41.1,15.6,32.9
+KS,Kansas,Sumner,20191,"22,334",39.9,12.4,27.4
+IN,Indiana,Bartholomew,18005,"84,003",38.9,12.4,24.0
+GA,Georgia,Stephens,13257,"27,228",38.5,14.9,30.8
+LA,Louisiana,Orleans,22071,"364,136",34.4,16.2,26.8
+MS,Mississippi,Washington,28151,"41,946",44.2,21.0,40.8
+MI,Michigan,Chippewa,26033,"36,264",35.6,12.7,26.5
+TN,Tennessee,Washington,47179,"138,420",35.5,12.8,25.4
+TX,Texas,Baylor,48023,"3,463",36.1,14.9,30.8
+TX,Texas,Fannin,48147,"37,571",39.2,13.2,29.1
+MI,Michigan,Ogemaw,26129,"20,990",39.4,15.3,29.5
+WY,Wyoming,Fremont,56013,"39,815",33.9,12.4,27.2
+TX,Texas,Marion,48315,"9,571",39.1,18.1,33.1
+MS,Mississippi,Montgomery,28097,"9,600",43.5,19.6,40.1
+SD,South Dakota,Faulk,46049,"2,151",36.3,14.4,27.8
+IN,Indiana,Jennings,18079,"27,622",41.2,14.3,28.1
+MO,Missouri,Howell,29091,"40,735",36.8,14.9,34.4
+MO,Missouri,Lawrence,29109,"38,872",40.1,13.7,35.3
+VA,Virginia,Campbell,51031,"55,270",35.6,14.2,27.0
+MS,Mississippi,Panola,28107,"32,669",46.3,18.4,39.7
+MN,Minnesota,Rock,27133,"9,551",36.6,11.4,26.2
+TN,Tennessee,Marion,47115,"29,382",40.6,16.2,31.1
+VA,Virginia,Cumberland,51049,"9,878",39.5,16.1,28.6
+WI,Wisconsin,Crawford,55023,"15,944",37.4,13.8,30.1
+MI,Michigan,Ionia,26067,"66,262",40.2,11.1,24.9
+OK,Oklahoma,Delaware,40041,"41,703",37.8,16.7,35.9
+VA,Virginia,Russell,51167,"25,477",39.6,15.7,31.3
+NY,New York,Allegany,36003,"46,651",34.4,11.1,25.5
+MA,Massachusetts,Suffolk,25025,"768,425",24.2,9.3,23.8
+LA,Louisiana,East Baton Rouge,22033,"448,467",35.3,13.9,24.6
+IL,Illinois,Macon,17115,"100,591",42.1,13.3,25.9
+NE,Nebraska,Cass,31025,"27,446",40.2,10.8,25.2
+NC,North Carolina,Scotland,37165,"34,376",45.2,17.4,33.7
+MO,Missouri,Moniteau,29135,"15,256",39.2,11.9,30.7
+VA,Virginia,Floyd,51063,"15,679",32.7,13.5,26.2
+OR,Oregon,Washington,41067,"598,865",32.4,9.9,17.7
+SC,South Carolina,Orangeburg,45075,"82,820",42.2,19.0,33.9
+ME,Maine,Waldo,23027,"40,620",34.3,11.7,23.6
+NC,North Carolina,Guilford,37081,"549,866",38.0,12.2,23.7
+TX,Texas,Dallas,48113,"2,606,358",35.7,12.5,30.5
+TN,Tennessee,Hardin,47071,"27,229",38.1,17.1,33.3
+GA,Georgia,Hall,13139,"217,267",32.3,13.2,28.3
+KS,Kansas,Stevens,20189,"5,077",41.3,14.9,36.7
+AR,Arkansas,St. Francis,05123,"22,101",48.2,18.9,42.5
+KS,Kansas,Doniphan,20043,"7,493",37.5,11.5,26.9
+TN,Tennessee,Scott,47151,"22,171",43.4,16.6,35.4
+ND,North Dakota,Emmons,38029,"3,224",38.1,13.5,26.0
+TN,Tennessee,Perry,47135,"8,891",40.1,16.4,33.5
+IN,Indiana,Fountain,18045,"16,731",42.6,14.1,28.2
+TX,Texas,Coleman,48083,"7,842",37.2,15.4,29.8
+NM,New Mexico,Chaves,35005,"63,561",39.8,14.3,31.0
+TX,Texas,Val Verde,48465,"47,720",37.8,15.6,36.4
+AL,Alabama,Clay,01027,"14,111",42.5,16.5,32.7
+NC,North Carolina,McDowell,37111,"44,893",35.2,13.0,26.3
+AR,Arkansas,Crittenden,05035,"47,139",46.7,16.5,38.7
+NC,North Carolina,Warren,37185,"18,836",43.9,20.0,33.8
+NY,New York,Jefferson,36045,"114,787",37.8,10.0,25.4
+VT,Vermont,Grand Isle,50013,"7,467",30.7,9.7,18.7
+NY,New York,St. Lawrence,36089,"106,940",41.8,11.9,28.0
+WI,Wisconsin,Waukesha,55133,"412,591",33.4,10.5,21.0
+ID,Idaho,Clark,16033,801,36.0,13.8,30.3
+MS,Mississippi,Humphreys,28053,"7,216",52.4,24.7,47.9
+VA,Virginia,Hanover,51085,"114,148",32.9,11.6,21.4
+TX,Texas,Wichita,48485,"130,180",35.3,12.1,27.0
+OH,Ohio,Brown,39015,"43,777",41.6,14.5,34.1
+TN,Tennessee,Loudon,47105,"60,591",36.4,15.1,27.1
+MO,Missouri,St. Louis,29510,"281,754",37.0,13.3,27.0
+TX,Texas,Nacogdoches,48347,"65,375",33.2,13.2,29.8
+FL,Florida,Gulf,12045,"15,693",35.3,14.1,27.4
+MI,Michigan,Cass,26027,"51,642",36.2,13.1,26.8
+NE,Nebraska,Madison,31119,"35,627",40.0,11.8,27.7
+WI,Wisconsin,Dunn,55033,"45,794",38.8,9.9,26.6
+NE,Nebraska,Nuckolls,31129,"4,095",41.8,12.7,27.8
+WI,Wisconsin,Trempealeau,55121,"30,899",41.3,12.3,29.0
+NC,North Carolina,Transylvania,37175,"33,549",33.7,12.9,22.3
+AL,Alabama,Limestone,01083,"114,654",39.6,12.5,25.4
+IN,Indiana,Union,18161,"6,973",37.6,13.0,24.2
+WI,Wisconsin,Jackson,55053,"20,855",40.4,13.4,31.4
+WV,West Virginia,Greenbrier,54025,"32,149",40.4,17.3,35.0
+OK,Oklahoma,Caddo,40015,"26,214",40.2,14.9,37.4
+FL,Florida,Palm Beach,12099,"1,533,801",26.6,13.7,25.6
+WI,Wisconsin,Manitowoc,55071,"81,331",39.1,12.2,30.3
+GA,Georgia,Polk,13233,"44,223",40.4,14.1,31.4
+IL,Illinois,Cass,17017,"12,596",40.6,13.4,27.8
+NV,Nevada,Mineral,32021,"4,528",38.2,17.6,34.4
+MN,Minnesota,Traverse,27155,"3,136",38.7,13.2,28.0
+MT,Montana,McCone,30055,"1,676",32.4,11.1,22.6
+SD,South Dakota,Brule,46015,"5,311",38.2,13.2,26.2
+MO,Missouri,Harrison,29081,"8,220",39.3,14.7,34.8
+AR,Arkansas,Faulkner,05045,"129,951",39.8,10.8,26.6
+MN,Minnesota,Crow Wing,27035,"68,304",37.5,11.8,24.6
+TX,Texas,Hockley,48219,"21,460",36.1,14.1,32.0
+TX,Texas,Tom Green,48451,"119,057",36.8,12.9,29.0
+TX,Texas,Ward,48475,"10,966",37.6,14.4,33.9
+MS,Mississippi,Jefferson,28063,"6,941",51.5,23.6,45.0
+AK,Alaska,Copper River,02066,"2,674",33.6,11.4,23.2
+NY,New York,Monroe,36055,"748,482",31.4,11.2,25.4
+AR,Arkansas,Crawford,05033,"61,891",38.8,13.0,31.2
+CA,California,Sutter,06101,"97,948",29.5,12.8,27.7
+NC,North Carolina,Yancey,37199,"18,938",35.6,13.7,26.5
+UT,Utah,Iron,49021,"64,211",35.3,9.4,18.3
+MN,Minnesota,Becker,27005,"35,283",37.3,11.8,24.6
+AZ,Arizona,Mohave,04015,"223,682",32.7,14.2,29.7
+CA,California,Yuba,06115,"85,722",30.8,11.3,26.0
+VA,Virginia,Falls Church,51610,"14,685",29.1,8.9,15.8
+MD,Maryland,Charles,24017,"171,973",41.9,13.4,23.3
+IA,Iowa,Adams,19003,"3,544",39.1,13.2,27.6
+AL,Alabama,Barbour,01005,"24,585",46.8,19.6,36.2
+OK,Oklahoma,Tillman,40141,"6,869",44.0,16.2,37.4
+NM,New Mexico,McKinley,35031,"68,797",41.3,19.0,32.1
+KS,Kansas,Kiowa,20097,"2,374",39.0,11.8,26.5
+MI,Michigan,Bay,26017,"102,500",38.0,12.6,26.3
+CO,Colorado,El Paso,08041,"744,215",28.3,8.7,18.8
+TX,Texas,Ochiltree,48357,"9,704",39.2,14.1,33.4
+TX,Texas,Brewster,48043,"9,513",32.8,12.8,24.9
+IL,Illinois,Henry,17073,"48,448",36.9,11.9,23.6
+NJ,New Jersey,Camden,34007,"527,196",29.8,11.4,26.3
+FL,Florida,Madison,12079,"18,519",38.0,16.8,32.5
+OK,Oklahoma,Woods,40151,"8,564",36.6,11.1,29.1
+IA,Iowa,Cass,19029,"13,130",40.7,13.9,28.6
+CA,California,Los Angeles,06037,"9,663,345",26.5,12.6,26.2
+ND,North Dakota,Wells,38103,"3,876",37.8,13.8,27.0
+GA,Georgia,Randolph,13243,"6,078",45.6,24.9,42.6
+CT,Connecticut,Lower Connecticut River Valley,09130,"176,215",29.0,9.4,21.0
+NE,Nebraska,Hall,31079,"62,197",41.2,12.0,31.2
+VA,Virginia,Northampton,51131,"12,021",39.5,18.5,31.2
+KS,Kansas,Gove,20063,"2,735",37.4,12.3,28.3
+GA,Georgia,Wheeler,13309,"7,081",41.3,16.0,35.5
+MO,Missouri,Perry,29157,"18,950",36.0,12.5,31.0
+IL,Illinois,Marion,17121,"36,673",39.5,13.3,27.0
+OH,Ohio,Clermont,39025,"211,972",34.7,12.6,25.3
+IN,Indiana,Putnam,18133,"37,567",38.4,12.4,24.7
+NE,Nebraska,Logan,31113,655,35.9,12.0,26.4
+NY,New York,Franklin,36033,"46,502",40.7,12.2,28.9
+OH,Ohio,Hancock,39063,"74,704",39.3,12.5,26.7
+TX,Texas,Titus,48449,"31,357",38.6,15.6,35.1
+LA,Louisiana,Union,22111,"20,650",37.0,18.4,35.9
+WA,Washington,Ferry,53019,"7,497",40.2,15.1,25.1
+MI,Michigan,Mecosta,26107,"41,099",37.1,12.4,27.2
+SD,South Dakota,Lake,46079,"11,031",32.5,12.0,22.5
+GA,Georgia,Berrien,13019,"18,570",38.1,16.0,34.0
+SD,South Dakota,Brookings,46011,"35,980",35.7,8.5,18.4
+MS,Mississippi,Simpson,28127,"25,715",40.2,16.2,35.1
+ID,Idaho,Bingham,16011,"50,395",39.0,11.2,24.4
+ME,Maine,Oxford,23017,"59,905",35.0,13.7,25.4
+IL,Illinois,Putnam,17155,"5,561",36.1,12.1,22.7
+VA,Virginia,York,51199,"70,952",31.5,11.1,19.2
+TN,Tennessee,Cheatham,47021,"42,254",39.6,12.4,24.6
+SD,South Dakota,Marshall,46091,"4,390",35.9,12.7,24.7
+UT,Utah,Piute,49031,"1,550",33.0,15.2,26.0
+NE,Nebraska,Boyd,31015,"1,725",37.9,14.8,30.5
+OH,Ohio,Licking,39089,"183,201",37.5,12.9,24.1
+MO,Missouri,Daviess,29061,"8,551",38.4,14.2,33.8
+OR,Oregon,Grant,41023,"7,215",33.6,14.6,24.7
+NC,North Carolina,Anson,37007,"21,897",43.3,17.2,33.1
+LA,Louisiana,Tangipahoa,22105,"138,064",43.0,14.6,30.4
+TX,Texas,Jasper,48241,"32,694",41.1,16.3,33.5
+OK,Oklahoma,Osage,40113,"46,130",46.4,14.4,31.9
+MT,Montana,Garfield,30033,"1,211",30.6,11.5,24.6
+WV,West Virginia,Boone,54005,"20,576",46.7,17.3,36.9
+GA,Georgia,Turner,13287,"8,909",44.4,18.5,37.8
+TX,Texas,Grimes,48185,"32,384",37.1,14.4,30.1
+KS,Kansas,Morris,20127,"5,334",36.7,13.5,30.0
+TX,Texas,Knox,48275,"3,302",37.8,15.6,32.4
+CO,Colorado,Rio Grande,08105,"11,188",27.7,12.2,23.2
+ME,Maine,Knox,23013,"40,977",28.8,11.2,21.7
+IN,Indiana,Starke,18149,"23,206",42.4,15.0,29.3
+IA,Iowa,Appanoose,19007,"12,119",43.4,15.4,31.5
+ID,Idaho,Minidoka,16067,"22,480",36.4,12.3,28.9
+SC,South Carolina,Florence,45041,"137,214",40.6,15.5,30.1
+ND,North Dakota,Bottineau,38009,"6,349",37.7,11.9,24.4
+SD,South Dakota,Todd,46121,"9,199",49.3,20.7,40.8
+TX,Texas,Archer,48009,"9,029",34.9,12.7,26.5
+CO,Colorado,Eagle,08037,"54,381",24.3,8.5,16.3
+IL,Illinois,Mercer,17131,"15,487",38.6,12.4,24.4
+IN,Indiana,Elkhart,18039,"206,409",43.8,13.6,26.5
+IA,Iowa,Worth,19195,"7,297",40.5,12.4,26.0
+NE,Nebraska,Sarpy,31153,"199,886",35.9,9.4,21.3
+KS,Kansas,Greenwood,20073,"5,870",40.7,14.4,29.9
+VA,Virginia,Tazewell,51185,"39,120",40.4,15.9,31.0
+OH,Ohio,Summit,39153,"535,733",37.6,13.7,26.2
+OR,Oregon,Multnomah,41051,"789,698",28.9,9.5,17.6
+OK,Oklahoma,Choctaw,40023,"14,276",45.4,17.2,38.6
+KS,Kansas,Comanche,20033,"1,655",39.2,13.3,29.1
+MI,Michigan,Lenawee,26091,"97,520",40.6,12.4,26.4
+NC,North Carolina,Camden,37029,"11,137",35.2,10.7,21.2
+VA,Virginia,Manassas Park,51685,"16,361",38.6,13.8,30.8
+LA,Louisiana,Franklin,22041,"19,285",42.0,18.4,37.7
+TX,Texas,San Saba,48411,"5,845",35.8,14.2,30.9
+MT,Montana,Sweet Grass,30097,"3,763",29.4,10.9,22.0
+GA,Georgia,Charlton,13049,"12,934",41.5,16.1,34.3
+ND,North Dakota,Cavalier,38019,"3,596",39.5,11.8,23.9
+KS,Kansas,Pratt,20151,"9,082",36.5,12.1,28.5
+IN,Indiana,Miami,18103,"35,402",44.3,14.6,28.4
+NE,Nebraska,Polk,31143,"5,228",40.4,12.0,28.3
+MO,Missouri,Cole,29051,"77,278",36.6,11.0,27.4
+MI,Michigan,Clinton,26037,"79,720",35.2,10.6,21.8
+IL,Illinois,DuPage,17043,"921,213",29.2,10.0,19.0
+NV,Nevada,White Pine,32033,"8,522",34.4,12.6,26.8
+SD,South Dakota,Moody,46101,"6,450",33.6,12.1,23.8
+WY,Wyoming,Laramie,56021,"100,984",33.8,10.5,27.5
+GA,Georgia,Cook,13075,"17,714",37.6,16.5,32.6
+TX,Texas,McCulloch,48307,"7,452",36.4,15.5,32.1
+OK,Oklahoma,McClain,40087,"47,072",38.5,11.3,28.6
+GA,Georgia,Seminole,13253,"9,092",39.4,18.0,33.3
+LA,Louisiana,Livingston,22063,"150,145",38.9,12.7,27.3
+NV,Nevada,Eureka,32011,"1,917",38.8,16.1,31.5
+GA,Georgia,Dawson,13085,"31,732",31.6,11.6,23.5
+SD,South Dakota,Hamlin,46057,"6,451",34.6,10.1,23.2
+VA,Virginia,Southampton,51175,"17,975",38.4,15.9,27.2
+NE,Nebraska,Deuel,31049,"1,871",39.8,14.2,29.4
+NE,Nebraska,Hayes,31085,846,41.0,14.1,31.2
+NC,North Carolina,Orange,37135,"150,626",28.0,9.3,18.1
+TX,Texas,Camp,48063,"13,000",40.0,16.1,33.8
+ND,North Dakota,Sheridan,38083,"1,266",36.2,13.9,28.2
+OK,Oklahoma,Cotton,40033,"5,427",43.1,15.4,35.0
+WV,West Virginia,Wayne,54099,"37,686",42.6,16.9,35.7
+TX,Texas,Denton,48121,"1,007,703",33.7,9.9,21.2
+TX,Texas,Red River,48387,"11,678",38.5,16.9,32.5
+TX,Texas,Foard,48155,"1,079",40.1,18.2,35.6
+MA,Massachusetts,Barnstable,25001,"231,735",26.3,10.7,19.0
+IA,Iowa,Floyd,19067,"15,326",39.8,12.9,27.5
+AR,Arkansas,Pike,05109,"10,208",38.3,14.4,34.4
+MS,Mississippi,Yalobusha,28161,"12,386",40.1,19.0,39.8
+AL,Alabama,Hale,01065,"14,888",47.6,19.7,36.0
+AL,Alabama,Houston,01069,"108,462",40.5,15.7,29.0
+MI,Michigan,Kent,26081,"661,354",34.8,10.3,21.6
+AR,Arkansas,Lafayette,05073,"6,095",46.0,20.6,43.5
+WI,Wisconsin,La Crosse,55063,"120,486",37.5,10.1,25.1
+TX,Texas,Comal,48091,"193,928",35.0,11.2,21.8
+NE,Nebraska,Wheeler,31183,775,38.4,13.2,26.7
+VA,Virginia,Petersburg,51730,"33,309",46.6,19.2,34.2
+MO,Missouri,Marion,29127,"28,336",39.6,12.8,31.4
+NC,North Carolina,Gaston,37071,"237,242",36.2,12.3,25.3
+AL,Alabama,Marengo,01091,"18,684",43.1,19.8,34.6
+IA,Iowa,Mitchell,19131,"10,518",40.1,12.2,26.4
+AR,Arkansas,Nevada,05099,"8,120",44.0,18.3,40.8
+IN,Indiana,Lawrence,18093,"45,084",42.0,13.9,26.8
+CO,Colorado,La Plata,08067,"56,407",20.9,9.3,16.1
+AL,Alabama,Washington,01129,"15,022",41.1,17.0,31.9
+ND,North Dakota,Ransom,38073,"5,603",37.9,12.1,25.1
+MI,Michigan,Otsego,26137,"25,747",38.1,12.3,25.7
+MO,Missouri,Wayne,29223,"10,811",41.5,17.4,39.1
+TX,Texas,Sherman,48421,"2,678",35.4,12.9,28.5
+ID,Idaho,Franklin,16041,"15,494",35.7,9.4,22.6
+AR,Arkansas,Stone,05137,"12,671",39.8,17.0,37.9
+IL,Illinois,Wabash,17185,"10,942",39.8,13.3,25.6
+CO,Colorado,Pueblo,08101,"169,422",32.1,12.3,26.8
+WI,Wisconsin,Vilas,55125,"23,885",38.4,13.8,28.7
+AL,Alabama,Conecuh,01035,"11,174",46.4,22.1,39.4
+GA,Georgia,Fayette,13113,"123,351",30.7,12.6,21.2
+VA,Virginia,Pulaski,51155,"33,655",35.7,14.1,27.9
+MN,Minnesota,Pipestone,27117,"9,245",38.5,12.7,28.0
+TN,Tennessee,Wilson,47189,"163,674",31.2,11.3,21.8
+AR,Arkansas,Lawrence,05075,"16,318",43.7,14.4,36.3
+SD,South Dakota,Clay,46027,"15,431",34.7,8.1,21.7
+TX,Texas,Kerr,48265,"53,915",34.4,14.7,28.0
+MT,Montana,Missoula,30063,"121,849",26.2,8.3,16.5
+FL,Florida,Putnam,12107,"75,955",33.1,17.5,33.7
+IN,Indiana,Huntington,18069,"36,781",39.9,13.3,25.2
+IL,Illinois,Brown,17009,"6,294",41.5,11.7,26.4
+ID,Idaho,Lincoln,16063,"5,450",34.2,11.5,27.9
+LA,Louisiana,Rapides,22079,"126,260",40.7,15.6,31.4
+IA,Iowa,Des Moines,19057,"38,253",34.6,12.3,28.2
+ID,Idaho,Bonneville,16019,"131,366",33.3,9.4,21.4
+KS,Kansas,Cloud,20029,"8,854",41.4,12.3,29.0
+KS,Kansas,Scott,20171,"4,922",38.1,11.4,26.4
+AR,Arkansas,Searcy,05129,"7,806",39.9,17.6,38.6
+NY,New York,Broome,36007,"196,077",33.1,10.9,24.4
+WI,Wisconsin,Green,55045,"36,951",40.3,11.3,26.5
+TX,Texas,San Jacinto,48407,"28,936",39.0,16.4,32.4
+GA,Georgia,Colquitt,13071,"46,167",35.7,16.7,35.0
+WA,Washington,King,53033,"2,271,380",22.6,7.3,13.9
+IL,Illinois,Whiteside,17195,"54,498",36.2,13.0,25.4
+CA,California,Calaveras,06009,"46,565",29.8,13.2,24.8
+NC,North Carolina,Craven,37049,"102,391",36.9,12.5,24.8
+GA,Georgia,Brooks,13027,"16,245",40.2,20.0,36.7
+OH,Ohio,Ashtabula,39007,"96,845",45.8,16.2,34.5
+VA,Virginia,Greene,51079,"21,301",37.8,12.7,25.8
+VA,Virginia,Newport News,51700,"183,118",40.8,13.5,28.1
+OR,Oregon,Jefferson,41031,"25,454",35.5,13.4,23.3
+IN,Indiana,Howard,18067,"83,831",36.5,14.4,27.8
+NY,New York,Tompkins,36109,"103,558",24.6,7.6,17.9
+AL,Alabama,Dale,01045,"49,871",41.3,15.8,31.7
+MT,Montana,Gallatin,30031,"126,409",23.0,6.7,13.9
+NJ,New Jersey,Hudson,34017,"705,472",27.9,10.5,27.9
+MN,Minnesota,Steele,27147,"37,421",37.4,10.9,24.3
+AL,Alabama,Madison,01089,"412,600",39.9,12.1,22.7
+UT,Utah,Millard,49027,"13,437",34.1,11.8,23.3
+UT,Utah,Juab,49023,"13,023",32.6,9.0,18.6
+IA,Iowa,Jones,19105,"20,900",39.7,11.9,25.8
+LA,Louisiana,Caldwell,22021,"9,389",38.6,16.7,35.7
+TX,Texas,Anderson,48001,"57,736",39.9,13.9,30.6
+VA,Virginia,Fairfax,51059,"1,141,878",24.0,10.7,19.4
+OK,Oklahoma,Okmulgee,40111,"37,035",45.0,15.4,37.2
+IN,Indiana,Spencer,18147,"19,910",39.9,13.4,24.0
+WA,Washington,San Juan,53055,"18,566",24.7,10.9,15.8
+MT,Montana,Hill,30041,"16,276",38.5,12.1,25.3
+TN,Tennessee,Maury,47119,"110,760",35.2,12.6,24.6
+SD,South Dakota,Hanson,46061,"3,471",36.6,12.1,24.2
+WI,Wisconsin,Marquette,55077,"15,838",43.4,14.6,32.9
+CO,Colorado,Moffat,08081,"13,327",28.5,10.8,22.1
+NV,Nevada,Elko,32007,"54,293",38.0,11.0,25.8
+MT,Montana,Valley,30105,"7,474",32.7,11.6,24.6
+WI,Wisconsin,Langlade,55067,"19,404",37.1,14.1,33.0
+NC,North Carolina,Graham,37075,"8,052",35.1,13.1,25.7
+TX,Texas,Llano,48299,"22,875",35.8,15.7,28.1
+ND,North Dakota,McHenry,38049,"5,131",42.1,11.9,26.2
+TN,Tennessee,Trousdale,47169,"12,271",39.1,11.7,27.9
+TX,Texas,Collingsworth,48087,"2,563",39.3,15.5,32.0
+MN,Minnesota,Stearns,27145,"160,977",36.0,10.1,23.1
+IN,Indiana,Lake,18089,"500,598",39.9,15.1,27.9
+IA,Iowa,Story,19169,"98,566",30.8,8.1,20.1
+IA,Iowa,Fremont,19071,"6,458",39.9,12.7,25.7
+ID,Idaho,Idaho,16049,"17,890",31.8,12.8,25.0
+IN,Indiana,Crawford,18025,"10,438",43.6,17.8,33.2
+ID,Idaho,Jerome,16053,"25,479",35.8,12.6,30.1
+CO,Colorado,Ouray,08091,"5,176",23.3,10.0,15.3
+MO,Missouri,Johnson,29101,"54,962",35.3,9.6,26.0
+UT,Utah,Weber,49057,"271,926",34.7,9.0,20.3
+WA,Washington,Whitman,53075,"48,012",28.5,7.4,16.6
+KS,Kansas,Norton,20137,"5,330",42.7,12.7,30.1
+MS,Mississippi,Adams,28001,"28,746",41.2,20.6,41.6
+AL,Alabama,Sumter,01119,"11,727",47.2,19.7,35.6
+AR,Arkansas,Calhoun,05013,"4,641",39.2,14.6,33.8
+NJ,New Jersey,Union,34039,"572,726",29.7,11.6,25.5
+NE,Nebraska,Hooker,31091,679,39.7,13.3,29.0
+SD,South Dakota,Jackson,46071,"2,776",40.9,18.6,35.2
+TX,Texas,Real,48385,"2,854",38.1,18.3,34.6
+NC,North Carolina,Pitt,37147,"175,119",39.0,12.0,25.2
+MO,Missouri,Franklin,29071,"106,404",39.6,12.2,29.4
+VT,Vermont,Rutland,50021,"60,271",35.5,10.3,22.2
+LA,Louisiana,Calcasieu,22019,"203,761",43.0,14.2,32.9
+CO,Colorado,Las Animas,08071,"14,348",32.5,13.7,26.0
+CA,California,Lassen,06035,"28,861",34.2,11.5,26.1
+TX,Texas,Morris,48343,"12,066",39.0,15.9,31.6
+WA,Washington,Clark,53011,"521,150",35.3,9.6,19.8
+MI,Michigan,Emmet,26047,"34,123",32.7,11.5,21.4
+MA,Massachusetts,Hampshire,25015,"162,502",22.2,8.2,17.4
+GA,Georgia,Wilkes,13317,"9,518",40.6,18.9,35.4
+MO,Missouri,Audrain,29007,"24,394",40.0,14.1,34.8
+VA,Virginia,Arlington,51013,"234,162",25.3,8.0,14.8
+CO,Colorado,Custer,08027,"5,534",26.6,12.4,19.6
+OK,Oklahoma,Alfalfa,40003,"5,673",40.6,13.5,31.7
+AL,Alabama,Etowah,01055,"103,241",43.8,16.3,33.3
+GA,Georgia,Chatham,13051,"303,655",33.0,13.1,25.2
+IL,Illinois,Kane,17089,"514,982",35.1,11.5,23.1
+MS,Mississippi,Holmes,28051,"15,777",50.7,23.3,45.0
+OK,Oklahoma,Harmon,40057,"2,392",42.4,17.0,39.3
+AK,Alaska,Bristol Bay,02060,844,34.9,11.3,22.2
+GA,Georgia,Bacon,13005,"11,124",36.9,14.9,32.7
+LA,Louisiana,Jackson,22049,"14,746",44.9,17.7,37.1
+MO,Missouri,Cass,29037,"111,732",38.0,11.5,26.3
+AL,Alabama,Clarke,01025,"22,337",43.9,18.4,34.4
+OK,Oklahoma,Pittsburg,40121,"43,479",40.1,14.3,33.8
+NJ,New Jersey,Mercer,34021,"381,671",25.4,11.1,24.4
+WV,West Virginia,Monongalia,54061,"107,718",31.9,10.8,22.9
+NE,Nebraska,Cedar,31027,"8,262",40.2,11.3,25.4
+GA,Georgia,Floyd,13115,"100,113",37.3,14.1,28.6
+KS,Kansas,Kearny,20093,"3,823",37.6,12.9,32.2
+WI,Wisconsin,Winnebago,55139,"171,735",40.0,11.2,27.7
+FL,Florida,Suwannee,12121,"46,130",38.3,15.0,32.3
+AL,Alabama,Pike,01109,"33,137",40.3,14.1,28.1
+OR,Oregon,Gilliam,41021,"2,026",35.4,14.8,25.5
+ID,Idaho,Elmore,16039,"29,724",34.2,10.4,24.4
+WY,Wyoming,Carbon,56007,"14,334",38.6,12.9,30.5
+ND,North Dakota,Renville,38075,"2,279",39.0,11.1,24.4
+SC,South Carolina,Calhoun,45017,"14,186",40.7,17.3,29.1
+NE,Nebraska,Keya Paha,31103,805,36.6,14.2,30.1
+CT,Connecticut,Northeastern Connecticut,09150,"96,692",33.3,10.3,26.3
+WI,Wisconsin,Bayfield,55007,"16,769",39.1,13.9,27.3
+VA,Virginia,Prince Edward,51147,"22,049",37.2,13.5,27.7
+MI,Michigan,Kalamazoo,26077,"262,215",37.4,9.7,22.8
+MN,Minnesota,Otter Tail,27111,"60,626",34.3,12.1,25.9
+WI,Wisconsin,Kenosha,55059,"167,488",40.1,11.4,27.3
+MI,Michigan,Van Buren,26159,"75,798",39.4,13.5,28.0
+IL,Illinois,Coles,17029,"46,060",37.7,11.4,24.2
+IN,Indiana,Wayne,18177,"66,127",37.9,14.7,28.7
+AR,Arkansas,Izard,05065,"14,169",41.2,15.9,37.3
+TX,Texas,Stephens,48429,"9,343",36.3,13.8,29.9
+IN,Indiana,Dearborn,18029,"51,215",35.8,12.4,24.0
+NY,New York,Orange,36071,"407,470",32.2,11.2,26.0
+GA,Georgia,Paulding,13223,"183,164",38.4,11.6,23.0
+MT,Montana,Phillips,30071,"4,249",38.8,12.0,24.8
+VA,Virginia,Manassas,51683,"42,696",35.8,12.0,26.2
+WV,West Virginia,Fayette,54019,"39,072",40.5,17.9,35.9
+NE,Nebraska,Saunders,31155,"23,463",39.3,10.5,23.5
+MI,Michigan,Baraga,26013,"8,310",40.3,14.5,28.6
+ND,North Dakota,Bowman,38011,"2,867",36.3,11.4,24.5
+MN,Minnesota,Cottonwood,27033,"11,319",39.2,13.1,29.8
+AL,Alabama,Monroe,01099,"19,229",43.8,19.7,36.8
+TN,Tennessee,Claiborne,47025,"32,654",42.3,15.0,30.3
+TX,Texas,Walker,48471,"81,268",39.3,13.3,29.7
+TX,Texas,Upshur,48459,"43,281",37.6,13.9,29.6
+GA,Georgia,Jackson,13157,"88,615",33.0,11.6,25.6
+OH,Ohio,Champaign,39021,"38,845",43.2,12.7,27.5
+FL,Florida,Dixie,12029,"17,465",34.7,16.1,32.4
+TX,Texas,Panola,48365,"22,838",37.4,13.8,28.7
+OK,Oklahoma,Jefferson,40067,"5,347",41.2,16.3,38.3
+NV,Nevada,Carson City,32510,"58,036",33.1,12.1,24.9
+CA,California,Stanislaus,06099,"551,430",36.4,11.9,30.3
+TN,Tennessee,Giles,47055,"30,721",39.8,15.4,28.8
+NC,North Carolina,Avery,37011,"17,561",37.1,12.9,25.4
+KS,Kansas,Franklin,20059,"26,125",40.3,11.5,27.3
+TX,Texas,Carson,48065,"5,878",34.0,11.7,24.2
+IA,Iowa,Carroll,19027,"20,522",39.7,12.0,27.2
+AR,Arkansas,Union,05139,"37,397",39.4,16.0,36.2
+SD,South Dakota,Turner,46125,"9,027",34.0,11.8,24.2
+MI,Michigan,Gladwin,26051,"25,853",40.6,15.0,29.2
+IN,Indiana,Boone,18011,"76,120",32.9,10.5,18.9
+WI,Wisconsin,Oneida,55085,"38,226",35.2,13.8,26.8
+MS,Mississippi,Scott,28123,"27,507",43.4,18.3,40.9
+TN,Tennessee,Jefferson,47089,"57,838",37.3,13.6,27.1
+KS,Kansas,Marion,20115,"11,690",38.7,12.2,27.9
+MT,Montana,Powell,30077,"7,133",35.8,11.3,25.1
+MA,Massachusetts,Franklin,25011,"70,836",26.3,10.8,22.1
+TX,Texas,Cooke,48097,"43,782",36.1,13.0,27.7
+OK,Oklahoma,Comanche,40031,"121,574",43.0,12.8,33.1
+SC,South Carolina,Saluda,45081,"19,123",43.6,16.8,32.2
+SC,South Carolina,Aiken,45003,"177,130",34.4,13.9,26.5
+MN,Minnesota,Lincoln,27081,"5,521",36.6,12.0,26.1
+FL,Florida,Holmes,12059,"19,944",36.3,14.5,29.5
+NE,Nebraska,Cuming,31039,"8,918",40.4,12.1,28.4
+GA,Georgia,Webster,13307,"2,337",42.2,21.0,36.4
+AK,Alaska,Nome,02180,"9,763",38.6,13.0,29.3
+AR,Arkansas,Monroe,05095,"6,512",43.5,19.1,39.6
+IL,Illinois,Pope,17151,"3,707",39.6,14.9,26.1
+TN,Tennessee,Stewart,47161,"14,222",38.1,14.0,27.6
+IN,Indiana,Pulaski,18131,"12,385",38.7,14.5,28.6
+KS,Kansas,Sheridan,20179,"2,423",34.0,11.8,26.3
+IL,Illinois,Carroll,17015,"15,526",38.8,13.3,25.8
+ME,Maine,York,23031,"218,586",33.1,10.4,21.3
+SC,South Carolina,Lancaster,45057,"108,215",36.1,14.1,26.5
+OH,Ohio,Henry,39069,"27,520",38.6,13.1,28.0
+SC,South Carolina,Union,45087,"26,629",44.0,19.1,34.0
+WI,Wisconsin,Rock,55105,"164,278",41.9,12.3,29.6
+TN,Tennessee,Weakley,47183,"33,084",39.1,13.9,28.9
+CA,California,Alameda,06001,"1,622,188",22.8,11.0,20.6
+MD,Maryland,Montgomery,24031,"1,058,474",26.1,10.8,19.2
+TX,Texas,Robertson,48395,"17,267",37.9,15.4,31.5
+OH,Ohio,Shelby,39149,"47,765",39.6,13.3,29.3
+KS,Kansas,Cherokee,20021,"19,054",43.8,13.4,30.6
+GA,Georgia,Butts,13035,"26,887",38.2,13.8,31.0
+TX,Texas,McMullen,48311,568,38.6,17.8,35.5
+AR,Arkansas,Randolph,05121,"18,907",41.4,14.7,37.9
+IA,Iowa,Hancock,19081,"10,615",42.2,12.6,28.7
+AR,Arkansas,Ashley,05003,"18,262",45.1,18.3,41.9
+IL,Illinois,Schuyler,17169,"6,733",40.4,14.4,27.3
+TX,Texas,Bell,48027,"393,193",43.2,12.6,29.3
+NY,New York,Kings,36047,"2,561,225",25.1,12.0,26.2
+MS,Mississippi,Bolivar,28011,"28,968",46.5,20.5,42.3
+MI,Michigan,Macomb,26099,"875,101",37.5,11.4,26.3
+TN,Tennessee,Lauderdale,47097,"24,610",47.2,17.2,34.5
+CA,California,Riverside,06065,"2,492,442",36.8,12.4,27.3
+OK,Oklahoma,Creek,40037,"73,332",39.8,13.4,31.3
+TX,Texas,Irion,48235,"1,549",35.1,13.4,26.7
+OR,Oregon,Lane,41039,"381,181",34.3,10.8,19.2
+OH,Ohio,Jackson,39079,"32,606",44.9,14.9,33.8
+CO,Colorado,Jackson,08057,"1,309",30.0,13.9,25.2
+OR,Oregon,Columbia,41009,"53,880",33.5,12.1,22.1
+SD,South Dakota,Dewey,46041,"5,208",43.6,18.0,36.3
+TX,Texas,Hardin,48199,"58,261",34.0,12.4,26.8
+SD,South Dakota,Pennington,46103,"115,903",33.7,12.1,23.3
+NC,North Carolina,Alleghany,37005,"11,342",36.5,16.0,29.6
+TN,Tennessee,Moore,47127,"6,748",38.8,14.7,28.6
+WA,Washington,Thurston,53067,"299,003",31.2,10.3,17.2
+IN,Indiana,Warren,18171,"8,518",41.6,14.1,26.7
+WV,West Virginia,Taylor,54091,"16,388",42.0,15.9,34.7
+TX,Texas,Houston,48225,"22,066",38.2,16.8,33.7
+SD,South Dakota,Sully,46119,"1,494",34.7,12.5,23.4
+LA,Louisiana,Ascension,22005,"131,632",35.5,12.2,26.1
+MO,Missouri,Reynolds,29179,"5,950",41.2,15.9,36.7
+NM,New Mexico,Grant,35017,"27,472",32.8,15.9,28.3
+GA,Georgia,Clayton,13063,"298,300",45.2,16.2,32.5
+TX,Texas,Yoakum,48501,"7,468",37.6,13.5,32.1
+AK,Alaska,Ketchikan Gateway,02130,"13,738",37.7,10.1,21.9
+MO,Missouri,Grundy,29079,"9,815",39.0,14.3,34.9
+VA,Virginia,Stafford,51179,"165,428",35.7,10.7,22.1
+IN,Indiana,Jay,18075,"20,032",43.6,15.0,30.6
+MN,Minnesota,Kandiyohi,27067,"43,813",40.6,12.3,25.4
+OH,Ohio,Meigs,39105,"21,767",44.5,17.3,39.1
+FL,Florida,St. Lucie,12111,"373,586",31.5,14.5,27.0
+MO,Missouri,Sullivan,29211,"5,797",40.1,15.1,35.4
+KS,Kansas,Washington,20201,"5,504",34.0,11.9,28.4
+NC,North Carolina,Halifax,37083,"47,298",42.6,19.4,35.2
+WA,Washington,Asotin,53003,"22,549",35.3,12.6,21.6
+MO,Missouri,Benton,29015,"20,552",38.9,16.7,34.7
+MT,Montana,Broadwater,30007,"8,032",30.7,10.4,21.6
+CA,California,Santa Cruz,06087,"261,547",25.8,10.2,20.7
+WI,Wisconsin,Shawano,55115,"41,109",40.4,12.9,30.0
+MO,Missouri,Linn,29115,"11,791",35.7,13.5,32.9
+FL,Florida,Marion,12083,"409,959",36.4,14.9,26.6
+GA,Georgia,Glynn,13127,"86,172",35.1,15.3,28.2
+AK,Alaska,Fairbanks North Star,02090,"94,840",35.3,7.9,21.2
+ID,Idaho,Caribou,16029,"7,219",34.8,10.5,24.0
+AL,Alabama,Calhoun,01015,"116,429",38.6,14.8,31.9
+NE,Nebraska,Pawnee,31133,"2,512",37.5,14.4,33.2
+TX,Texas,Leon,48289,"16,538",36.2,15.3,30.5
+LA,Louisiana,LaSalle,22059,"14,800",38.6,13.1,30.2
+CO,Colorado,Adams,08001,"533,365",33.2,9.7,22.8
+OH,Ohio,Sandusky,39143,"58,709",40.7,14.4,29.3
+VA,Virginia,Charles City,51036,"6,610",42.1,19.4,31.9
+NH,New Hampshire,Hillsborough,33011,"427,354",33.1,9.2,22.2
+VA,Virginia,Portsmouth,51740,"96,793",40.8,15.8,30.0
+IN,Indiana,Jefferson,18077,"33,056",36.6,13.5,25.3
+DE,Delaware,Kent,10001,"189,789",43.5,14.3,31.6
+VA,Virginia,Richmond,51760,"229,247",37.7,12.9,25.4
+GA,Georgia,Richmond,13245,"205,414",36.6,16.7,30.5
+IA,Iowa,Wapello,19179,"35,166",41.7,13.5,30.7
+AL,Alabama,Lawrence,01079,"33,502",39.5,15.5,31.1
+IL,Illinois,Livingston,17105,"35,320",35.9,12.2,25.4
+NM,New Mexico,Colfax,35007,"12,255",31.5,15.5,27.5
+GA,Georgia,Dooly,13093,"10,981",41.0,18.3,34.4
+VA,Virginia,Gloucester,51073,"40,057",35.8,12.8,23.8
+UT,Utah,Utah,49049,"719,174",29.7,6.9,14.2
+WY,Wyoming,Sweetwater,56037,"41,249",36.3,11.1,27.2
+AZ,Arizona,Cochise,04003,"124,640",31.2,13.7,26.0
+IL,Illinois,De Witt,17039,"15,365",38.2,12.2,24.2
+CO,Colorado,Sedgwick,08115,"2,299",28.0,13.0,23.1
+LA,Louisiana,Bossier,22015,"129,795",40.9,13.2,29.9
+SD,South Dakota,Corson,46031,"3,782",43.5,19.9,37.3
+CO,Colorado,Gunnison,08051,"17,321",23.8,7.1,14.2
+NE,Nebraska,Garden,31069,"1,794",40.2,15.5,32.6
+WI,Wisconsin,Florence,55037,"4,682",37.5,14.3,29.4
+VA,Virginia,Richmond,51159,"9,184",37.1,15.1,30.0
+CA,California,Mariposa,06043,"16,919",30.5,13.5,24.6
+MO,Missouri,Ralls,29173,"10,489",40.1,14.1,32.6
+IL,Illinois,Bond,17005,"16,450",39.0,11.6,24.2
+VA,Virginia,Lancaster,51103,"10,859",35.1,18.1,29.2
+MN,Minnesota,Pope,27121,"11,400",38.9,12.2,25.1
+MS,Mississippi,Lamar,28073,"66,217",38.7,12.4,29.4
+OK,Oklahoma,Roger Mills,40129,"3,295",40.3,14.6,33.5
+NC,North Carolina,Robeson,37155,"117,365",47.9,18.4,35.6
+MI,Michigan,St. Joseph,26149,"60,878",38.3,12.8,26.2
+IA,Iowa,Page,19145,"15,014",42.9,13.6,29.3
+OH,Ohio,Delaware,39041,"231,636",31.5,10.1,17.7
+LA,Louisiana,West Baton Rouge,22121,"28,266",41.6,14.0,28.1
+KS,Kansas,Allen,20001,"12,412",37.4,12.5,29.3
+NE,Nebraska,Butler,31023,"8,459",38.6,11.3,27.3
+OK,Oklahoma,Marshall,40095,"15,970",39.4,15.7,37.3
+GA,Georgia,Liberty,13179,"69,210",32.3,11.6,27.9
+VA,Virginia,Amelia,51007,"13,480",39.3,16.6,30.3
+IA,Iowa,Clay,19041,"16,511",35.2,12.3,26.5
+OK,Oklahoma,Murray,40099,"13,754",41.4,14.3,34.9
+FL,Florida,Walton,12131,"86,354",30.1,12.3,22.0
+NY,New York,Schoharie,36095,"30,105",32.4,11.3,25.3
+MS,Mississippi,Tate,28137,"28,261",36.1,14.2,32.8
+GA,Georgia,Muscogee,13215,"201,877",40.3,15.0,29.8
+ND,North Dakota,Pembina,38067,"6,661",41.9,12.8,26.5
+VT,Vermont,Franklin,50011,"50,994",36.9,9.6,21.5
+TX,Texas,Hidalgo,48215,"898,471",44.2,17.4,37.5
+IL,Illinois,Hardin,17069,"3,569",39.7,14.7,27.4
+TX,Texas,Swisher,48437,"6,955",40.5,16.6,36.9
+IN,Indiana,Owen,18119,"21,532",41.7,14.5,27.5
+MN,Minnesota,Freeborn,27047,"30,515",36.0,12.9,30.0
+TX,Texas,Freestone,48161,"20,441",38.2,14.7,30.1
+TX,Texas,Gillespie,48171,"27,733",32.8,13.6,25.6
+WV,West Virginia,Ohio,54069,"41,194",39.5,15.0,29.8
+FL,Florida,Hardee,12049,"25,760",39.9,15.6,33.9
+WY,Wyoming,Niobrara,56027,"2,354",36.3,13.0,30.2
+IA,Iowa,Monroe,19135,"7,504",38.2,11.7,25.4
+FL,Florida,Okaloosa,12091,"218,464",30.7,10.8,22.8
+WI,Wisconsin,Calumet,55015,"53,199",33.3,10.3,25.3
+MO,Missouri,Newton,29145,"60,677",38.8,13.4,31.4
+HI,Hawaii,Maui,15009,"164,183",26.2,12.2,20.5
+RI,Rhode Island,Kent,44003,"171,278",33.0,11.8,23.7
+OH,Ohio,Wayne,39169,"116,510",37.5,12.9,27.3
+GA,Georgia,Walton,13297,"106,702",38.3,13.0,28.0
+SC,South Carolina,Horry,45051,"397,478",32.3,14.9,25.0
+TX,Texas,Harris,48201,"4,835,125",37.3,13.2,26.8
+IA,Iowa,Davis,19051,"9,169",37.5,12.0,28.4
+AZ,Arizona,La Paz,04012,"16,710",33.2,17.5,32.1
+IL,Illinois,Clay,17025,"12,999",41.5,13.9,27.8
+OH,Ohio,Portage,39133,"162,665",32.9,11.8,25.0
+WI,Wisconsin,Iron,55051,"6,228",34.7,14.8,30.4
+FL,Florida,Baker,12003,"28,368",35.3,12.3,27.7
+MT,Montana,Mineral,30061,"5,090",36.0,12.8,25.0
+ND,North Dakota,Barnes,38003,"10,726",37.7,11.5,23.8
+UT,Utah,Cache,49005,"142,393",27.9,7.8,15.5
+NM,New Mexico,San Juan,35045,"120,675",35.1,14.5,26.5
+NE,Nebraska,Saline,31151,"14,555",40.4,11.8,29.2
+ID,Idaho,Twin Falls,16083,"95,156",33.3,11.0,27.8
+AR,Arkansas,Hempstead,05057,"19,343",45.6,16.6,39.7
+IA,Iowa,Bremer,19017,"25,307",37.6,9.9,22.4
+NC,North Carolina,Catawba,37035,"164,645",37.4,12.1,24.3
+CA,California,Monterey,06053,"430,723",31.1,12.5,27.0
+LA,Louisiana,St. John the Baptist,22095,"39,592",41.8,17.2,31.7
+IN,Indiana,Greene,18055,"31,196",40.7,14.7,28.4
+TN,Tennessee,Crockett,47033,"13,982",42.1,15.5,30.9
+IL,Illinois,Effingham,17049,"34,331",34.3,11.3,22.8
+TX,Texas,Van Zandt,48467,"64,000",36.0,13.4,28.7
+AK,Alaska,Sitka,02220,"8,282",29.8,9.9,19.2
+CO,Colorado,Boulder,08013,"326,831",16.7,7.1,12.1
+NY,New York,Oneida,36065,"227,555",36.1,11.5,28.1
+GA,Georgia,McIntosh,13191,"11,501",40.7,20.4,36.9
+IA,Iowa,Louisa,19115,"10,513",40.2,12.8,28.9
+IN,Indiana,Allen,18003,"394,545",39.4,12.9,22.9
+GA,Georgia,Tattnall,13267,"24,296",40.7,16.0,34.9
+AL,Alabama,Winston,01133,"23,611",39.1,16.5,34.1
+WV,West Virginia,Randolph,54083,"27,350",45.9,16.0,33.4
+CA,California,Tulare,06107,"479,468",35.0,13.1,32.6
+SD,South Dakota,Mellette,46095,"1,851",45.6,21.1,38.5
+VA,Virginia,Danville,51590,"41,837",41.7,19.9,35.6
+NY,New York,Chenango,36017,"45,920",36.3,12.3,27.8
+MN,Minnesota,Carver,27019,"111,057",32.0,8.5,19.0
+UT,Utah,Emery,49015,"10,144",30.6,11.2,20.1
+TX,Texas,Edwards,48137,"1,393",38.2,19.3,36.4
+KS,Kansas,Bourbon,20011,"14,408",36.7,12.7,30.9
+WV,West Virginia,Hampshire,54027,"23,649",39.2,16.9,33.9
+LA,Louisiana,Natchitoches,22069,"36,291",40.1,15.5,32.1
+KS,Kansas,Pottawatomie,20149,"26,382",35.8,9.7,23.8
+VA,Virginia,Louisa,51109,"41,037",36.7,14.1,25.4
+IL,Illinois,Gallatin,17059,"4,670",40.8,14.6,28.2
+KS,Kansas,Ellis,20051,"28,810",36.5,9.8,23.6
+MN,Minnesota,Hubbard,27057,"22,132",35.4,13.3,24.4
+MO,Missouri,New Madrid,29143,"15,424",43.2,16.1,39.0
+IN,Indiana,St. Joseph,18141,"272,848",35.3,12.9,26.5
+TX,Texas,Bosque,48035,"18,996",35.9,14.3,28.2
+MS,Mississippi,Pontotoc,28115,"31,535",38.9,13.8,34.2
+TX,Texas,Jefferson,48245,"251,496",41.3,15.6,31.9
+KS,Kansas,Linn,20107,"9,860",37.2,12.5,27.8
+TX,Texas,Lamb,48279,"12,711",40.0,16.6,35.9
+MI,Michigan,Muskegon,26121,"176,564",44.3,12.7,27.9
+TX,Texas,Calhoun,48057,"19,696",34.8,14.7,31.3
+IL,Illinois,Peoria,17143,"177,513",34.8,12.6,23.5
+AR,Arkansas,Madison,05087,"17,775",40.8,13.9,35.2
+VA,Virginia,Fredericksburg,51630,"28,928",39.5,10.2,22.8
+CA,California,Humboldt,06023,"133,985",31.3,11.4,23.7
+LA,Louisiana,West Feliciana,22125,"15,371",40.7,14.6,28.5
+MN,Minnesota,Rice,27131,"67,948",37.5,10.1,25.5
+TN,Tennessee,Hamblen,47063,"66,216",40.5,15.2,31.1
+WA,Washington,Lewis,53041,"86,154",39.0,12.1,22.4
+AZ,Arizona,Pinal,04021,"484,239",38.4,12.9,25.5
+FL,Florida,Citrus,12017,"166,696",32.3,15.8,28.8
+SC,South Carolina,Chester,45023,"32,226",37.9,16.9,32.8
+VA,Virginia,Clarke,51043,"15,466",32.8,12.2,22.9
+GA,Georgia,Heard,13149,"12,034",35.6,14.3,30.6
+KS,Kansas,Jackson,20085,"13,368",37.8,12.3,27.2
+NC,North Carolina,Mitchell,37121,"14,999",37.2,12.8,24.9
+TX,Texas,Polk,48373,"54,186",39.2,15.4,32.4
+VA,Virginia,Washington,51191,"54,050",38.3,13.8,27.0
+NM,New Mexico,Sandoval,35043,"155,936",32.6,11.8,22.1
+TX,Texas,Crosby,48107,"4,917",40.5,17.1,37.0
+NE,Nebraska,Furnas,31065,"4,556",44.4,13.5,29.1
+KS,Kansas,Douglas,20045,"120,553",30.5,8.4,18.8
+IL,Illinois,Stephenson,17177,"43,105",40.6,13.9,26.8
+GA,Georgia,Taylor,13269,"7,758",42.4,20.2,38.3
+LA,Louisiana,Vermilion,22113,"56,992",42.8,15.0,32.1
+TX,Texas,Wilson,48493,"54,183",35.3,13.1,26.6
+KS,Kansas,Stanton,20187,"1,901",39.5,14.7,35.4
+OH,Ohio,Hamilton,39061,"827,058",35.6,13.2,24.4
+SD,South Dakota,Roberts,46109,"10,206",43.0,16.3,31.7
+MD,Maryland,Calvert,24009,"94,728",36.3,10.9,19.8
+AR,Arkansas,Cross,05037,"16,420",45.0,16.1,38.6
+NY,New York,Cortland,36023,"45,752",30.5,9.3,23.8
+MN,Minnesota,Waseca,27161,"18,981",39.1,11.4,26.4
+TN,Tennessee,Carter,47019,"57,022",37.9,15.9,31.4
+NC,North Carolina,Franklin,37069,"77,001",38.8,12.8,25.0
+GA,Georgia,Bibb,13021,"156,512",44.7,16.9,32.2
+WA,Washington,Douglas,53017,"44,798",35.8,11.0,23.0
+SD,South Dakota,Beadle,46005,"19,591",35.4,13.4,29.7
+MS,Mississippi,Tunica,28143,"9,234",51.0,21.4,45.1
+SD,South Dakota,Brown,46013,"37,733",35.1,11.2,24.4
+SC,South Carolina,McCormick,45065,"9,941",36.9,20.6,30.6
+TX,Texas,Sabine,48403,"10,106",35.5,16.6,30.7
+SD,South Dakota,Kingsbury,46077,"5,276",35.6,12.1,24.6
+MO,Missouri,Washington,29221,"23,534",41.9,14.8,35.3
+NE,Nebraska,Hitchcock,31087,"2,552",41.6,13.4,29.8
+OR,Oregon,Clackamas,41005,"423,173",34.0,10.5,19.7
+KS,Kansas,Osage,20139,"15,824",41.8,12.5,28.2
+OK,Oklahoma,Latimer,40077,"9,526",42.3,17.0,37.9
+MD,Maryland,Somerset,24039,"24,910",38.4,14.2,31.3
+IN,Indiana,Rush,18139,"16,847",39.1,14.3,27.7
+IA,Iowa,Greene,19073,"8,584",35.8,13.1,28.2
+VA,Virginia,Buckingham,51029,"16,978",43.6,16.6,30.9
+OH,Ohio,Belmont,39013,"64,918",40.9,14.5,32.1
+TX,Texas,Wheeler,48483,"4,804",37.2,14.7,30.8
+IL,Illinois,Jasper,17079,"9,144",38.2,12.0,23.2
+TX,Texas,Burleson,48051,"19,475",35.9,14.0,28.7
+IL,Illinois,Will,17197,"700,728",38.0,10.7,24.0
+MI,Michigan,Calhoun,26025,"133,366",42.5,13.3,27.8
+TN,Tennessee,Lincoln,47103,"36,169",40.5,14.8,28.8
+CO,Colorado,Lake,08065,"7,365",23.9,8.4,17.0
+MS,Mississippi,Lincoln,28085,"34,702",40.5,15.7,34.9
+MO,Missouri,Holt,29087,"4,248",36.6,14.1,33.3
+TX,Texas,Hall,48191,"2,818",39.1,17.5,34.4
+IA,Iowa,Pottawattamie,19155,"93,179",39.1,11.7,27.4
+WI,Wisconsin,Vernon,55123,"31,170",38.8,12.9,29.6
+OH,Ohio,Knox,39083,"63,320",37.1,12.6,27.6
+IN,Indiana,Vanderburgh,18163,"179,810",38.2,12.8,26.2
+MT,Montana,Rosebud,30087,"8,160",39.5,13.6,27.4
+OK,Oklahoma,Bryan,40013,"48,967",40.0,13.4,34.1
+GA,Georgia,Gwinnett,13135,"983,526",34.9,12.6,27.3
+IA,Iowa,Wayne,19185,"6,557",40.6,13.1,29.3
+OH,Ohio,Defiance,39039,"38,315",35.3,13.3,27.8
+LA,Louisiana,West Carroll,22123,"9,323",40.1,16.5,33.7
+CA,California,San Diego,06073,"3,269,973",25.3,10.0,20.6
+IL,Illinois,Clark,17023,"15,088",37.3,12.0,23.2
+VA,Virginia,Harrisonburg,51660,"51,082",34.0,10.2,25.9
+GA,Georgia,Banks,13011,"19,789",34.5,13.8,29.2
+KS,Kansas,Thomas,20193,"7,865",35.0,10.2,24.9
+CO,Colorado,Washington,08121,"4,855",26.4,10.5,20.2
+AR,Arkansas,Franklin,05047,"17,468",39.8,14.6,35.5
+UT,Utah,Sanpete,49039,"30,277",29.2,10.4,20.5
+WV,West Virginia,McDowell,54047,"17,439",46.2,21.6,45.0
+ID,Idaho,Boundary,16021,"13,557",33.3,12.6,26.0
+NH,New Hampshire,Sullivan,33019,"43,969",33.5,11.2,24.6
+TX,Texas,Ector,48135,"164,494",40.0,12.8,31.8
+OR,Oregon,Wheeler,41069,"1,436",35.8,16.5,25.8
+TX,Texas,Tyler,48457,"20,382",38.7,15.3,33.1
+MS,Mississippi,Jefferson Davis,28065,"10,969",45.4,21.8,41.6
+TX,Texas,Hill,48217,"38,101",36.9,14.2,30.4
+ND,North Dakota,Mountrail,38061,"9,383",42.2,12.8,29.8
+CO,Colorado,Routt,08107,"25,064",23.7,8.3,15.3
+MS,Mississippi,Warren,28149,"42,298",43.8,16.2,32.9
+WY,Wyoming,Weston,56045,"6,808",35.7,12.6,28.3
+TX,Texas,Bastrop,48021,"110,778",40.2,13.4,31.3
+OH,Ohio,Montgomery,39113,"533,796",37.0,14.5,29.3
+CA,California,San Luis Obispo,06079,"281,639",26.1,10.0,20.1
+AL,Alabama,Bibb,01007,"21,868",43.9,16.2,33.3
+NE,Nebraska,Platte,31141,"34,609",41.8,11.9,27.2
+MN,Minnesota,Morrison,27097,"34,250",37.2,12.0,26.4
+WA,Washington,Grays Harbor,53027,"77,290",37.0,13.6,23.8
+SD,South Dakota,Haakon,46055,"1,851",33.7,13.5,26.8
+MI,Michigan,Clare,26035,"31,316",40.5,15.4,30.4
+WA,Washington,Snohomish,53061,"844,761",30.6,9.1,17.8
+MO,Missouri,Butler,29023,"41,948",41.1,15.3,37.7
+CO,Colorado,Fremont,08043,"50,318",30.6,11.4,22.9
+IA,Iowa,Madison,19121,"16,971",37.2,10.5,22.8
+GA,Georgia,Putnam,13237,"23,129",39.4,17.1,30.6
+WV,West Virginia,Calhoun,54013,"5,959",40.8,21.1,41.2
+OK,Oklahoma,Garfield,40047,"62,023",41.7,12.6,32.0
+GA,Georgia,Echols,13101,"3,709",38.3,13.6,30.6
+OK,Oklahoma,Washita,40149,"10,736",39.5,13.4,32.5
+GA,Georgia,Decatur,13087,"29,087",42.2,17.8,34.6
+CA,California,Tuolumne,06109,"54,204",29.0,12.1,23.0
+AK,Alaska,Kenai Peninsula,02122,"61,223",32.3,9.8,21.5
+IL,Illinois,McLean,17113,"170,441",34.5,9.5,19.4
+NE,Nebraska,Greeley,31077,"2,219",34.7,12.6,28.5
+KS,Kansas,Graham,20065,"2,376",36.7,14.3,29.9
+AR,Arkansas,Poinsett,05111,"22,397",41.4,14.6,38.7
+TX,Texas,Montgomery,48339,"711,354",31.8,11.4,23.5
+NC,North Carolina,Sampson,37163,"59,601",41.8,15.6,30.6
+AL,Alabama,Jackson,01071,"53,467",39.3,16.0,32.5
+NM,New Mexico,Eddy,35015,"60,275",39.8,11.6,26.7
+OH,Ohio,Franklin,39049,"1,326,063",33.7,11.8,23.7
+VA,Virginia,James City,51095,"82,654",32.1,12.5,21.1
+IL,Illinois,Marshall,17123,"11,683",38.6,13.0,25.1
+TN,Tennessee,Sequatchie,47153,"17,161",39.4,16.7,32.5
+MO,Missouri,Pemiscot,29155,"14,613",44.9,17.9,42.1
+ND,North Dakota,Eddy,38027,"2,263",38.7,13.5,27.5
+MS,Mississippi,Claiborne,28021,"8,617",47.8,20.4,41.5
+GA,Georgia,Lamar,13171,"20,401",36.6,13.6,28.6
+MT,Montana,Lincoln,30053,"21,895",37.8,14.0,27.0
+WV,West Virginia,Harrison,54033,"64,639",40.2,15.6,30.4
+OH,Ohio,Carroll,39019,"26,758",38.9,14.9,32.4
+IN,Indiana,Franklin,18047,"23,096",40.8,13.7,26.0
+NC,North Carolina,Macon,37113,"38,412",35.3,14.2,27.0
+OR,Oregon,Umatilla,41059,"80,053",37.7,12.5,25.0
+GA,Georgia,Monroe,13207,"30,625",34.9,13.1,25.9
+IL,Illinois,Randolph,17157,"29,815",38.8,12.9,26.2
+VA,Virginia,Wythe,51197,"28,104",38.8,14.3,28.2
+WV,West Virginia,Preston,54077,"34,099",37.7,15.3,31.9
+VT,Vermont,Orleans,50019,"27,516",33.2,10.7,23.5
+MO,Missouri,Scotland,29199,"4,676",37.1,12.8,33.3
+NM,New Mexico,Hidalgo,35023,"3,965",34.5,16.4,31.1
+VA,Virginia,Williamsburg,51830,"15,847",31.1,9.4,21.0
+NE,Nebraska,Box Butte,31013,"10,692",38.8,13.0,30.4
+TX,Texas,Gray,48179,"20,916",38.5,13.9,31.6
+OH,Ohio,Medina,39103,"184,042",36.3,11.9,24.2
+MI,Michigan,Roscommon,26143,"23,863",39.2,15.7,28.4
+NY,New York,Rockland,36087,"340,807",30.5,11.3,27.2
+GA,Georgia,Coweta,13077,"155,892",35.7,12.4,24.9
+NV,Nevada,Lyon,32019,"62,583",35.2,12.3,27.4
+LA,Louisiana,St. Tammany,22103,"275,583",37.4,13.3,26.0
+OH,Ohio,Paulding,39125,"18,706",41.3,14.1,30.8
+MD,Maryland,Dorchester,24019,"32,879",41.8,16.6,29.8
+MD,Maryland,Kent,24029,"19,303",35.1,13.7,24.4
+ID,Idaho,Owyhee,16073,"12,722",33.4,13.4,30.7
+AR,Arkansas,Newton,05101,"7,071",38.6,15.3,34.2
+GA,Georgia,Twiggs,13289,"7,691",39.7,18.6,33.9
+KS,Kansas,Logan,20109,"2,665",39.8,12.5,29.3
+TX,Texas,Lampasas,48281,"23,262",35.1,14.0,27.8
+MS,Mississippi,Smith,28129,"14,099",43.6,16.9,37.6
+WV,West Virginia,Berkeley,54003,"132,440",38.7,13.5,31.1
+IA,Iowa,Audubon,19009,"5,534",37.6,13.6,27.9
+SC,South Carolina,Abbeville,45001,"24,434",37.6,16.9,31.0
+UT,Utah,Duchesne,49013,"20,477",31.6,11.0,24.1
+IL,Illinois,Sangamon,17167,"193,491",39.6,11.9,22.2
+IL,Illinois,Monroe,17133,"34,957",35.5,10.1,18.6
+TX,Texas,Karnes,48255,"15,018",38.9,14.0,34.1
+TN,Tennessee,Houston,47083,"8,393",39.5,14.7,30.1
+HI,Hawaii,Hawaii,15001,"207,615",27.2,12.5,22.3
+NC,North Carolina,Caldwell,37027,"80,574",33.4,13.2,27.3
+CO,Colorado,Clear Creek,08019,"9,147",23.9,9.0,15.2
+MS,Mississippi,Forrest,28035,"78,208",35.8,13.1,29.8
+KS,Kansas,Hamilton,20075,"2,437",40.2,11.8,30.1
+ND,North Dakota,Steele,38091,"1,782",35.0,12.7,24.9
+FL,Florida,Polk,12105,"818,330",40.2,13.6,28.8
+VA,Virginia,Mecklenburg,51117,"30,648",41.2,18.6,31.3
+TN,Tennessee,Robertson,47147,"76,776",37.0,12.7,27.2
+NE,Nebraska,Dundy,31057,"1,561",37.0,14.2,29.6
+MI,Michigan,Leelanau,26089,"23,019",31.7,12.2,20.5
+OH,Ohio,Union,39159,"69,637",39.8,10.2,23.2
+OR,Oregon,Morrow,41049,"12,302",39.2,14.5,27.9
+LA,Louisiana,Evangeline,22039,"31,754",44.7,16.8,36.6
+IL,Illinois,Lee,17103,"33,654",38.9,12.8,25.6
+CA,California,Mendocino,06045,"89,108",29.3,13.7,26.0
+GA,Georgia,Meriwether,13199,"20,931",41.4,17.6,34.8
+TN,Tennessee,Decatur,47039,"11,656",43.0,17.8,33.5
+AR,Arkansas,Arkansas,05001,"16,307",39.1,15.2,35.6
+IA,Iowa,Clayton,19043,"16,969",41.0,13.9,30.7
+MO,Missouri,Clinton,29049,"21,548",39.5,12.0,30.3
+IN,Indiana,Martin,18101,"9,897",39.1,14.6,27.5
+VA,Virginia,Franklin,51620,"8,339",43.8,18.1,32.7
+TX,Texas,Hays,48209,"280,486",34.5,10.2,23.1
+NC,North Carolina,Yadkin,37197,"37,774",36.3,13.3,27.1
+WI,Wisconsin,Adams,55001,"21,449",40.3,16.7,33.7
+IL,Illinois,Douglas,17041,"19,629",38.5,11.7,24.7
+GA,Georgia,Stewart,13259,"4,674",41.6,17.9,39.2
+TX,Texas,Matagorda,48321,"36,359",39.4,16.4,33.8
+OK,Oklahoma,Texas,40139,"20,371",44.1,13.7,37.4
+KS,Kansas,Labette,20099,"19,728",41.3,13.4,32.2
+MN,Minnesota,Goodhue,27049,"48,035",36.0,10.9,25.3
+FL,Florida,Glades,12043,"12,786",37.1,17.7,36.1
+AR,Arkansas,Cleburne,05023,"25,445",37.9,15.1,34.6
+MS,Mississippi,Tippah,28139,"21,287",43.3,15.3,35.9
+SC,South Carolina,Darlington,45031,"62,416",45.6,17.6,30.3
+LA,Louisiana,Lincoln,22061,"47,962",42.6,13.5,30.7
+VA,Virginia,Dickenson,51051,"13,640",39.1,16.9,34.0
+TX,Texas,Cochran,48079,"2,509",42.6,18.6,41.7
+TX,Texas,Falls,48145,"17,286",40.0,16.1,33.8
+NC,North Carolina,Onslow,37133,"213,676",33.4,8.6,20.9
+FL,Florida,Lake,12069,"424,462",35.3,14.5,26.1
+IN,Indiana,Newton,18111,"13,960",43.5,14.4,28.3
+TX,Texas,Dawson,48115,"12,004",39.4,15.3,36.5
+ID,Idaho,Ada,16001,"524,673",29.0,9.0,18.4
+VA,Virginia,Rockingham,51165,"86,568",33.1,12.3,25.9
+KS,Kansas,Republic,20157,"4,627",41.2,14.3,30.6
+GA,Georgia,Hancock,13141,"8,676",44.8,22.8,40.0
+ME,Maine,Cumberland,23005,"310,230",26.7,8.9,17.1
+IA,Iowa,Fayette,19065,"19,210",38.5,13.1,29.4
+IA,Iowa,Humboldt,19091,"9,500",41.4,13.2,27.5
+MO,Missouri,Mississippi,29133,"11,822",47.6,16.7,41.4
+CA,California,Del Norte,06015,"26,589",31.0,12.5,25.6
+AR,Arkansas,Jackson,05067,"16,784",43.9,15.4,39.5
+VA,Virginia,Poquoson,51735,"12,635",33.2,11.0,20.6
+TN,Tennessee,Tipton,47167,"62,015",44.1,14.2,28.0
+TX,Texas,Collin,48085,"1,195,359",32.3,9.5,20.0
+NY,New York,Essex,36031,"36,775",34.8,11.8,25.8
+MO,Missouri,Maries,29125,"8,430",38.2,13.6,33.1
+IN,Indiana,Switzerland,18155,"10,019",40.4,14.9,29.8
+NE,Nebraska,York,31185,"14,356",40.9,11.2,26.8
+NM,New Mexico,Catron,35003,"3,825",31.6,17.7,27.3
+AL,Alabama,Mobile,01097,"411,640",39.0,16.1,30.7
+GA,Georgia,Tift,13277,"41,554",39.4,15.8,33.0
+IN,Indiana,Daviess,18027,"33,656",41.4,13.8,30.3
+ID,Idaho,Benewah,16009,"10,369",36.3,13.5,29.5
+NH,New Hampshire,Grafton,33009,"93,146",25.8,9.3,19.7
+ID,Idaho,Kootenai,16055,"185,010",31.7,9.9,19.6
+IA,Iowa,Mills,19129,"14,633",39.2,11.3,23.0
+TX,Texas,Reagan,48383,"3,141",39.1,14.5,33.0
+IL,Illinois,Warren,17187,"16,185",37.0,12.3,25.0
+MO,Missouri,DeKalb,29063,"9,899",38.9,12.5,30.3
+AL,Alabama,Walker,01127,"64,728",35.8,15.1,32.2
+VA,Virginia,Henrico,51087,"334,760",32.8,12.3,21.4
+MO,Missouri,Wright,29229,"19,403",42.2,15.5,38.2
+IL,Illinois,Johnson,17087,"13,326",41.4,12.9,26.4
+NC,North Carolina,Pasquotank,37139,"41,444",38.3,13.0,25.2
+SD,South Dakota,Hyde,46069,"1,186",35.3,13.6,26.1
+CO,Colorado,Prowers,08099,"11,751",29.2,12.6,26.3
+AL,Alabama,Coosa,01037,"10,268",41.9,18.6,33.5
+WI,Wisconsin,Walworth,55127,"105,822",38.4,11.2,26.1
+IA,Iowa,Scott,19163,"174,270",40.6,11.0,24.1
+TX,Texas,Kleberg,48273,"30,069",37.1,14.0,33.9
+IN,Indiana,Brown,18013,"15,653",36.1,14.7,25.3
+CO,Colorado,Lincoln,08073,"5,480",29.8,10.8,23.4
+WA,Washington,Okanogan,53047,"43,712",32.6,13.3,24.8
+MT,Montana,Deer Lodge,30023,"9,673",32.4,12.9,25.2
+SD,South Dakota,Clark,46025,"3,948",34.1,13.1,27.3
+LA,Louisiana,Richland,22083,"19,712",43.1,17.7,36.0
+MA,Massachusetts,Hampden,25013,"460,291",34.9,12.1,29.8
+AR,Arkansas,Lee,05077,"8,201",46.9,19.7,42.9
+OH,Ohio,Coshocton,39031,"36,869",41.5,15.3,32.3
+NE,Nebraska,Valley,31175,"4,012",41.8,12.9,28.6
+MN,Minnesota,Winona,27169,"49,721",33.8,9.8,22.5
+IN,Indiana,Cass,18017,"37,666",47.4,15.3,31.2
+WI,Wisconsin,Lincoln,55069,"28,405",42.8,13.1,30.2
+OK,Oklahoma,Payne,40119,"83,352",33.9,9.8,27.1
+IA,Iowa,Woodbury,19193,"105,951",39.1,12.1,28.9
+GA,Georgia,Chattahoochee,13053,"8,661",35.8,7.5,24.7
+KS,Kansas,Rooks,20163,"4,778",40.6,12.3,28.5
+AK,Alaska,Yakutat,02282,687,35.4,13.7,27.0
+MO,Missouri,Pike,29163,"17,935",38.3,13.5,33.5
+OK,Oklahoma,Cherokee,40021,"48,185",42.9,14.3,31.6
+ND,North Dakota,Hettinger,38041,"2,415",37.4,11.7,25.1
+MT,Montana,Carter,30011,"1,418",32.9,12.3,24.9
+TX,Texas,Dimmit,48127,"8,257",46.8,23.4,49.5
+FL,Florida,Broward,12011,"1,962,531",30.6,13.5,26.4
+MT,Montana,Stillwater,30095,"9,173",30.2,10.8,21.0
+TX,Texas,Shackelford,48417,"3,229",33.8,12.3,24.1
+NC,North Carolina,Jackson,37099,"44,574",34.5,12.1,24.2
+KS,Kansas,Morton,20129,"2,580",37.9,14.0,32.7
+MI,Michigan,Crawford,26039,"13,538",37.5,14.9,28.9
+WY,Wyoming,Johnson,56019,"8,759",35.6,13.1,28.4
+IN,Indiana,Johnson,18081,"167,819",38.8,11.9,22.5
+TX,Texas,McLennan,48309,"268,583",34.8,12.5,27.9
+TN,Tennessee,Warren,47177,"42,638",42.3,15.5,31.8
+MN,Minnesota,Nobles,27105,"21,727",38.6,13.5,33.7
+OK,Oklahoma,Love,40085,"10,296",38.8,14.4,35.0
+TX,Texas,Milam,48331,"25,951",37.1,14.9,31.1
+NJ,New Jersey,Cape May,34009,"94,610",33.5,11.7,22.9
+VA,Virginia,Accomack,51001,"33,239",40.0,18.2,33.4
+NV,Nevada,Esmeralda,32009,736,36.1,17.7,32.3
+SD,South Dakota,McPherson,46089,"2,334",34.9,14.8,29.2
+MI,Michigan,Iosco,26069,"25,373",38.8,15.9,30.7
+WI,Wisconsin,Columbia,55021,"58,091",33.6,11.3,26.2
+SD,South Dakota,Fall River,46047,"7,393",38.0,16.4,30.5
+TX,Texas,Roberts,48393,840,33.7,11.6,23.6
+TX,Texas,Kent,48263,734,32.5,12.9,25.2
+MO,Missouri,Iron,29093,"9,440",42.3,15.0,35.3
+GA,Georgia,Candler,13043,"11,059",42.2,16.5,33.4
+MA,Massachusetts,Plymouth,25023,"535,308",29.7,10.3,20.4
+VA,Virginia,Fauquier,51061,"75,165",32.7,11.6,21.2
+MS,Mississippi,Yazoo,28163,"25,796",50.5,18.5,42.6
+OK,Oklahoma,Greer,40055,"5,466",42.1,13.0,33.1
+CO,Colorado,Douglas,08035,"383,906",25.3,6.8,13.7
+CT,Connecticut,Greater Bridgeport,09120,"327,651",28.1,10.3,27.6
+VA,Virginia,Patrick,51141,"17,509",39.9,16.4,30.3
+VA,Virginia,New Kent,51127,"26,134",35.1,11.9,21.5
+VA,Virginia,Bland,51021,"6,179",36.5,13.8,26.5
+KS,Kansas,Woodson,20207,"3,115",39.6,13.6,29.2
+NE,Nebraska,Lincoln,31111,"33,365",40.1,12.9,29.4
+WV,West Virginia,Mason,54053,"24,765",41.3,17.0,36.6
+WI,Wisconsin,Lafayette,55065,"16,945",41.9,12.5,30.6
+TX,Texas,Throckmorton,48447,"1,526",35.5,15.4,30.0
+AL,Alabama,Montgomery,01101,"224,980",46.1,16.4,30.6
+MO,Missouri,Camden,29029,"44,044",35.6,14.7,31.7
+TX,Texas,Colorado,48089,"21,117",36.2,14.9,29.9
+AK,Alaska,Aleutians East,02013,"3,461",30.7,12.8,28.7
+CA,California,Imperial,06025,"179,057",34.7,15.0,35.2
+IL,Illinois,Pulaski,17153,"4,911",45.6,18.4,32.9
+OH,Ohio,Lucas,39095,"425,484",36.1,14.0,29.8
+NJ,New Jersey,Ocean,34029,"659,197",29.8,11.4,25.8
+NC,North Carolina,Wayne,37191,"118,686",39.5,14.2,28.3
+NE,Nebraska,Merrick,31121,"7,755",39.3,11.7,28.8
+OR,Oregon,Jackson,41029,"220,768",32.8,12.7,21.8
+TN,Tennessee,Fentress,47049,"19,696",44.9,17.1,32.6
+FL,Florida,Osceola,12097,"437,784",39.8,13.4,28.2
+MS,Mississippi,Jackson,28059,"146,389",40.7,15.0,30.5
+OK,Oklahoma,Jackson,40065,"24,669",40.4,13.2,34.4
+NM,New Mexico,Luna,35029,"25,316",35.7,17.7,35.7
+MI,Michigan,Oscoda,26135,"8,545",38.4,16.5,31.4
+MS,Mississippi,Neshoba,28099,"28,789",43.1,16.5,37.8
+MT,Montana,Powder River,30075,"1,743",30.4,11.9,22.2
+WI,Wisconsin,Washington,55131,"138,168",36.4,10.5,22.7
+TX,Texas,Midland,48329,"177,108",35.9,10.8,26.6
+AR,Arkansas,Sebastian,05131,"129,098",36.2,13.1,33.3
+WI,Wisconsin,Douglas,55031,"44,264",41.0,11.7,27.2
+VA,Virginia,Chesapeake,51550,"253,886",40.1,12.8,22.7
+IA,Iowa,Adair,19001,"7,389",39.9,13.1,28.2
+AR,Arkansas,Van Buren,05141,"16,142",39.6,16.2,37.0
+FL,Florida,Clay,12019,"232,439",34.9,12.2,25.4
+ME,Maine,Penobscot,23019,"155,312",38.0,11.5,26.2
+TX,Texas,Nolan,48353,"14,306",40.5,16.5,35.8
+OR,Oregon,Douglas,41019,"112,435",37.6,14.3,25.8
+ME,Maine,Lincoln,23015,"36,507",30.9,11.8,21.4
+GA,Georgia,Emanuel,13107,"23,119",42.7,16.4,35.9
+AL,Alabama,Colbert,01033,"58,361",37.5,15.0,28.6
+ID,Idaho,Madison,16065,"54,547",26.2,4.9,19.4
+IN,Indiana,Dubois,18037,"43,546",40.0,13.2,25.0
+GA,Georgia,Pike,13231,"20,461",36.0,11.9,25.4
+NY,New York,Putnam,36079,"98,060",27.5,9.7,21.6
+IA,Iowa,Jasper,19099,"37,919",38.3,11.9,25.6
+NJ,New Jersey,Hunterdon,34019,"130,183",26.3,9.2,19.4
+WV,West Virginia,Nicholas,54067,"24,169",40.6,16.8,35.1
+SD,South Dakota,Ziebach,46137,"2,322",47.2,18.7,37.8
+MI,Michigan,Hillsdale,26059,"45,587",37.6,13.5,28.2
+MI,Michigan,Allegan,26005,"121,939",35.6,11.6,24.9
+GA,Georgia,Henry,13151,"254,613",45.2,13.4,25.2
+SC,South Carolina,Fairfield,45039,"20,422",45.7,20.5,33.4
+AR,Arkansas,Craighead,05031,"113,993",39.1,11.6,31.0
+NC,North Carolina,Tyrrell,37177,"3,461",41.3,17.5,32.1
+OH,Ohio,Washington,39167,"58,577",43.7,13.8,29.9
+MN,Minnesota,Anoka,27003,"372,441",36.2,10.6,24.6
+NY,New York,Albany,36001,"316,659",29.8,9.2,21.2
+NV,Nevada,Washoe,32031,"498,022",28.5,10.0,21.6
+WY,Wyoming,Goshen,56015,"12,642",36.8,12.3,27.0
+FL,Florida,Flagler,12035,"131,439",30.6,13.7,24.5
+NC,North Carolina,Brunswick,37019,"159,964",32.8,13.5,22.5
+GA,Georgia,Jenkins,13165,"8,627",42.5,18.2,37.4
+ID,Idaho,Gooding,16047,"16,061",34.1,13.0,29.7
+NE,Nebraska,Arthur,31005,412,41.7,12.1,26.6
+SC,South Carolina,Bamberg,45009,"12,974",42.0,19.5,32.7
+MO,Missouri,Lafayette,29107,"33,196",37.0,11.8,28.9
+TX,Texas,Nueces,48355,"352,289",39.7,15.8,31.8
+TN,Tennessee,Madison,47113,"99,193",43.8,16.2,30.4
+KS,Kansas,Mitchell,20123,"5,719",39.0,12.8,28.4
+TX,Texas,Brazos,48041,"244,703",29.4,9.7,24.2
+TX,Texas,Fayette,48149,"25,474",33.9,13.8,26.5
+VA,Virginia,Smyth,51173,"29,216",38.1,15.4,30.7
+IA,Iowa,Cherokee,19035,"11,605",40.6,13.7,30.0
+NE,Nebraska,Dawson,31047,"24,085",41.1,13.5,32.8
+ND,North Dakota,Williams,38105,"39,113",40.4,8.9,24.1
+FL,Florida,Liberty,12077,"7,706",44.5,14.3,31.8
+LA,Louisiana,De Soto,22031,"27,114",44.4,17.8,34.4
+MO,Missouri,St. Francois,29187,"67,058",40.3,12.9,34.4
+MI,Michigan,Mason,26105,"29,159",40.4,13.8,25.4
+NE,Nebraska,Sioux,31165,"1,154",42.6,16.0,32.5
+MD,Maryland,Baltimore,24510,"565,239",38.7,14.4,27.4
+WV,West Virginia,Upshur,54097,"23,529",36.6,16.5,35.0
+WI,Wisconsin,Pierce,55093,"43,026",33.2,9.8,24.7
+MN,Minnesota,Douglas,27041,"39,953",35.2,11.4,23.7
+IL,Illinois,Kendall,17093,"139,976",39.7,9.4,19.5
+TN,Tennessee,Henderson,47077,"28,070",38.8,15.4,31.1
+MA,Massachusetts,Berkshire,25003,"126,818",31.2,10.9,22.2
+SC,South Carolina,Oconee,45073,"81,221",38.2,15.3,28.6
+GA,Georgia,Wilcox,13315,"8,779",42.6,17.4,35.0
+KS,Kansas,Cowley,20035,"34,157",40.9,12.8,28.4
+AL,Alabama,Greene,01063,"7,341",52.7,27.1,44.7
+TX,Texas,Lubbock,48303,"320,940",35.4,11.4,27.6
+OH,Ohio,Clark,39023,"134,610",42.2,15.0,33.5
+MS,Mississippi,Alcorn,28003,"34,135",40.0,15.0,35.2
+MN,Minnesota,McLeod,27085,"36,785",42.0,11.4,25.8
+NC,North Carolina,Harnett,37085,"141,477",36.9,11.8,25.9
+VA,Virginia,Staunton,51790,"25,915",36.4,12.9,25.1
+SD,South Dakota,Miner,46097,"2,280",35.7,13.3,26.6
+TN,Tennessee,Putnam,47141,"83,844",37.5,12.4,25.4
+IN,Indiana,LaPorte,18091,"111,706",37.0,15.0,28.1
+MO,Missouri,Livingston,29117,"14,557",39.4,12.6,32.3
+NH,New Hampshire,Belknap,33001,"65,027",30.5,10.5,20.8
+WI,Wisconsin,Sheboygan,55117,"117,752",36.6,11.5,29.0
+FL,Florida,Duval,12031,"1,030,822",34.3,12.8,27.1
+NC,North Carolina,Beaufort,37013,"44,481",36.8,15.6,28.3
+NY,New York,Greene,36039,"47,062",34.4,11.7,26.2
+MI,Michigan,Genesee,26049,"401,522",40.6,13.2,28.1
+VA,Virginia,Carroll,51035,"29,239",41.4,15.9,30.5
+TX,Texas,Cass,48067,"28,659",39.3,15.7,30.8
+OH,Ohio,Putnam,39137,"34,199",43.7,12.3,24.7
+IN,Indiana,Blackford,18009,"11,893",44.3,16.4,30.9
+LA,Louisiana,Jefferson Davis,22053,"31,553",42.7,14.8,33.4
+WY,Wyoming,Converse,56009,"13,809",37.3,11.5,26.4
+SD,South Dakota,Union,46127,"17,183",31.2,10.6,21.1
+WA,Washington,Yakima,53077,"256,643",39.7,12.9,27.9
+MO,Missouri,Knox,29103,"3,723",39.5,15.1,35.2
+NC,North Carolina,Union,37179,"256,452",33.4,10.5,21.6
+IL,Illinois,Madison,17119,"262,752",38.7,11.2,22.1
+NM,New Mexico,Curry,35009,"47,222",39.4,12.0,28.5
+NE,Nebraska,Howard,31093,"6,527",38.6,11.5,27.6
+SD,South Dakota,Custer,46033,"9,117",33.9,13.9,25.1
+IL,Illinois,Crawford,17033,"18,300",40.1,12.1,24.3
+TX,Texas,Bowie,48037,"91,687",36.7,13.8,29.1
+TN,Tennessee,Sullivan,47163,"162,135",37.8,15.2,29.1
+MA,Massachusetts,Bristol,25005,"581,841",32.1,10.8,24.8
+AR,Arkansas,Lonoke,05085,"75,944",36.1,11.3,31.0
+MI,Michigan,Marquette,26103,"66,999",36.4,10.6,21.4
+WA,Washington,Lincoln,53043,"11,738",37.6,11.7,20.5
+MN,Minnesota,Lake,27075,"10,855",35.4,12.5,25.5
+SC,South Carolina,Richland,45079,"425,138",34.7,13.0,21.7
+IL,Illinois,Boone,17007,"53,202",36.8,12.2,25.6
+NC,North Carolina,Nash,37127,"96,551",38.4,15.0,28.9
+VA,Virginia,Craig,51045,"4,843",36.5,14.3,26.6
+OK,Oklahoma,Cimarron,40025,"2,191",37.6,13.7,31.7
+MO,Missouri,Adair,29001,"25,122",34.7,10.0,28.1
+NC,North Carolina,Rutherford,37161,"65,507",38.1,14.4,28.8
+SC,South Carolina,Allendale,45005,"7,369",46.7,21.6,38.4
+TX,Texas,Potter,48375,"114,647",41.8,15.3,34.9
+MO,Missouri,Christian,29043,"94,422",36.3,10.7,26.5
+TX,Texas,Culberson,48109,"2,196",40.3,19.3,40.8
+IA,Iowa,Palo Alto,19147,"8,810",40.0,12.1,25.8
+NV,Nevada,Churchill,32001,"25,803",37.8,11.7,26.4
+AL,Alabama,Choctaw,01023,"12,252",44.4,20.1,36.4
+MS,Mississippi,Hinds,28049,"214,870",44.0,17.0,34.7
+MO,Missouri,Cedar,29039,"14,672",39.8,15.6,35.3
+IN,Indiana,Hamilton,18057,"371,645",32.5,9.6,16.1
+AK,Alaska,Chugach,02063,"6,769",31.1,9.6,20.9
+MO,Missouri,Shannon,29203,"7,238",37.0,15.2,34.6
+AR,Arkansas,Scott,05127,"9,851",37.0,14.8,36.7
+KS,Kansas,Shawnee,20177,"177,746",38.3,12.5,25.7
+LA,Louisiana,Jefferson,22051,"421,777",41.6,16.2,30.3
+FL,Florida,Wakulla,12129,"36,449",38.9,12.6,27.2
+NE,Nebraska,Chase,31029,"3,724",36.9,12.7,30.0
+NM,New Mexico,Bernalillo,35001,"671,586",33.0,11.6,23.2
+WV,West Virginia,Monroe,54063,"12,382",41.1,17.9,35.7
+WI,Wisconsin,Waushara,55137,"24,934",39.7,14.4,32.0
+VA,Virginia,Greensville,51081,"11,133",45.3,17.1,31.6
+VA,Virginia,Suffolk,51800,"100,659",42.5,13.7,25.9
+TX,Texas,Rockwall,48397,"131,307",35.1,9.4,20.4
+TX,Texas,San Patricio,48409,"70,660",41.3,15.4,34.6
+NE,Nebraska,Morrill,31123,"4,504",41.6,13.3,32.1
+ND,North Dakota,Richland,38077,"16,558",36.1,10.5,23.7
+VA,Virginia,Norfolk,51710,"230,930",40.3,12.7,26.1
+CT,Connecticut,Northwest Hills,09160,"113,463",28.2,10.0,23.4
+WI,Wisconsin,Green Lake,55047,"19,344",40.4,13.7,32.2
+GA,Georgia,Forsyth,13117,"272,887",27.7,9.9,20.2
+ID,Idaho,Custer,16037,"4,523",31.5,13.4,24.3
+MN,Minnesota,Pennington,27113,"13,714",40.2,11.2,24.8
+ID,Idaho,Valley,16085,"12,644",34.0,13.1,24.9
+VA,Virginia,Prince George,51149,"42,871",38.4,11.5,24.9
+NY,New York,Suffolk,36103,"1,523,170",29.7,10.0,24.1
+VT,Vermont,Addison,50001,"37,720",27.3,8.2,17.9
+MI,Michigan,Kalkaska,26079,"18,490",38.7,13.5,27.2
+IL,Illinois,Cook,17031,"5,087,072",31.0,11.8,23.3
+VA,Virginia,Essex,51057,"10,598",42.6,18.0,31.2
+AR,Arkansas,Independence,05063,"38,320",41.6,13.4,35.3
+GA,Georgia,Oglethorpe,13221,"15,754",36.4,14.1,28.3
+WV,West Virginia,Hancock,54029,"28,145",44.0,16.6,32.2
+AL,Alabama,Macon,01087,"18,370",46.7,20.0,35.2
+IA,Iowa,Tama,19171,"16,833",40.2,13.6,29.6
+TX,Texas,Delta,48119,"5,520",37.1,13.7,28.3
+IA,Iowa,Montgomery,19137,"10,139",39.5,12.9,28.4
+MI,Michigan,Barry,26015,"63,808",37.0,11.2,24.1
+KS,Kansas,Wichita,20203,"2,082",41.7,14.5,33.9
+MT,Montana,Glacier,30035,"13,609",39.7,15.5,32.2
+VA,Virginia,Highland,51091,"2,339",33.0,15.2,25.6
+VA,Virginia,Lunenburg,51111,"12,038",46.1,18.9,33.6
+NC,North Carolina,Iredell,37097,"199,710",32.8,10.7,21.6
+TN,Tennessee,Bradley,47011,"111,579",41.5,13.4,25.9
+IA,Iowa,Kossuth,19109,"14,396",38.2,13.1,26.8
+TX,Texas,Waller,48473,"63,553",36.6,11.1,26.9
+MS,Mississippi,Franklin,28037,"7,610",40.4,18.5,38.2
+TX,Texas,Glasscock,48173,"1,141",34.0,10.9,23.3
+ND,North Dakota,Kidder,38043,"2,342",39.9,12.8,26.9
+VA,Virginia,Emporia,51595,"5,463",44.4,20.0,36.4
+CO,Colorado,Bent,08011,"5,681",33.7,14.7,29.9
+GA,Georgia,Irwin,13155,"9,120",40.3,16.2,33.4
+CA,California,Shasta,06089,"180,366",29.3,11.7,22.2
+NY,New York,Clinton,36019,"78,115",33.2,10.7,26.7
+WY,Wyoming,Teton,56039,"23,232",24.0,8.4,18.3
+TN,Tennessee,Grainger,47057,"24,681",41.2,15.7,30.8
+TX,Texas,Tarrant,48439,"2,182,947",33.2,11.7,27.7
+IL,Illinois,Greene,17061,"11,543",40.2,13.2,26.7
+TX,Texas,Harrison,48203,"70,895",38.8,13.8,29.5
+NC,North Carolina,Currituck,37053,"31,593",34.5,10.7,21.6
+MN,Minnesota,Aitkin,27001,"16,102",33.2,15.2,28.8
+MT,Montana,Teton,30099,"6,430",30.9,11.0,24.0
+GA,Georgia,Glascock,13125,"2,954",37.6,14.5,30.5
+SC,South Carolina,Marlboro,45069,"25,704",41.0,20.5,38.8
+TN,Tennessee,Lawrence,47099,"46,114",41.5,14.9,30.5
+OH,Ohio,Lawrence,39087,"56,118",41.6,15.1,32.4
+MS,Mississippi,Pike,28113,"39,394",46.0,18.9,38.7
+OH,Ohio,Adams,39001,"27,521",40.3,15.7,35.3
+WI,Wisconsin,Outagamie,55087,"193,234",36.6,10.3,25.6
+AZ,Arizona,Coconino,04005,"144,472",23.6,9.3,16.0
+VT,Vermont,Washington,50023,"60,142",27.1,8.9,18.3
+WI,Wisconsin,Fond du Lac,55039,"103,948",43.8,11.5,29.1
+ME,Maine,Aroostook,23003,"67,351",40.0,14.8,32.0
+NC,North Carolina,Polk,37149,"20,060",35.2,14.1,25.1
+FL,Florida,Martin,12085,"163,315",27.0,13.6,23.5
+ID,Idaho,Bear Lake,16007,"6,766",31.0,11.6,24.7
+KS,Kansas,Hodgeman,20083,"1,655",36.5,11.5,25.2
+NE,Nebraska,Fillmore,31059,"5,548",42.1,12.3,28.6
+GA,Georgia,Wayne,13305,"31,373",43.3,15.8,33.5
+VA,Virginia,Nottoway,51135,"15,566",43.5,16.7,30.9
+TX,Texas,Motley,48345,"1,020",35.2,14.7,28.8
+MO,Missouri,Monroe,29137,"8,698",37.8,15.0,33.9
+AK,Alaska,North Slope,02185,"10,603",42.3,10.8,23.6
+NC,North Carolina,Madison,37115,"22,071",34.6,11.6,23.0
+GA,Georgia,McDuffie,13189,"21,799",38.9,16.7,32.3
+CA,California,Lake,06033,"67,878",32.7,14.1,27.8
+VA,Virginia,King William,51101,"19,030",34.9,12.2,23.8
+VA,Virginia,Augusta,51015,"78,247",40.8,13.2,25.7
+IL,Illinois,Pike,17149,"14,342",40.6,13.3,27.1
+NM,New Mexico,Quay,35037,"8,510",37.6,17.2,31.6
+WA,Washington,Columbia,53013,"4,053",32.4,12.2,20.6
+LA,Louisiana,Sabine,22085,"21,906",44.7,17.9,36.3
+OH,Ohio,Harrison,39067,"14,159",41.4,15.6,31.6
+MN,Minnesota,Big Stone,27011,"5,105",37.6,13.2,27.7
+NY,New York,Cattaraugus,36009,"75,600",35.7,12.1,28.4
+NC,North Carolina,Clay,37043,"11,864",35.3,14.3,25.5
+KS,Kansas,Sedgwick,20173,"528,469",38.6,12.0,26.3
+NY,New York,Erie,36029,"946,147",32.8,10.8,24.8
+IL,Illinois,Vermilion,17183,"71,652",43.8,14.4,29.0
+KS,Kansas,Clay,20027,"8,007",39.6,12.8,28.2
+GA,Georgia,Thomas,13275,"45,649",39.2,16.0,29.1
+OK,Oklahoma,Pontotoc,40123,"38,396",39.9,12.3,29.7
+ID,Idaho,Latah,16057,"41,301",29.0,7.8,18.0
+SC,South Carolina,Laurens,45059,"68,873",36.3,15.6,31.9
+GA,Georgia,Newton,13217,"120,135",42.4,14.4,30.3
+MT,Montana,Wibaux,30109,910,32.5,11.6,24.1
+MS,Mississippi,Choctaw,28019,"8,088",40.2,16.9,35.3
+OR,Oregon,Coos,41011,"64,212",34.1,14.2,24.1
+MO,Missouri,Dent,29065,"14,647",39.5,14.6,34.1
+SC,South Carolina,Berkeley,45015,"255,217",37.9,12.9,25.6
+IN,Indiana,Parke,18121,"16,484",42.3,15.4,31.0
+NJ,New Jersey,Cumberland,34011,"152,326",40.4,13.5,32.8
+MD,Maryland,Wicomico,24045,"104,800",39.6,12.6,28.0
+KS,Kansas,Anderson,20003,"7,838",40.1,13.1,29.9
+OK,Oklahoma,Woodward,40153,"19,947",41.5,12.1,30.7
+CA,California,Plumas,06063,"19,131",29.9,13.5,24.0
+LA,Louisiana,Cameron,22023,"4,768",36.4,13.3,28.1
+WV,West Virginia,Brooke,54009,"21,373",40.0,15.5,29.9
+MS,Mississippi,Marion,28091,"24,224",43.5,17.2,37.3
+TN,Tennessee,Meigs,47121,"13,691",40.8,15.9,31.1
+AZ,Arizona,Maricopa,04013,"4,585,871",30.4,10.6,20.4
+OK,Oklahoma,Oklahoma,40109,"808,866",37.7,12.6,29.2
+ME,Maine,Piscataquis,23021,"17,486",34.6,13.8,28.1
+OH,Ohio,Pike,39131,"27,001",43.2,16.2,36.6
+MN,Minnesota,Stevens,27149,"9,728",36.8,9.7,24.7
+VA,Virginia,Charlottesville,51540,"44,983",33.0,10.4,21.9
+SC,South Carolina,Hampton,45049,"18,122",41.6,20.2,35.1
+MO,Missouri,Ripley,29181,"10,806",41.3,15.6,37.4
+MI,Michigan,Missaukee,26113,"15,311",39.3,13.3,28.2
+FL,Florida,Okeechobee,12093,"41,427",43.9,15.6,32.0
+WI,Wisconsin,Chippewa,55017,"66,970",41.7,11.7,28.2
+IA,Iowa,Keokuk,19107,"9,914",41.4,13.4,28.7
+OR,Oregon,Josephine,41033,"87,821",33.8,14.8,25.7
+TX,Texas,Kimble,48267,"4,442",36.8,16.6,31.5
+MS,Mississippi,Newton,28101,"21,019",40.9,15.7,34.3
+TX,Texas,Jack,48237,"8,875",37.8,13.4,30.4
+NY,New York,Orleans,36073,"39,124",32.9,11.7,28.3
+OH,Ohio,Gallia,39053,"28,986",36.6,15.3,35.2
+TX,Texas,Young,48503,"18,124",37.1,13.4,28.4
+NE,Nebraska,Scotts Bluff,31157,"35,699",39.1,13.0,29.4
+UT,Utah,Morgan,49029,"13,000",25.0,8.1,15.1
+NM,New Mexico,Guadalupe,35019,"4,292",36.8,16.5,33.2
+IN,Indiana,Shelby,18145,"45,231",41.2,13.9,26.2
+VA,Virginia,Surry,51181,"6,593",39.9,17.3,29.2
+WV,West Virginia,Tucker,54093,"6,604",39.3,16.9,33.3
+ND,North Dakota,Burke,38013,"2,134",37.3,11.1,22.6
+MI,Michigan,Lapeer,26087,"88,977",35.5,11.9,25.5
+TX,Texas,Eastland,48133,"18,037",35.5,14.1,29.8
+MO,Missouri,Taney,29213,"56,775",35.7,13.3,31.0
+MT,Montana,Silver Bow,30093,"36,360",32.3,10.2,22.0
+TN,Tennessee,Clay,47027,"7,714",39.9,17.8,34.2
+MN,Minnesota,Cass,27021,"31,446",36.9,14.2,28.1
+ID,Idaho,Oneida,16071,"4,953",31.9,10.5,22.4
+MI,Michigan,Delta,26041,"36,790",39.9,13.8,26.8
+IN,Indiana,Adams,18001,"36,288",41.7,14.1,28.2
+TX,Texas,Parker,48367,"173,494",35.5,10.7,23.4
+KS,Kansas,Ottawa,20143,"5,818",38.3,12.2,27.0
+IA,Iowa,Clinton,19045,"46,158",39.3,12.7,27.5
+WA,Washington,Wahkiakum,53069,"4,765",39.1,14.7,21.7
+MN,Minnesota,Scott,27139,"155,814",32.0,9.4,22.6
+TX,Texas,Ellis,48139,"222,829",37.2,11.6,25.8
+NE,Nebraska,Otoe,31131,"16,335",40.7,11.9,27.3
+SD,South Dakota,Gregory,46053,"4,018",35.9,14.1,27.0
+KS,Kansas,Phillips,20147,"4,761",40.5,13.6,29.9
+GA,Georgia,Sumter,13261,"28,890",39.5,16.7,32.9
+OK,Oklahoma,Johnston,40069,"10,216",39.4,15.3,36.9
+OK,Oklahoma,Logan,40083,"53,029",40.2,12.0,28.8
+DE,Delaware,New Castle,10003,"578,592",33.4,12.2,25.5
+MS,Mississippi,Walthall,28147,"13,863",43.1,17.8,37.7
+MN,Minnesota,Grant,27051,"6,139",39.7,12.7,26.7
+KS,Kansas,Brown,20013,"9,250",39.6,13.5,29.3
+OH,Ohio,Mercer,39107,"42,439",36.3,12.1,27.5
+IN,Indiana,Marshall,18099,"46,352",43.2,14.0,28.8
+NE,Nebraska,Colfax,31037,"10,566",38.8,13.2,32.3
+VA,Virginia,Giles,51071,"16,457",36.1,13.8,27.1
+MT,Montana,Prairie,30079,"1,112",33.5,16.2,30.9
+VA,Virginia,Franklin,51067,"55,549",34.8,15.1,27.3
+AL,Alabama,Lee,01081,"183,215",38.4,12.5,25.0
+NC,North Carolina,Burke,37023,"88,338",36.8,13.8,28.4
+OK,Oklahoma,Atoka,40005,"14,525",40.3,14.6,34.7
+SD,South Dakota,McCook,46087,"5,809",36.1,11.0,22.9
+TX,Texas,Callahan,48059,"14,374",36.2,13.2,26.5
+CO,Colorado,Summit,08117,"30,465",24.4,7.9,15.3
+TX,Texas,Austin,48015,"31,677",37.3,14.7,30.1
+AL,Alabama,Escambia,01053,"36,558",43.9,18.5,35.7
+MO,Missouri,Clay,29047,"259,772",37.4,10.8,24.5
+MS,Mississippi,Wilkinson,28157,"8,058",47.4,20.6,41.8
+KS,Kansas,McPherson,20113,"30,091",37.0,10.5,26.5
+CO,Colorado,Crowley,08025,"5,636",31.7,11.0,25.2
+AR,Arkansas,Mississippi,05093,"38,663",46.6,15.2,36.7
+IL,Illinois,McHenry,17111,"312,800",32.1,10.5,20.9
+FL,Florida,Indian River,12061,"169,795",26.6,14.3,25.0
+WA,Washington,Kitsap,53035,"277,658",31.8,9.8,16.7
+VA,Virginia,Alleghany,51005,"14,595",39.0,15.1,28.4
+GA,Georgia,Atkinson,13003,"8,293",44.0,18.0,39.9
+VT,Vermont,Essex,50009,"6,010",34.2,12.5,27.0
+MT,Montana,Meagher,30059,"2,071",32.3,12.5,23.7
+AR,Arkansas,Yell,05149,"20,044",42.0,14.7,35.5
+WI,Wisconsin,Sauk,55111,"65,920",40.4,12.3,29.8
+ND,North Dakota,Dunn,38025,"4,019",36.7,11.5,24.0
+NE,Nebraska,Wayne,31179,"9,874",37.3,9.7,25.2
+AL,Alabama,Randolph,01111,"22,786",37.8,16.1,30.0
+ND,North Dakota,Pierce,38069,"3,902",40.7,12.1,25.8
+AR,Arkansas,Baxter,05005,"42,875",37.7,15.0,33.4
+IL,Illinois,Henderson,17071,"6,088",38.6,14.1,25.8
+NY,New York,Lewis,36049,"26,548",40.9,11.8,27.8
+GA,Georgia,Brantley,13025,"18,401",39.0,14.4,32.6
+TX,Texas,Galveston,48167,"361,744",34.0,12.3,25.4
+AR,Arkansas,Pulaski,05119,"400,009",40.5,12.9,29.1
+TN,Tennessee,Bedford,47003,"53,055",44.4,13.5,29.6
+AR,Arkansas,Greene,05055,"46,743",42.3,12.5,35.0
+WV,West Virginia,Gilmer,54021,"7,254",42.9,15.5,34.8
+MI,Michigan,Branch,26023,"45,215",36.0,13.3,28.2
+TX,Texas,Wharton,48481,"41,739",40.0,15.0,32.1
+NM,New Mexico,San Miguel,35047,"26,668",37.3,17.1,31.7
+MO,Missouri,Greene,29077,"304,611",36.7,11.0,26.1
+OH,Ohio,Williams,39171,"36,591",40.6,14.4,31.6
+IN,Indiana,Henry,18065,"48,929",43.7,13.5,29.1
+GA,Georgia,Clay,13061,"2,853",41.2,21.5,37.3
+WY,Wyoming,Sheridan,56033,"32,519",30.6,10.9,22.9
+IN,Indiana,Washington,18175,"28,205",41.5,14.7,28.6
+IN,Indiana,Vermillion,18165,"15,417",40.6,14.3,27.6
+TX,Texas,Andrews,48003,"18,664",36.7,12.7,31.1
+SD,South Dakota,Perkins,46105,"2,834",36.0,14.3,26.6
+AL,Alabama,Dallas,01047,"36,165",46.3,22.4,38.0
+MO,Missouri,Nodaway,29147,"20,695",36.1,10.6,27.8
+VA,Virginia,Lynchburg,51680,"79,535",36.4,11.0,23.6
+OK,Oklahoma,Custer,40039,"28,266",41.0,11.8,31.4
+SD,South Dakota,Harding,46063,"1,324",35.3,11.2,21.4
+WI,Wisconsin,Marinette,55075,"42,106",37.8,13.9,30.2
+TN,Tennessee,Cumberland,47035,"64,760",39.5,17.3,29.7
+VA,Virginia,Radford,51750,"16,971",34.4,9.2,24.8
+ND,North Dakota,Grand Forks,38035,"72,708",35.2,9.1,21.5
+AL,Alabama,Chambers,01017,"34,079",41.5,17.9,34.3
+NY,New York,Niagara,36063,"209,457",39.5,11.3,26.3
+AK,Alaska,Dillingham,02070,"4,607",38.5,13.0,29.1
+WA,Washington,Benton,53005,"215,219",36.2,10.4,20.6
+MO,Missouri,Bates,29013,"16,242",41.2,13.8,34.0
+NE,Nebraska,Gage,31067,"21,634",41.8,12.6,28.7
+OH,Ohio,Hocking,39073,"27,540",36.1,15.7,33.4
+SD,South Dakota,Douglas,46043,"2,838",35.1,13.6,26.3
+TN,Tennessee,Johnson,47091,"18,375",40.0,17.5,33.7
+UT,Utah,Garfield,49017,"5,314",28.6,11.6,19.5
+ID,Idaho,Cassia,16031,"25,696",37.5,11.0,26.7
+UT,Utah,San Juan,49037,"14,358",34.2,15.4,25.1
+CO,Colorado,Otero,08089,"18,136",34.6,14.5,27.6
+AR,Arkansas,Carroll,05015,"28,814",37.6,15.0,36.8
+AL,Alabama,Shelby,01117,"233,000",31.7,11.2,20.7
+KS,Kansas,Elk,20049,"2,467",40.5,15.8,35.1
+FL,Florida,Santa Rosa,12113,"203,162",32.1,10.9,20.5
+CA,California,Sonoma,06097,"481,812",26.1,10.7,21.2
+CO,Colorado,Alamosa,08003,"16,655",30.3,11.3,23.9
+VA,Virginia,Westmoreland,51193,"19,013",41.0,18.3,33.1
+SD,South Dakota,Jerauld,46073,"1,660",35.6,13.8,26.2
+ND,North Dakota,Walsh,38099,"10,305",35.8,12.4,26.7
+GA,Georgia,Dodge,13091,"19,776",40.4,16.7,33.8
+GA,Georgia,Rockdale,13247,"95,987",39.0,17.0,30.2
+TX,Texas,Jim Hogg,48247,"4,720",44.7,22.8,47.7
+NJ,New Jersey,Bergen,34003,"957,736",25.6,9.7,21.7
+CA,California,Marin,06041,"254,407",21.3,10.2,18.2
+IL,Illinois,Ogle,17141,"51,265",40.9,12.2,24.0
+MI,Michigan,Newaygo,26123,"51,108",37.8,13.2,27.8
+TN,Tennessee,Hamilton,47065,"379,864",34.5,12.7,22.4
+MS,Mississippi,Lauderdale,28075,"70,527",42.1,16.7,35.7
+KS,Kansas,Harvey,20079,"33,504",36.5,12.2,28.2
+SC,South Carolina,Chesterfield,45025,"44,031",45.2,18.1,34.6
+MI,Michigan,Sanilac,26151,"40,368",40.0,13.8,30.3
+OK,Oklahoma,Rogers,40131,"100,248",40.1,12.4,28.5
+TX,Texas,Crane,48103,"4,574",39.7,15.0,36.0
+OH,Ohio,Erie,39043,"74,035",40.1,14.4,28.0
+NE,Nebraska,Keith,31101,"8,113",35.4,13.2,31.1
+ME,Maine,Washington,23029,"31,555",39.8,14.9,32.5
+GA,Georgia,Lincoln,13181,"7,879",38.0,18.2,33.1
+SC,South Carolina,Williamsburg,45089,"29,891",45.0,20.4,34.9
+OK,Oklahoma,Harper,40059,"3,190",39.4,14.0,33.3
+TX,Texas,Madison,48313,"13,742",37.1,13.1,31.5
+OK,Oklahoma,Muskogee,40101,"66,677",41.5,15.2,35.8
+MD,Maryland,St. Mary's,24037,"115,281",37.4,11.4,22.7
+MT,Montana,Chouteau,30015,"5,847",35.6,12.2,24.3
+IN,Indiana,Posey,18129,"25,040",40.4,12.9,23.0
+CO,Colorado,Hinsdale,08053,765,23.5,10.0,15.0
+FL,Florida,Taylor,12123,"21,582",40.8,15.9,32.4
+OR,Oregon,Lincoln,41041,"50,821",35.7,14.9,23.6
+MO,Missouri,Dade,29057,"7,716",40.7,16.0,35.2
+KS,Kansas,Chautauqua,20019,"3,347",40.4,15.2,33.3
+NE,Nebraska,Boone,31011,"5,310",33.1,12.7,29.4
+VA,Virginia,Shenandoah,51171,"45,228",36.2,14.1,28.8
+OH,Ohio,Stark,39151,"372,716",40.4,13.7,29.1
+OH,Ohio,Marion,39101,"64,851",44.2,14.8,33.8
+IA,Iowa,Hardin,19083,"16,463",38.9,12.9,27.3
+IL,Illinois,Stark,17175,"5,218",38.2,12.7,24.9
+FL,Florida,Hendry,12051,"43,333",37.6,16.8,38.1
+NC,North Carolina,Alexander,37003,"36,473",36.5,12.7,26.3
+ND,North Dakota,Stark,38089,"33,001",37.4,9.5,23.5
+MI,Michigan,Schoolcraft,26153,"8,149",40.3,15.8,29.5
+RI,Rhode Island,Newport,44005,"83,832",27.4,10.3,20.1
+TX,Texas,Sterling,48431,"1,397",33.2,10.5,23.8
+HI,Hawaii,Honolulu,15003,"989,408",25.3,12.4,23.7
+TN,Tennessee,Morgan,47129,"21,573",43.4,14.8,30.4
+TX,Texas,Refugio,48391,"6,666",39.7,17.6,35.9
+MS,Mississippi,Leflore,28083,"26,378",43.4,20.9,41.6
+MS,Mississippi,Leake,28079,"21,258",42.8,17.0,38.1
+VA,Virginia,Bristol,51520,"16,807",39.2,14.8,29.6
+TX,Texas,Hardeman,48197,"3,490",37.6,15.2,31.2
+ND,North Dakota,Benson,38005,"5,745",43.3,15.4,31.3
+UT,Utah,Box Elder,49003,"62,684",32.6,9.3,19.4
+GA,Georgia,Ware,13299,"36,243",41.3,16.8,36.6
+ND,North Dakota,McLean,38055,"9,832",40.2,12.1,25.2
+AK,Alaska,Kodiak Island,02150,"12,565",31.5,9.8,22.7
+IN,Indiana,Delaware,18035,"112,321",36.6,13.5,25.3
+CA,California,Napa,06055,"133,216",27.9,11.4,23.5
+LA,Louisiana,St. James,22093,"19,191",43.7,16.5,32.4
+MT,Montana,Flathead,30029,"113,679",31.2,9.3,19.3
+SD,South Dakota,Stanley,46117,"3,043",35.2,11.1,21.8
+IA,Iowa,Buchanan,19019,"20,691",37.6,11.1,24.0
+CO,Colorado,Montezuma,08083,"26,531",28.4,11.8,22.0
+TX,Texas,Dickens,48125,"1,711",37.5,16.7,32.5
+LA,Louisiana,Allen,22003,"22,112",44.2,15.3,34.9
+NC,North Carolina,Caswell,37033,"22,807",39.3,15.5,28.9
+ND,North Dakota,Divide,38023,"2,135",37.4,12.6,25.6
+OK,Oklahoma,Carter,40019,"48,596",39.7,13.7,34.6
+VA,Virginia,Hampton,51650,"137,098",40.3,15.0,26.4
+OH,Ohio,Tuscarawas,39157,"91,874",43.4,13.6,29.9
+OR,Oregon,Deschutes,41017,"208,513",27.2,10.2,16.6
+LA,Louisiana,East Feliciana,22037,"19,229",42.2,16.1,33.7
+AR,Arkansas,Lincoln,05079,"12,898",42.6,13.8,36.2
+SD,South Dakota,Charles Mix,46023,"9,240",40.4,15.3,30.0
+CO,Colorado,Saguache,08109,"6,688",29.1,15.1,25.9
+MN,Minnesota,Kanabec,27065,"16,602",37.6,12.8,28.0
+IL,Illinois,Edwards,17047,"5,968",40.3,14.1,27.3
+MT,Montana,Roosevelt,30085,"10,319",41.0,14.1,29.4
+OH,Ohio,Morgan,39115,"13,646",41.1,16.0,33.5
+IN,Indiana,Montgomery,18107,"38,573",39.2,13.5,28.5
+MO,Missouri,Crawford,29055,"22,719",41.9,14.1,33.7
+NH,New Hampshire,Strafford,33017,"133,243",32.4,8.6,19.3
+TN,Tennessee,Van Buren,47175,"6,493",39.2,16.0,31.0
+TX,Texas,Mason,48319,"3,931",33.5,14.4,26.8
+GA,Georgia,Franklin,13119,"24,782",39.0,14.7,30.8
+CT,Connecticut,South Central Connecticut,09170,"568,158",33.4,10.4,26.5
+NE,Nebraska,Pierce,31139,"7,299",38.9,10.9,26.9
+MI,Michigan,Luce,26095,"6,435",40.9,14.1,27.8
+MO,Missouri,Ste. Genevieve,29186,"18,642",37.2,12.5,30.2
+NC,North Carolina,Northampton,37131,"16,715",42.7,20.3,33.6
+SD,South Dakota,Edmunds,46045,"4,057",33.7,12.4,23.1
+NE,Nebraska,Dawes,31045,"8,133",35.5,10.6,25.7
+OK,Oklahoma,Ellis,40045,"3,648",39.6,14.1,33.2
+TX,Texas,Bandera,48019,"22,637",35.5,15.7,29.7
+GA,Georgia,DeKalb,13089,"762,992",31.8,13.0,22.5
+IA,Iowa,Harrison,19085,"14,670",35.2,12.5,25.8
+GA,Georgia,Carroll,13045,"127,098",34.2,12.8,28.1
+AL,Alabama,Jefferson,01073,"662,895",37.4,15.1,28.0
+KS,Kansas,Reno,20155,"61,497",44.0,13.2,29.9
+WA,Washington,Skamania,53059,"12,640",32.8,11.2,19.2
+KS,Kansas,Miami,20121,"35,320",35.0,10.8,23.9
+AR,Arkansas,Polk,05113,"19,436",40.0,15.5,35.8
+IA,Iowa,Howard,19089,"9,376",38.0,12.4,26.5
+CO,Colorado,Dolores,08033,"2,513",27.3,11.5,21.1
+AR,Arkansas,Jefferson,05069,"63,661",45.9,17.6,38.1
+MA,Massachusetts,Norfolk,25021,"727,473",23.5,9.0,17.1
+OR,Oregon,Marion,41047,"346,741",43.4,12.5,22.2
+AL,Alabama,Geneva,01061,"26,988",42.3,16.4,32.0
+MO,Missouri,Madison,29123,"12,698",37.7,13.2,32.2
+MN,Minnesota,Wadena,27159,"14,241",38.4,12.7,29.3
+AL,Alabama,Morgan,01103,"125,133",38.6,14.7,29.8
+MT,Montana,Liberty,30051,"1,974",34.0,13.1,27.9
+IA,Iowa,Delaware,19055,"17,600",39.7,12.5,27.9
+TN,Tennessee,White,47185,"28,692",39.7,15.6,32.1
+WI,Wisconsin,Richland,55103,"17,197",37.5,13.6,31.7
+MO,Missouri,Warren,29219,"37,806",39.0,12.3,31.1
+MN,Minnesota,Renville,27129,"14,348",38.8,13.1,28.1
+TX,Texas,Franklin,48159,"10,735",35.3,13.0,25.5
+VA,Virginia,Waynesboro,51820,"23,182",38.6,13.2,27.4
+GA,Georgia,Burke,13033,"24,438",40.1,18.3,34.7
+NY,New York,Schenectady,36093,"159,902",34.3,10.2,22.6
+VT,Vermont,Orange,50017,"29,943",32.6,9.7,22.3
+TX,Texas,Somervell,48425,"9,888",34.3,12.3,25.7
+IA,Iowa,Marshall,19127,"40,014",44.1,12.7,28.4
+CO,Colorado,Huerfano,08055,"7,055",27.5,13.9,23.7
+CA,California,Butte,06007,"207,172",29.3,10.7,22.8
+ND,North Dakota,Golden Valley,38033,"1,743",37.6,13.7,28.7
+MI,Michigan,Presque Isle,26141,"13,285",40.9,15.6,28.5
+NC,North Carolina,Watauga,37189,"54,748",33.0,9.8,21.5
+MO,Missouri,Hickory,29085,"8,718",43.0,19.7,41.1
+AR,Arkansas,Washington,05143,"261,549",35.4,10.1,27.5
+AL,Alabama,Covington,01039,"37,952",37.9,16.3,31.9
+LA,Louisiana,Morehouse,22067,"23,955",44.8,20.3,38.7
+NE,Nebraska,Clay,31035,"6,116",40.1,11.8,27.6
+GA,Georgia,Coffee,13069,"43,317",39.3,16.1,35.0
+WY,Wyoming,Natrona,56025,"79,941",36.6,11.1,26.3
+MI,Michigan,Cheboygan,26031,"26,048",41.1,14.6,26.7
+IN,Indiana,Whitley,18183,"34,742",39.7,12.6,24.0
+OH,Ohio,Auglaize,39011,"46,050",39.5,12.2,26.5
+IA,Iowa,Polk,19153,"505,255",37.0,10.1,23.7
+NV,Nevada,Lincoln,32017,"4,452",31.6,11.8,24.2
+TX,Texas,Willacy,48489,"20,037",43.2,18.8,44.1
+IA,Iowa,Plymouth,19149,"25,722",39.4,11.2,24.6
+MS,Mississippi,Webster,28155,"9,988",36.5,13.7,32.2
+FL,Florida,Pinellas,12103,"961,596",31.5,13.1,23.9
+TX,Texas,Hopkins,48223,"38,172",37.5,13.4,29.6
+IL,Illinois,Calhoun,17013,"4,317",35.3,11.9,22.0
+WI,Wisconsin,Door,55029,"30,562",36.6,13.0,27.0
+IN,Indiana,Jasper,18073,"33,535",40.2,12.7,25.3
+ID,Idaho,Butte,16023,"2,758",35.5,15.2,29.8
+WV,West Virginia,Logan,54045,"30,827",45.0,18.2,39.3
+CO,Colorado,Teller,08119,"24,617",24.1,10.2,17.0
+MS,Mississippi,Jones,28067,"66,250",41.6,16.0,36.2
+NY,New York,Nassau,36059,"1,381,715",28.4,10.1,23.2
+CA,California,Merced,06047,"291,920",33.8,13.0,33.2
+TX,Texas,Trinity,48455,"14,228",37.7,16.4,31.7
+UT,Utah,Tooele,49045,"82,051",37.6,8.9,20.8
+FL,Florida,Brevard,12009,"643,979",34.0,13.1,23.8
+CO,Colorado,Pitkin,08097,"16,640",20.7,8.4,13.7
+AZ,Arizona,Pima,04019,"1,063,162",31.1,11.0,22.3
+CA,California,Trinity,06105,"15,670",33.3,15.9,28.4
+CA,California,Ventura,06111,"829,590",25.7,11.4,23.6
+AL,Alabama,Blount,01009,"59,816",36.1,13.8,29.1
+OK,Oklahoma,Stephens,40137,"44,014",39.1,14.2,34.3
+AR,Arkansas,Conway,05029,"21,077",41.4,15.6,36.5
+KS,Kansas,Ford,20057,"33,980",39.1,13.1,34.0
+IA,Iowa,Buena Vista,19021,"20,567",38.1,13.0,30.1
+NC,North Carolina,Wilson,37195,"78,970",38.4,16.8,31.9
+AR,Arkansas,Fulton,05049,"12,421",39.6,17.1,37.8
+MN,Minnesota,Mille Lacs,27095,"27,427",38.5,12.0,28.2
+MI,Michigan,Wayne,26163,"1,751,169",37.4,14.3,29.7
+FL,Florida,Gilchrist,12041,"19,587",34.5,12.8,27.4
+NM,New Mexico,Otero,35035,"68,835",37.1,12.7,24.6
+MO,Missouri,Buchanan,29021,"82,956",42.9,13.0,32.7
+NE,Nebraska,Antelope,31003,"6,302",42.4,12.9,28.5
+SC,South Carolina,Dillon,45033,"27,698",45.3,20.3,35.8
+OK,Oklahoma,Okfuskee,40107,"11,300",45.8,17.3,39.0
+GA,Georgia,Quitman,13239,"2,280",42.3,23.6,39.2
+CO,Colorado,Garfield,08045,"62,707",24.0,8.9,18.6
+FL,Florida,Levy,12075,"46,545",33.8,16.1,30.4
+AK,Alaska,Juneau,02110,"31,555",35.0,8.9,17.5
+IA,Iowa,Cerro Gordo,19033,"42,406",40.1,12.5,27.0
+CA,California,El Dorado,06017,"192,215",27.7,10.8,19.5
+TX,Texas,Terry,48445,"11,547",40.7,16.4,37.3
+GA,Georgia,Early,13099,"10,563",40.7,18.9,36.2
+MN,Minnesota,Dodge,27039,"21,088",35.2,9.6,22.6
+NE,Nebraska,Grant,31075,565,36.5,12.1,25.9
+OH,Ohio,Fulton,39051,"42,007",37.0,13.3,27.3
+TX,Texas,Concho,48095,"3,297",37.1,14.2,32.0
+MO,Missouri,Ozark,29153,"8,970",42.5,18.3,39.2
+TX,Texas,Orange,48361,"85,722",38.4,12.4,27.6
+SD,South Dakota,Bennett,46007,"3,305",42.4,18.7,35.1
+LA,Louisiana,Vernon,22115,"46,250",38.5,12.5,31.6
+KS,Kansas,Butler,20015,"68,632",39.0,10.7,23.2
+GA,Georgia,Lanier,13173,"10,452",40.9,15.9,33.7
+MS,Mississippi,Carroll,28015,"9,535",40.0,18.6,38.9
+IN,Indiana,Ripley,18137,"29,227",36.2,12.5,25.0
+SD,South Dakota,Potter,46107,"2,413",34.8,13.1,24.3
+NJ,New Jersey,Morris,34027,"514,423",22.8,9.0,19.2
+IL,Illinois,Montgomery,17135,"27,663",39.1,12.6,25.6
+WA,Washington,Cowlitz,53015,"112,864",40.5,11.4,22.5
+MI,Michigan,Midland,26111,"84,039",31.8,10.8,21.6
+NE,Nebraska,Lancaster,31109,"326,716",34.4,9.6,20.2
+GA,Georgia,Bleckley,13023,"12,465",37.7,14.7,29.8
+MD,Maryland,Baltimore,24005,"844,703",34.0,13.1,26.3
+VA,Virginia,Wise,51195,"35,174",43.5,15.1,31.4
+OH,Ohio,Lorain,39093,"317,910",36.8,14.2,29.0
+SD,South Dakota,Lincoln,46083,"73,238",34.9,8.8,17.6
+TX,Texas,Randall,48381,"148,255",35.1,10.8,23.5
+NY,New York,Yates,36123,"24,472",33.9,11.6,26.6
+WV,West Virginia,Pocahontas,54075,"7,765",40.6,19.2,37.9
+IA,Iowa,Grundy,19075,"12,384",37.5,11.1,23.9
+OR,Oregon,Hood River,41027,"23,745",31.5,11.3,20.7
+KS,Kansas,Osborne,20141,"3,427",38.8,14.0,29.9
+IL,Illinois,Jackson,17077,"52,141",39.8,11.6,24.4
+UT,Utah,Salt Lake,49035,"1,185,813",29.9,8.5,18.6
+MS,Mississippi,Tishomingo,28141,"18,507",39.5,15.0,35.2
+TX,Texas,Hale,48189,"31,761",38.9,15.6,36.1
+GA,Georgia,Union,13291,"27,124",34.5,15.7,28.4
+ND,North Dakota,Traill,38097,"7,908",38.2,10.5,22.5
+IL,Illinois,Williamson,17199,"66,706",40.1,12.4,24.3
+IN,Indiana,Floyd,18043,"80,809",37.6,12.5,24.9
+SC,South Carolina,Greenville,45045,"558,036",32.5,12.2,23.2
+TX,Texas,Lee,48287,"18,240",39.8,15.4,31.9
+LA,Louisiana,St. Mary,22101,"47,055",45.0,18.1,36.6
+WV,West Virginia,Wirt,54105,"5,000",42.8,18.1,36.0
+KS,Kansas,Nemaha,20131,"10,114",38.7,11.4,26.2
+ND,North Dakota,Morton,38059,"33,895",38.6,9.6,22.5
+MN,Minnesota,Itasca,27061,"45,365",36.0,13.7,25.4
+OH,Ohio,Darke,39037,"51,415",36.4,14.3,30.0
+MT,Montana,Dawson,30021,"8,810",32.8,10.1,22.5
+AK,Alaska,Wrangell,02275,"2,064",34.8,12.9,24.6
+TX,Texas,Jones,48253,"20,381",38.7,13.0,30.7
+UT,Utah,Davis,49011,"373,207",32.7,8.2,17.0
+IA,Iowa,Benton,19011,"25,796",40.8,11.1,23.9
+CO,Colorado,Logan,08075,"20,619",29.7,11.2,23.5
+TX,Texas,Scurry,48415,"16,212",38.1,13.6,31.0
+IA,Iowa,Winneshiek,19191,"19,815",34.7,10.7,22.8
+NE,Nebraska,Thurston,31173,"6,557",45.4,13.4,30.0
+TX,Texas,Brown,48049,"38,709",34.9,14.0,30.1
+KS,Kansas,Harper,20077,"5,435",41.9,14.8,33.1
+GA,Georgia,Chattooga,13055,"25,222",35.2,16.0,35.1
+NC,North Carolina,Granville,37077,"62,192",36.2,13.6,26.5
+GA,Georgia,Barrow,13013,"92,792",35.3,12.2,28.0
+IL,Illinois,Franklin,17055,"37,138",41.6,13.9,27.6
+SC,South Carolina,Newberry,45071,"38,825",38.1,16.1,30.8
+IA,Iowa,Jackson,19097,"19,342",40.3,12.7,27.1
+IN,Indiana,Hancock,18059,"86,166",39.9,11.3,20.7
+IN,Indiana,Knox,18083,"36,070",36.8,13.2,25.4
+MI,Michigan,Alpena,26007,"28,904",41.3,14.2,28.5
+TN,Tennessee,Roane,47145,"56,096",37.0,14.7,29.5
+OR,Oregon,Wallowa,41063,"7,674",34.2,12.6,20.4
+KS,Kansas,Trego,20195,"2,731",40.5,12.3,26.7
+FL,Florida,Collier,12021,"404,310",26.6,13.7,24.6
+OH,Ohio,Warren,39165,"252,148",32.6,11.0,20.4
+OK,Oklahoma,Grant,40053,"4,083",36.3,13.5,32.5
+VT,Vermont,Chittenden,50007,"169,481",22.7,6.6,14.1
+MN,Minnesota,Lac qui Parle,27073,"6,630",34.0,12.2,25.9
+GA,Georgia,Houston,13153,"171,974",39.7,13.1,24.8
+WY,Wyoming,Hot Springs,56017,"4,661",35.1,14.5,28.4
+NM,New Mexico,Valencia,35061,"79,141",35.4,14.6,29.0
+NC,North Carolina,Surry,37171,"71,462",40.9,13.7,28.8
+LA,Louisiana,Concordia,22029,"17,688",45.6,19.8,39.1
+WV,West Virginia,Morgan,54065,"17,649",39.2,16.8,33.4
+NM,New Mexico,Torrance,35057,"15,633",34.5,16.5,30.7
+MI,Michigan,Gratiot,26057,"41,368",36.7,11.6,26.3
+WA,Washington,Grant,53025,"102,678",38.7,11.5,25.3
+TN,Tennessee,Anderson,47001,"80,234",42.0,14.1,27.4
+MI,Michigan,Iron,26071,"11,740",39.0,15.3,28.5
+ID,Idaho,Gem,16045,"21,071",32.9,11.5,24.5
+TN,Tennessee,Haywood,47075,"17,328",46.6,20.7,38.7
+LA,Louisiana,Plaquemines,22075,"22,386",38.7,13.8,29.5
+GA,Georgia,Crawford,13079,"12,277",37.3,15.5,30.4
+WI,Wisconsin,Clark,55019,"34,774",37.9,12.5,33.5
+UT,Utah,Wasatch,49051,"37,144",24.3,8.4,16.8
+MO,Missouri,Jackson,29095,"718,560",37.2,12.1,30.9
+IA,Iowa,Muscatine,19139,"42,218",41.4,12.3,29.3
+VA,Virginia,Dinwiddie,51053,"28,343",40.7,14.7,27.9
+TX,Texas,Fisher,48151,"3,612",36.1,14.5,28.8
+VA,Virginia,Rockbridge,51163,"22,358",34.0,14.0,25.9
+MN,Minnesota,St. Louis,27137,"200,514",35.2,11.2,23.5
+TN,Tennessee,Macon,47111,"26,793",43.1,14.6,31.8
+MO,Missouri,Laclede,29105,"36,680",38.5,14.0,34.6
+ID,Idaho,Washington,16087,"11,425",33.4,14.5,29.1
+MN,Minnesota,Red Lake,27125,"3,911",38.6,12.0,26.6
+MO,Missouri,Schuyler,29197,"4,053",38.8,12.2,31.2
+GA,Georgia,Treutlen,13283,"6,341",41.2,18.3,37.8
+NC,North Carolina,Stokes,37169,"45,532",37.1,13.2,26.3
+IL,Illinois,Knox,17095,"48,411",39.2,13.5,27.5
+MO,Missouri,Miller,29131,"25,590",37.5,13.2,31.5
+MN,Minnesota,Lyon,27083,"25,427",37.9,11.0,24.9
+GA,Georgia,Haralson,13143,"32,038",36.2,12.6,26.9
+TX,Texas,Deaf Smith,48117,"18,347",40.7,16.4,39.8
+KS,Kansas,Crawford,20037,"38,764",36.8,11.2,27.5
+KS,Kansas,Wilson,20205,"8,382",39.8,13.8,30.1
+MO,Missouri,Cape Girardeau,29031,"82,984",34.7,11.2,28.4
+NC,North Carolina,Durham,37063,"336,892",36.1,10.5,21.6
+IN,Indiana,Fulton,18049,"20,358",41.7,14.6,28.7
+WV,West Virginia,Mercer,54055,"58,057",40.8,17.2,35.0
+IA,Iowa,Emmet,19063,"9,229",42.5,12.7,27.9
+TN,Tennessee,Sevier,47155,"99,415",38.4,14.4,27.2
+AR,Arkansas,Dallas,05039,"6,185",41.9,17.1,37.8
+AL,Alabama,Marshall,01095,"100,756",37.6,14.5,30.8
+AL,Alabama,Coffee,01031,"55,643",41.0,14.8,29.9
+NC,North Carolina,Forsyth,37067,"392,921",41.2,12.4,25.2
+AR,Arkansas,Ouachita,05103,"21,793",43.5,17.7,38.0
+CA,California,Inyo,06027,"18,527",28.2,12.4,22.9
+TX,Texas,Bexar,48029,"2,087,679",34.1,13.9,30.6
+IA,Iowa,Lyon,19119,"12,324",42.2,11.8,27.5
+NE,Nebraska,Loup,31115,592,36.4,13.5,27.2
+AK,Alaska,Aleutians West,02016,"5,160",31.9,10.8,25.2
+MO,Missouri,Worth,29227,"1,907",40.2,15.5,35.1
+TX,Texas,Menard,48327,"1,958",36.5,17.6,33.3
+VA,Virginia,Henry,51089,"49,702",41.9,18.0,33.1
+KS,Kansas,Stafford,20185,"3,909",41.0,13.1,29.4
+AL,Alabama,Tuscaloosa,01125,"237,373",41.0,12.0,25.9
+NY,New York,Steuben,36101,"92,162",34.8,11.5,26.2
+MS,Mississippi,Itawamba,28057,"24,093",36.2,12.2,31.8
+AR,Arkansas,Sevier,05133,"15,632",41.4,15.2,40.6
+MI,Michigan,Osceola,26133,"23,330",39.6,13.7,29.0
+WI,Wisconsin,Juneau,55057,"26,594",42.1,14.2,32.2
+WI,Wisconsin,Washburn,55129,"16,930",35.6,14.4,30.9
+CO,Colorado,Kit Carson,08063,"6,994",29.4,11.4,22.9
+NC,North Carolina,Buncombe,37021,"275,901",31.3,10.9,20.3
+IL,Illinois,Washington,17189,"13,536",36.8,11.7,22.4
+TN,Tennessee,McNairy,47109,"26,163",39.4,16.2,31.3
+NY,New York,Ulster,36111,"182,333",30.5,10.9,24.1
+TX,Texas,Newton,48351,"12,039",42.8,18.6,37.1
+GA,Georgia,Evans,13109,"10,754",42.4,16.8,35.2
+IA,Iowa,Sac,19161,"9,686",41.3,12.5,26.3
+MO,Missouri,Chariton,29041,"7,399",38.3,14.0,32.1
+MN,Minnesota,Wilkin,27167,"6,306",38.6,12.3,26.4
+MT,Montana,Jefferson,30043,"13,048",32.8,10.3,21.3
+LA,Louisiana,Beauregard,22011,"36,827",40.7,13.4,29.7
+GA,Georgia,Pierce,13229,"20,425",36.4,14.3,30.6
+SD,South Dakota,Butte,46019,"10,863",35.7,12.5,27.7
+FL,Florida,Orange,12095,"1,471,416",33.5,11.7,24.5
+IL,Illinois,Christian,17021,"33,228",38.1,12.3,25.5
+OK,Oklahoma,Blaine,40011,"8,539",38.3,14.3,33.2
+CO,Colorado,Cheyenne,08017,"1,727",28.8,11.3,21.2
+AK,Alaska,Prince of Wales-Hyder,02198,"5,696",38.4,14.0,26.5
+AZ,Arizona,Yuma,04027,"213,221",37.4,14.5,28.5
+WV,West Virginia,Lewis,54041,"16,500",40.3,16.9,34.7
+MN,Minnesota,Cook,27031,"5,639",35.3,12.9,24.0
+CA,California,San Mateo,06081,"726,353",22.3,10.6,20.2
+MT,Montana,Cascade,30013,"84,900",35.3,10.4,23.5
+TX,Texas,Upton,48461,"3,109",40.9,16.6,37.1
+FL,Florida,Alachua,12001,"285,994",30.9,10.5,21.0
+OR,Oregon,Tillamook,41057,"27,417",32.1,13.5,22.1
+GA,Georgia,Marion,13197,"7,440",38.6,18.7,34.5
+TX,Texas,Lipscomb,48295,"2,906",36.7,14.8,30.6
+VA,Virginia,Middlesex,51119,"10,924",37.8,16.5,27.2
+TX,Texas,Hunt,48231,"113,347",36.7,12.3,28.0
+IA,Iowa,Calhoun,19025,"9,763",39.8,12.3,26.5
+MN,Minnesota,Benton,27009,"41,600",41.5,10.2,23.8
+FL,Florida,Escambia,12033,"326,928",35.8,12.8,26.1
+AR,Arkansas,Clay,05021,"14,201",40.2,14.1,35.8
+SC,South Carolina,Anderson,45007,"213,076",36.3,13.3,26.4
+MT,Montana,Wheatland,30107,"2,057",32.0,13.0,26.8
+GA,Georgia,Jefferson,13163,"15,183",41.3,18.5,36.7
+NC,North Carolina,Lee,37105,"67,059",37.8,13.5,27.4
+MN,Minnesota,Nicollet,27103,"34,242",33.2,9.8,23.2
+KS,Kansas,Lane,20101,"1,529",36.6,13.1,28.4
+NC,North Carolina,Pender,37141,"68,521",36.3,11.8,22.1
+TX,Texas,Clay,48077,"10,738",34.9,13.2,26.4
+VA,Virginia,Nelson,51125,"14,705",35.2,15.6,27.3
+FL,Florida,Lafayette,12067,"8,078",34.7,14.6,31.6
+AK,Alaska,Kusilvak,02158,"8,001",46.5,16.5,37.0
+KS,Kansas,Johnson,20091,"622,237",31.2,9.4,19.3
+NC,North Carolina,Lenoir,37107,"54,895",42.4,17.8,34.2
+KS,Kansas,Grant,20067,"7,147",35.4,11.8,29.3
+WI,Wisconsin,Polk,55095,"45,762",35.6,12.4,27.0
+OK,Oklahoma,Washington,40147,"53,706",42.4,13.2,30.9
+NE,Nebraska,Sherman,31163,"2,983",41.4,13.7,29.8
+NE,Nebraska,Dixon,31051,"5,491",43.3,13.2,31.3
+VA,Virginia,Page,51139,"23,741",34.6,14.1,29.1
+ME,Maine,Kennebec,23011,"127,259",32.5,11.8,24.7
+OH,Ohio,Guernsey,39059,"38,089",38.3,14.8,32.5
+CT,Connecticut,Capitol,09110,"975,328",31.9,11.0,25.1
+TX,Texas,Mills,48333,"4,548",33.0,14.1,26.9
+MS,Mississippi,Rankin,28121,"160,417",36.6,12.1,27.2
+IL,Illinois,Mason,17125,"12,523",37.3,13.3,25.7
+WV,West Virginia,Cabell,54011,"92,082",44.1,14.9,31.1
+MO,Missouri,Phelps,29161,"45,284",34.6,11.7,29.1
+GA,Georgia,Whitfield,13313,"103,687",37.9,14.1,31.9
+ND,North Dakota,McKenzie,38053,"14,252",41.1,9.6,23.9
+VA,Virginia,Isle of Wight,51093,"40,711",36.6,13.8,24.0
+VA,Virginia,Botetourt,51023,"34,125",35.1,13.0,24.0
+TN,Tennessee,Campbell,47013,"40,223",42.6,15.7,32.3
+NY,New York,Genesee,36037,"57,529",30.2,10.7,24.8
+OH,Ohio,Columbiana,39029,"100,182",41.1,15.2,32.0
+CA,California,Nevada,06057,"102,037",27.5,11.5,20.4
+TN,Tennessee,Carroll,47017,"28,860",42.8,15.2,30.3
+MO,Missouri,Barton,29011,"11,731",40.7,15.2,35.8
+IN,Indiana,Sullivan,18153,"20,757",43.6,14.1,28.4
+ID,Idaho,Boise,16015,"8,517",31.9,12.1,22.6
+MS,Mississippi,Coahoma,28027,"20,077",46.4,21.8,42.8
+IL,Illinois,Jo Daviess,17085,"21,756",36.1,13.2,23.8
+TX,Texas,Grayson,48181,"146,907",33.9,12.5,27.4
+NH,New Hampshire,Coos,33007,"31,372",36.4,13.0,28.1
+NC,North Carolina,Cumberland,37051,"337,890",40.1,12.2,25.3
+IN,Indiana,Noble,18113,"47,430",39.6,13.2,26.9
+IL,Illinois,Richland,17159,"15,488",39.4,12.5,24.9
+TN,Tennessee,Fayette,47047,"44,175",39.0,15.9,26.8
+WI,Wisconsin,Brown,55009,"271,417",41.1,10.5,27.1
+OK,Oklahoma,Kiowa,40075,"8,398",42.7,16.6,36.4
+VA,Virginia,Buchanan,51027,"19,087",38.9,17.4,34.4
+SC,South Carolina,Marion,45067,"28,508",45.3,22.0,36.8
+GA,Georgia,Montgomery,13209,"8,761",39.4,15.4,31.5
+WV,West Virginia,Barbour,54001,"15,378",43.3,16.9,36.2
+OK,Oklahoma,Pawnee,40117,"15,864",39.7,14.3,33.3
+MD,Maryland,Frederick,24021,"293,391",34.7,10.6,20.1
+MS,Mississippi,Marshall,28093,"34,123",41.9,18.5,38.2
+NM,New Mexico,Los Alamos,35028,"19,444",25.4,8.0,13.5
+OH,Ohio,Ottawa,39123,"39,803",38.0,13.8,28.4
+CA,California,San Bernardino,06071,"2,195,611",33.3,12.1,26.3
+OH,Ohio,Lake,39085,"231,640",36.9,12.9,25.4
+ID,Idaho,Shoshone,16079,"14,026",36.1,13.5,28.1
+MS,Mississippi,Stone,28131,"18,756",41.0,14.0,33.2
+WV,West Virginia,Wyoming,54109,"20,277",44.6,18.7,39.9
+TN,Tennessee,Hickman,47081,"25,826",38.4,14.1,29.7
+GA,Georgia,Oconee,13219,"44,182",28.8,10.1,18.3
+GA,Georgia,Greene,13133,"20,722",33.7,15.6,26.8
+FL,Florida,Miami-Dade,12086,"2,686,867",29.5,15.4,32.5
+IN,Indiana,Clark,18019,"125,467",43.9,12.5,24.8
+CA,California,Sierra,06091,"3,200",32.5,15.3,27.3
+NC,North Carolina,Chowan,37041,"13,891",40.4,17.0,30.2
+WA,Washington,Pierce,53053,"928,696",36.9,10.6,19.0
+WV,West Virginia,Ritchie,54085,"8,167",42.9,17.9,38.3
+IA,Iowa,Washington,19183,"22,560",38.6,12.0,26.2
+OK,Oklahoma,McCurtain,40089,"30,660",42.6,15.5,36.5
+AZ,Arizona,Gila,04007,"54,003",31.4,15.0,27.4
+TX,Texas,Kenedy,48261,343,37.9,18.5,40.2
+MS,Mississippi,Copiah,28029,"27,664",41.8,18.2,37.3
+NY,New York,Queens,36081,"2,252,196",24.0,14.3,31.0
+KS,Kansas,Rush,20165,"2,830",38.7,13.9,30.7
+TX,Texas,Winkler,48495,"7,414",37.6,14.1,33.2
