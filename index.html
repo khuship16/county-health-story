@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>County Health in the United States</title>
+
+  <link rel="stylesheet" href="style.css">
+
+  <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+</head>
+
+<body>
+  <main class="page">
+    <header class="story-header">
+      <p class="eyebrow">CDC PLACES County Data</p>
+
+      <h1>How Physical Inactivity Relates to Obesity and Diabetes</h1>
+
+      <p id="status" class="subtitle">
+        Loading county records...
+      </p>
+    </header>
+
+    <section class="visualization-panel">
+      <div
+        id="chart"
+        role="img"
+        aria-label="Interactive county health scatterplot"
+      ></div>
+
+      <div id="tooltip" class="tooltip" hidden></div>
+    </section>
+
+    <nav class="story-navigation" aria-label="Story navigation">
+      <button id="previous" type="button">
+        Previous
+      </button>
+
+      <div id="scene-number" aria-live="polite">
+        Scene 1 of 3
+      </div>
+
+      <button id="next" type="button">
+        Next
+      </button>
+    </nav>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
